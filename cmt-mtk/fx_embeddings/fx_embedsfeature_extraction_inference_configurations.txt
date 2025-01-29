@@ -1,0 +1,12 @@
+
+[args]
+  Directory args (3)
+      - target_dir          : /Users/svanka/Codes/cambridge-mt_scrapper/audio/6(rock_metal)_data/Ale Lak: 'Nosso Mundo Deixou De Existir'
+      - output_dir          : /Users/svanka/Codes/cambridge-mt_scrapper/fx_embeds
+      - ckpt_path_enc       : /Users/svanka/Codes/music_mixing_style_transfer/weights/FXencoder_ps.pt
+  Inference args (3)
+      - segment_length      : 441000
+      - batch_size          : 1
+      - inference_device    : cpu
+
+

@@ -1,2 +1,6 @@
 audio/**
+/Users/svanka/Codes/cambridge-mt_scrapper/fx_embedsfeature_extraction_inference_configurations.txt 
+/Users/svanka/Codes/cambridge-mt_scrapper/fx_embeddings/FXencoder_ps.pt
+env/
+venv/
 
