@@ -1,0 +1,1798 @@
+ Horn
+ CymbalsOD
+ DrumsSnareUp
+BASS CAB   CU  copperhead   BAE 
+ Kick SFX
+ RIde
+ SaxophoneCloseMic
+ ElecPianoSFX
+ BassFX
+ HiHatRide
+Vocals Erica M
+ CymbalSwells
+Vocals Acoustic Guitar Proto
+AC GUITAR  
+ BackingVoxDT
+DRUM OH AR LANGEVIN.L
+LESLIE BOTTOM M
+ ElecGtra Mic
+ DrumsTom
+ Saxophone
+ PercLoop
+VOX AC GUITAR C GRACE
+ LeadVoxAccents
+Vocals Bone M
+ SFXLoop
+ LeadVoxMic
+ Drumkit RoomMono
+ BassClarinet
+ AcGtrDI
+ ElecGtra Close
+ RoomMono
+ Bulldozer
+ BassHi
+ SampleBrass
+ DoubleBass
+ Hat SFX
+ROOM STEREO L   C w TFUNK CK   Neve 
+ GlassBell
+ Clavinet
+ MIDIStrings
+DRUM Snare Top M SH
+GUITAR AMP    M
+ BackingVoxa
+ LeadVoxTapeEffect
+ ReversePiano
+ BackingVoxBr
+ DrumsSideR
+ FloorTom
+ OfficeAmbience
+BEATBOX ALTO B AK SSLE
+ LeadVox AltTake
+BASS   DI    API 
+Vocals BGV M
+ VoxSFX
+PIANO AK LANGEVIN.L
+ UkeleleMic
+ Loops
+ ViolaSamples
+ VoxGuitar
+VOX BG U 
+ LeadVoxCha
+ LeadVoxClose
+ HornsDT
+ RoomLoFi
+ BassPedals
+Mandolin Ela M 
+Chamber Ar
+Acoustic Guitar ELA M 
+ RunningAsiza
+ LeadVoxVs
+Vocals Bass Proto
+NBATG   acoustic guitar DI
+ Clicks
+ StringsPizz
+ MIDIViolin
+ BassAlt
+ Cowbell
+AH ALTO AK SSLE
+ Sax OD
+ Trumpet 
+DRUM Kick In M
+ CelloSamples
+ OverheadsIntro
+ELE Guitar Amp M
+DRUM RACK TOM M SSL DUALITY
+ELE Guitar AMP CU
+Lead Vox B (AKG ) 
+ Rhythm Gtr
+ ElecGtrLead
+ Bass AlternateTake
+DRUM OVERHEAD STEREO R   AR    Neve 
+Paul Amp M
+ Drumkit OverheadMono
+Strings Violin Active DI
+Drums Overhead L C
+ AcGtrReampFar
+Drums Kick in M
+ Idiophone
+ LeadVoxVsDT
+ ElecGtrDry
+Drums Kick Out CU
+ TreeChopFall
+Vocals Tim CU
+Vocals Lead Proto
+E GUITAR   M
+ CymbalWash
+AC GUITAR  CU SHADOWHILL.L
+DRUMS   Kick In   M SH
+ Tom 
+VOX MANDOLIN M GRACE
+ CellosAndBassesSpiccato
+ SaxMic
+ DrumKit
+ DrumsBreak
+ KickOut AlternateTake
+Vocals Keys Proto
+Drums Kick Out U
+ Dobro
+ Sleighbells
+BASS DI
+DRUMS  OH L M API
+ LeadVox
+ ElecGtrEbow
+BASS MIC  
+ Paliteo
+Bass Mic 
+ DrumsSansamp
+ Cymbal hit
+ ViolasB
+ Saxophones
+TOM  
+Vocals Paul CU
+ ElecGtrb Room
+ROOM A   AR    Chandler Germanium   Distressor
+ DrumkitClose
+ Beat
+Vocals BG Bass  M 
+LESLIE RIGHT   M
+GROUP VOCALS    U   BAE 
+Cello M
+ROOM AB    RIGHT
+ Diabara
+ SynthFX
+ PercChoirRibbons
+BANJO DI
+Vocals Lead M  
+ Strings Ensemble
+Vocals Vocal M
+ELE Guitar  Con AK
+ DoubleBassesB
+Drums Over TF
+ SpotMic Sopranos
+ MainPair MSDecoded
+ Conga Hi
+ DrumsRioom
+Vocals Adam Proto
+ Bass AlternatePart
+ SubBass
+ ElecGtrAltTake
+ NylonGtr
+Drums Overheads CU
+Drums Drum Shell U
+ IntroClose
+  Kt. HH
+ Bombek
+Backing Vox A (Korby KAT C ) 
+ DoubleBasses
+YAMAHA  
+ Cabasa
+Drums Kick Out TF
+GUITAR   AR    BAE 
+ Bass bip
+ BackingVos
+ DrumMic
+ KickBack
+ SnareSFX
+ACOUSTIC DI 
+ BassAmpRoom
+Acoustic Guitar M
+ Bassoon
+ LeadVoxc
+ SpotMic Altos
+ CymbalFX
+Mandolin Mic M
+ TrumpetSamples
+DRUM TOMS  M SH API
+ VocoderFX
+ Tambourine AlternateTake
+Drums Snare Bot M
+ Lead Vox
+ BassDIPedals
+ Cellos
+ Mellotron
+Drums Hat Ela M 
+DOBRO AR DAKING DISTRESSOR.R
+LESLIE LEFT   M
+ Whisper
+ PianoSpot
+SD DRUMS SNARE M SH API
+Drums Floor Tom CU
+ Knocking
+ ElecGtrb Amb
+ GtrMic
+ TimpaniRolls
+VOX    M
+Drums Over Head ELA M 
+ HarpHarmonics
+ SaxMic PeerArray
+ LyricalOctave
+ELE Guitar Proto
+ AcousticGtr RemixEdit
+Vocals Brian Proto
+ SampleSFX
+ Pianos
+ Sidestick
+ Synth
+ Kick
+MANDOLIN AK VINTECH  LAA
+ DrumsKick
+CHORUS VOCAL   U   BAE 
+ ViolasA
+ SnareOD Room
+ Beep
+ GtrcAmp
+Keys Juno PDI
+ KickSnare
+Drums Kick Out  CU
+ Timbales
+ RhodesFX
+Vocals Josh M
+ORGAN VOX ALTO U SSLE
+ Cellos MicPair
+Drums HAT Ela M 
+ Kick LiveRoom
+ Gtr VsDown
+ Psaltery
+ROOM LEFT   M
+ Snaps
+ VoxMid
+Percussion Overhead CU
+ BackingVoxb Singer
+Drums Snare M. 
+Keys  Passive DI
+Keys Piano  M
+ PercChoirMains
+ LeadVoxBr
+ VoxIntro
+Bass TDA 
+ Sticks
+  AcousticGtrMic
+ KickRoom
+ORGAN VOX TENOR AK SSLE
+ BackVox
+ DjembeFX
+VOX  M
+Bass Amp (prototype)
+Drums Side Snare M
+ VoxWhisper
+ Drumkit Cymbal
+ DnareDown
+OUTRO ALTO E SSLE
+Horns Sax Flute M
+ Soprano
+ Breathing
+ LeadVoxVsSFX
+ SopranoOD
+ DrumsSFX
+ OverheadsLayer
+DRUM Hi Hats M
+ AcousticGtrMics
+SAMPLER DI
+KEYS RIGHT   DI   LaChappel 
+ AcousticGtrDTReverse
+ SaxMic SpotMic
+ TomFX
+ PianoMicPair
+ LeadVoxDTMic
+ Theme
+PIANO CLOSE  .R
+ Timpani
+ Drumkit DrumsSquashMic
+ BassAmp
+ DrumFills
+ PianoInsideMics
+ Breaks
+Keys Passive DI
+VOX BG CU NEVE LB CLB
+ ElecGtr
+ CymbalSamples
+BR   DRUMS KICK M
+Vocals Amy M
+Fiddle M
+ Gtrb Mic
+ SnareUpMic
+SD BASS AMP CU LACHAPELL
+ Gidamba
+ ElecGtrMic
+ Drip
+ Pizz
+ SnareRolls
+ CloseMicLeft
+ Glockenspiel
+ BackingVoxCh
+ PianoHi
+ Drumkit SnareMic
+SNARE TOP M SH
+M LEFT
+DRUMS   TOM    M SH
+ BassDI
+ OverheadsTriggers
+Horns Bone Ela M 
+SD GUITAR M 
+ ElectroPercussion
+ Gtr RisePatch Dark
+Drums Tom M
+ DoubleBasses RemixAddition
+ StringsSFX
+ Strings Staccato
+ SynthPad
+ Narration
+Keys Amp M
+AH ALTO E SSLE
+ Drumkit Room
+SD DRUMS AK API
+ Rooms
+ ElecGtrDT
+ ShakerDT
+EGuitar TF 
+Keys Leslie M
+ CellosB
+ Drum Room
+GTR CON  
+ ExoDrum
+perc shaker. 
+ AcousticGtrb
+ Dulcimer
+Drums Kick M
+ LeadVoxFX
+ DrumsReverb
+ BagpipeDrones
+ MonoRoom
+ Synth RemixAddition
+Drums Floor Tom M
+NBATG   Room Mic LEFT   ELA M  (FET prototype)
+TOM  M SH
+ Fill
+ CongaMic
+Drums Overhead U
+Vocals BG Fiddle Proto
+ Trumpet
+VOX LD CU 
+ Synthd
+ CymbalRolls
+SAX B   AK mkII   Neve 
+Horns Trumpet Ela M 
+ SnareSquash
+Drums Over TF. 
+ BassDist
+ORGAN LESLIE TOP M SH.L
+ORGAN VOX ALTO CU SSLE
+VOX AC GUITAR M GRACE
+ ElectroChoir
+ Rainstick
+ LakeAmbience
+ LeadVoxHi
+ BackingVoxd
+ Clarinets
+ SpotPair Woodwind
+Vocals Geneva M
+VOX LD U 
+ BassMic PeerArray
+Horn Trumpet Ela M 
+ MIDITrombone
+Vocals Lead M
+ HatOpen
+ UkeleleDI
+Guitar Cu
+ HiHatClosed
+ FrenchHorn
+DRUM ROOM U API SmartC.L
+ OutroHit
+ GtrDI
+ ToyPiano
+ SquashMic
+Drums Over Far TF
+ Sample
+ HatClosed
+ Autoharp
+ Gtr VsSFX Light
+DRUM FLOOR TOM M SSL DUALITY
+ SnareRoom
+AC GUITAR M GRACE
+ DrumAmb
+NBATG   Snare   M
+KICK   U   API 
+ELE Guitar  Con CU
+ELE Guitar Con Mic AK
+ Dulcimers
+Percussion Tim M
+Vox Bass M
+ DrumsRoomMono
+HI HAT M
+ Guitalele
+Vocals Keys M
+Guitar Dave M
+ SynthBells
+ AcGtr
+ Gangs
+ LeadVoxChDT
+Drums Rack Tom M. 
+ SlecGtra Close
+OVERHEAD R M FET
+BARITONE SAX M API
+ CloseMicRight
+ Cimbassi
+ StumblingWood
+ Claves
+SN B  
+ KickInMic
+VOX MANDOLIN  GRACE
+ Percussion
+Shekere M 
+ TubularBells
+ SnareFills
+Drums Kick In M. 
+AH DBL ALTO AK SSLE
+Drums Snare bottom M
+VOCALS (live scratch) M    API 
+ LapSteelGtr
+ ThemeDT
+ Guasa
+ VoxAdLibs
+Bass M
+ SnareRimOD Overheads
+DRUM Kick I Beta  HARDLEY M A
+ Snare Drum
+ OverheadsMono
+ WoodwindStaccato
+ Sprinkles
+ Overhead
+DRUM OVERHEAD OH RIGHT CU GRACE
+ ElecGtrAmpSim
+ Spot Cello
+ StringsChoir
+ Glitch
+ DrumkitRoom
+VOX LEAD M
+ Reverse Cymbal
+Horns Sax  AK
+KEYS LEFT   DI   LaChappel 
+ AcGtrb CloseMic
+Drums Kick Out 
+ Loop Room
+ Snare SFX
+ StormSFX
+ Room Stereo
+ ElecGtrAmpMic
+DRUMS   HI HAT   ELA M 
+ SpotPair Piano
+ ReverseCymbalFX
+ Drumkit Hihat
+ Oboes
+ Cowbell 
+ Radio
+ LeadVoxAlt Untuned
+BASS   M
+Drums Overhead CU
+ BrassAndReeds
+ElE Guitar Dyn M
+TOM    M   API 
+ VinylNoise
+ HighwayAmbience
+ BackingVoxHarmonizer
+ CelloMIDI
+ Breath
+DRUMS   Overheads   M.L
+ KickBatter
+ Glup
+SD DRUMS ROOM M API
+Acoustic Guitar Leslie Ela M 
+ HammondLo
+Drums Over Ar
+Drums Over M
+HI HAT M FET
+ Gong
+ ReverseCymbals
+LESLIE TOP M SH
+ LeadVoxDT
+MOOG  
+Percussion Overhead M
+ ElecGtrb Mic
+KICK   M (stock version)   API 
+DRUM KICK I M SSL DUALITY
+ Shakers
+ELE GTR Dis M
+ DrumsRoomLoFi
+UPRIGHT BASS   DI   Neve 
+ BassMic LiveRoom
+ VoxSpot U
+ ViolinsA
+GUITAR VOX ALTO U SSLE
+ SnareAmb
+ BackingVox NoPitchProcessing
+ DrumMachine
+ StringsLoop
+ Vox Wet
+ PianoReverb
+ BackingVoxSubmix
+Keys Clav Proto
+NBATG   Bass Guitar DI
+ TomsCymbals
+BR   GUITAR M orange
+ Spot HighStrings
+KICK   U   Neve 
+ Conga MonoOverhead
+ ElecGtrMics
+DRUMS KICK M API
+ PartyWalla
+BASS DI  
+NBATG   Stage Lip   AR 
+ Loop
+ LeadVoxAltDT
+ Guiro
+ Clap
+ Hihat
+Guitar Dynamic Jon M
+ ElecGtrc Mic
+GUITAR ROOM   U   BAE 
+DRUMS   SNARE   M SH
+NORD ELECTRO R DI
+ DrumsSFXFar
+ Sax
+ Gtr SectionD Light
+SAX A   AK mkII   Neve 
+ BackingVox Untuned
+Bass Amp M. 
+SNARE TOP   M   API 
+ BackingVoxFemaleDT
+ELE Guitar Dyn Mic M
+ Drumkit Ride
+CONGA A M SH API
+ TambourineAmb
+ ElecGtrb DI
+ VocalSFX
+ KickPunch
+Djembe  M SH 
+ Taiko
+ AcGtrc Room
+CONGA B M SH API
+ Whistle
+Keys  Active DI
+ Pandeiro
+VOX DRUMS M
+BONE  
+ SnareOD SnareDown
+Guitar Msh
+ DrumsRoomFX
+ KickFront
+ Door
+Keys Active DI
+PIANO AK LANGEVIN.R
+ Rototom
+ Recordier
+Horns Bone Proto
+ VoxBanjo
+ FrenchHornSamples
+AC GUITAR  CU SHADOWHILL .R
+ GongSwell RemixAddition
+UKULELE E SSLE
+ BanjoMic
+ ViolinDI
+ CellosA
+ KickFar
+ TomSamples
+ Bongo
+DOBRO AR DAKING DISTRESSOR.L
+ Overheads RideOnly
+KEY RIGHT DI
+ Alto
+GUITAR   AK mkII   BAE 
+Drums Kick 
+Vocals Sax M
+ AsizaGiggles
+E GUITAR  M
+ HiHat AlternateTake
+K I  
+NORD R DI
+ Chug
+ AcGtra CloseMic
+BASS DI API
+ LeadDouble
+ DrumsWurstMic
+ SFXIntro
+ Strings
+ SaxBaritone
+GROUP VOCALS    C   BAE 
+ SnareSample
+ SaxAlto
+ ElecGtrAmp
+PERCUSSION MFET API
+CHAMBER  
+ OrchStabs
+Harp Amp TF 
+GUITAR   CU 
+ Keyboard
+Keys Leslie M. 
+DRUM KICK M API
+DRUMS   OVERHEAD LEFT   ELA M 
+DRUM OVERHEAD STEREO L   AR    Neve 
+ Clav
+ BackingVoxFX
+ LeadVoxAdLibs
+ DrumSamples Snare
+Vocals BG GTR Proto
+ Low Whistle
+BASS AK DAKING CLB
+ Gtr Solo
+ Drumkit SnareDown
+Vocals Lead U
+Vocals Steve U
+DJEMBE BOTTOM  SSLE
+Keys Leslie Top M
+ Pandero
+LEAD VOCALS   U   BAE 
+Room ELA M E
+Drums Floor Mic M
+ KickMain
+E GUITAR M CHANDLER TG CHANNEL
+ MainMics
+KEY LEFT DI
+ TomsOD Overheads
+Drums Overheads M
+ Violas
+ BackingVoxa Singer
+NBATG   Floor Tom   M
+ MIDIViolas
+ PianoStrings
+ Drumkit TrashMic
+ DrumsSFXClose
+ SnareRimOD Room
+Drums Floor Tom  M. 
+ELE Guitar  M
+ Triangle
+SNARE BOTTOM   M   API 
+ MainLoop
+ Ivo
+ HiHatSample
+ AccGtr
+ AcoustiGtr
+ GuitarMarimba
+Vocals Byron M
+KEYBOARD M API
+ ViolinSamples
+Guitar Condenser Tory Cu
+ELE Guitar Jesse Proto
+DRUM SNARE M SH API
+ Ukulele
+ ElecGtrFX
+ DI
+ RoomMic
+ LeadVoxDT Singer
+Drums Kick out AK
+Keys Moog DI
+ PianoLo
+ BassSub
+Bass DI
+Vocals BV M
+ DrumsRoomTriggers
+GTR  TF
+ Snarea
+ Trombones
+ Flugelhorns
+Bass Active DI
+ TomHi
+MANDOLIN M GRACE
+ HammondMicLo
+ ViolinsLegato
+Lead Vox A (AKG ) 
+Drums Sample Passive DI
+ BassGuitarAmp
+ KickOut
+ Laugh
+ SynthFill
+ CatSFX
+ BackingVoxWet
+ Drums
+ Telephone
+VOX   M
+ Stomp
+EGutiar    (Earthworks SR)
+Bass Mic AK
+ ElecPianoPad
+OVERHEADS M FET.L
+ ReverseStrings Mic
+ LeadVoxLo
+BR   DRUMS SNARE M chrome
+ Room Mono
+OVERHEAD L M FET
+ROOM B   AR    Chandler Germanium   Distressor
+NBATG   Kick   M
+ OverheadsStereo
+ Drums Snare
+ SnareOD TrashMic
+ LeadVoxChorus
+ Bassoons
+SD KEYS DI GRACE
+ Loop TrashMic
+Close Room M 
+Ele Guitar Amp CU
+OH RIGHT   CU  copperhead   BAE 
+ELE Guitar  Con AR
+Percussion M
+CHORUS VOCALS   C   BAE 
+ Tambourine
+ BackingVoxDist
+ KickODMic
+ Glock
+ ElecGtrd DI
+ BassMic
+Room L Ela M 
+ Bassa
+ Music
+DRUMS  OH R M API
+ EelcGtr
+VOX Cian M
+ Overheads
+ BassOD
+ BassSynth
+ SnareOD
+ LeadVoxChb
+DRUM Kick Out (prototype)
+Drums Aux Snare M. 
+ AccordionMic
+ TomTrigger
+Chamber M
+ ClassroomAmbience
+ Ride
+ LeadVoxDoubletrack
+Vocals Leslie  Ela M 
+ Overheads  
+ TenorOD
+ BassGuitarDI
+ Spot Violin
+Drums Rack Tom  M. 
+Drums Over Far Proto
+Horns Trumpet Msh
+ORGAN DBL VOX TENOR E SSLE
+ Snare LiveRoom
+Keys B M
+ LeadVoxDTLow
+ MobVox
+ ElecGtrc
+ LeadVoxFar
+ HiHatOD Overheads
+Vocals Sammi M
+DRUM HIHAT  SSL DUALITY
+ Flock
+ Gtr RisePatch Light
+TELEFUNKEN SoVoSo All Starts SINGER B
+ VibraSlap
+ AcousticGtrReverse
+Keys DI
+ DrumFill
+DRUM Rack Tom M SH
+ MIDIGuitar
+ BassSubSynth RemixAddition
+NORD L DI
+ SnareRing
+ SpotMic Tenors
+ Snared
+ Gtrb
+ Vibrophone
+ Bassc
+E GUITAR   AR    Presonus M
+ Gtr SectionD Dark
+BEATBOX TENOR AC SSLE
+ LeadVox Untuned
+ Chimes SFX
+ StringsPizzicato
+Drums Overhead ELA M
+ HammondHi
+ Trombone 
+ Accordian
+ SnareUp
+DRUMS   Kick Out   M
+ ClapSample
+ KickSampleRoom
+BR   DRUMS MPC
+perc toms . 
+DJEMBE TOP U SSLE
+ TapeHiss
+ ElecGtrRoom
+ StringsTunedMix
+ BackingVoxSFX
+ MIDISax
+ SnareSampleRoom
+Drums Overheads ELA M 
+ Brushes
+ SnareDown AlternateTake
+ FingerClicks
+ AcousticGtrDI
+Drums Floor M
+Drums Rack CU
+ Speech
+ LeadVoxDouble
+AC GUITAR CU 
+ SFXWet
+ Rhodes
+ BackingVoxb
+NBATG   Lead Vox   M
+ Tubas
+ CajonMic
+ Snarec
+ Accordion
+SCRACTCH AC GUITAR DI SSL DUALITY
+ Storm
+ Cymbal
+ VoxSpot R
+ Bells
+ SFXWolf
+ DrumsRoom Stereo
+Vocals Dave M
+Drums Room m. 
+RIDE   ELA M    BAE 
+ Gtrd Mic
+Drums Ride M
+DRUM OH AK SSL DUALITY.R
+ELE Guitar Clean M
+ Strings CellosCloseMic
+ Synth SFX
+ ArcoRhythm
+ElE Guitar Con AK
+ Vibraslap
+ Brass
+ Snaree
+ SidestickSample
+GUITAR   M (stock)   BAE 
+ Click
+ AcGuitar
+ Spot Vocals
+ELE Guitar Con AR
+ Rain
+ SynthMel
+ ShakerMono
+ Drums Kick
+ TambourineSample
+ELE Guitar  Dyn M
+ SnareSub
+ Anvil
+DISTANT ROOM RIGHT  AR STEREO GRACE
+ ViolasStaccato
+ Spot Viola
+ LoopDrums
+OH XY RIGHT   AR  STEREO   BAE 
+ FingerCymbals RemixAddition
+ DrumsSquashMic
+E GUITAR AR CHANDLER TG CHANNEL
+ CunonoSample
+ Bass
+ AsizaBreathing
+ Bombo
+ FluteLoop
+E GUITAR  M API
+ MandolinSFX
+ DrumRoom
+BANJO AK VINTECH 
+DRUM Snare Bottom M
+Vocals Keys M  
+Bass Amp U
+BANJO M GRACE
+ LeadVoxRaw
+ ViolaSoloDist
+Vocals Lead CU
+ LeadVoxDT NoPitchProcessing
+ WhistleMic
+Horns Sax M
+ DrumsKickOut
+ IntroFar
+ SynthSaw
+Drums Snare Top M
+ PercChoirOutrigs
+Drums Kick out CU
+SCRATCH VOX LD M SSL DUALITY
+ ElecGtrCloseMic
+Percussion Overhead AR
+DRUM SNARE B M HARDEY M DBX 
+Drums Chamber  AR
+LEAD VOCALS   AK kII   BAE 
+Backing Vox B (Korby KAT C ) 
+ CelloHarmLo Mix
+ Piccolo
+ Banjo
+Banjo CU
+ BassOverdrive
+ Cellos CloseMic
+DRUM Kick I M NEVE LB AUDIO ARTS EQ DISTRESSOR
+ TomLo
+ VoxMidAlt
+ Loop HiHat
+Keys Hammond M
+ MIDITrombones
+DRUM TOM  AKG  TOFT AFC
+ ReversedSnare
+BASS AMP CU LACHAPELLE
+ ChinaCymbal
+ Synthb
+ LeadVoxSFX
+ Traffic
+ Vocoder
+ VoxSample
+ ReverseSnare
+ Strings MicPair
+ SnareRimOD
+M RIGHT
+ PercussionLoop RemixAddition
+SD VOX GUITAR M 
+ Spot LowStrings
+ AcousticGtrCloseMics
+ PianoPad
+NBATG   Rhodes   DI
+Room ELA M
+ OverheadStereo
+GUITAR   CU  copperhead   BAE 
+ SidestickOD Tom
+ CelloBridge
+ROOM XY   AR  STEREO
+ Heartbeart
+ BassSwell
+ KickAmb
+ORGAN LESLIE BOTTOM M
+Keys Organ Active DI
+ KickMic
+Vocals Clean M
+ Gtr SectionC Light
+ SnareTrigger
+ OrganSFX
+ Drumkit Overhead
+ROOM RIGHT   M
+SD DRUMS HAT M API
+NBATG   OH Ride   ELA M 
+ Xylophone
+BR   SYNTH Virus
+ DrumsRoomOD
+ RackTom
+ ReverseCymbal
+ Vox SFX
+ Kicksnare
+Vocals BG Trumpet M
+Keys Nord DI
+EGuitar    (Palmer PDI)
+ ElecGtrd
+GUITAR M (M instrument prototype)   BAE 
+ CymbalSFX
+OH LEFT   CU  copperhead   BAE 
+ MainPair
+LEAD VOCALS   ELA M    BAE 
+PIANO ROOM AR .R
+AC GUITAR DI SSL DUALITY
+ Harmonica
+ SnareSide
+ SnareOver
+ Strings SectionMic Vla
+ BassSlideAmp
+ ElecGtrb Amp
+ AcousticGtr
+ Pair FrontMS
+Drums Overhead Ela M 
+DRUM Floor Tom  M
+ Drumkit Tom
+ KickSide
+PIANO ROOM AR .L
+Bass Active DI. 
+Drums Overhead AR
+Drums Hat M
+ORGAN LESLIE TOP M SH.R
+ DrumsKickIn
+LD VOX ALTO A AC SSLE
+DRUM OH AR LANGEVIN.R
+ Noise
+ BassFlutes
+VOX LD AR 
+ LeadVoxScratch
+ LeadVoxOD UncompedTake
+ PedalSteel
+Drums Snare top M
+ Timbale
+ ElecGtrDIDT
+Vocals LEAD M
+BASS DI SSLE
+AC GUITAR AR 
+ MusicBox
+ Strings SectionMic Cello
+ WhisperDT
+ROOM A   Beyer Dynamic    Neve 
+ Synthc
+Guitar Craig M
+Drums Floor  M
+PIANO A   ELA M    Neve 
+Keys Juno Passive DI
+Dun Dun Set TF 
+DRUM OH C SSL DUALITY.L
+DRUM OH C SSL DUALITY.R
+LD VOX SOPRANO A  SSLE
+ HammondMicHi
+AH SOPRANO U SSLE
+Horns Bari M
+E GUITAR CU CHANDLER TG CHANNEL
+ OrchestraHit
+ SynthFiddle
+ SynthChoir
+ DrumLoop
+ KickSnareFX
+ BackingVoxe
+NORD ELECTRO L DI
+BASS SYNTH DI SSLE
+OH XY LEFT   AR  STEREO   BAE 
+ Tambo
+SD DRUMS KICK M API
+ BackingVoxClose
+Ele Guitar Amp M
+ GuitarFar
+ORGAN VOX TENOR E SSLE
+ BackingVoxMaleSubmix
+ Hat 
+ Trumpets
+Acoustic Guitar Guitar M
+Guitar M
+ BassMIDI
+ RomanWarDrum
+GUITAR   M SH
+ Overheads CymbalsOnly
+TROMBONE A   AR    Neve 
+Room AR
+ VoxDry
+ Claps SFX
+ Synth PitchModulated
+ BackingVoxf
+ Drumkit Toms
+ DrumsRoomMono CymbalsOnly
+Keys Hammond Bottom CU
+Drums Kick Out Cu
+ROOM AR
+Drums Floor M. 
+ Chimes
+Drums Snare M
+ CymbalsOD Room
+ ViolinSolo
+NBATG   Backing Vox   M
+ LoopSFX
+Vox Guitar M
+ AcousticGtrMic
+Drums HAT  Ela M 
+ KickBass
+ LeadVox IsoBooth
+BR   VOX M purple
+ Synth Unmodulated
+Drums Mono Over AR
+ DrumsSLR
+ VoxSpot VU
+ PianoMics
+Vocals BG Sax M
+Drums Room M
+ DrumsRoomClose
+Vocal Trevor M
+VOX LD AK VINTECH LAA
+NBATG   Room Mic RIGHT   ELA M  (FET prototype)
+ SampleVox
+ Fiddle
+ Subbass
+ Cartoon SFX
+ Hammond
+Mandolin DI
+ DrumsAmb
+ KickLayer
+TELEFUNKEN SoVoSo All Stars SINGER A
+ Marimba
+ RoomStereo
+SD BASS DI LACHAPELL
+ELECTRIC GUITAR  M SH
+ MellotronFlute
+ROOM AB    LEFT
+ CelloSolo
+ ViolaSoloRaw
+Drums Overhead Ar
+ SFX Guiness
+ BassGtrDI
+ ReverseSFX
+ CelloHarmLo Mic
+ PercSolo CloseMic
+AH DBL SOPRANO U SSLE
+ Celesta
+Bass Mic M
+ ElecGtrD
+ SynthStrings
+ Claps
+Keys Whirly Amp M
+ SynthDry
+ORGAN RIGHT   M SH
+ DrumsFloorTom
+ LeadVoxCh
+ELE Guitar Shelf Mic AR
+ LeadVox Edited
+ Congas
+Vocals Main M
+Vocals Dan M
+Drums Overheads AR
+ Guaracha
+  Snare
+Strings Violin M
+ WoodwindRuns
+ GtraDI
+PANO B   ELA M    Neve 
+ MainPair AB
+ SteelTongueDrum
+LD VOX ALTO B E SSLE
+ SynthWet
+ Llenties
+ Bass Amp
+ Piano LiveRoom
+ SnareDTDown
+ Organ
+ Sub Bass
+ ElecGtrFar
+ Maracas
+TROMBONE M API
+ MainXYPair
+Vocals BG M
+ SaxophoneRoom
+Vocals Nick M
+ MIDITrumpet
+ BackingVox Singer
+VOX Mikaela Harp M
+Acoustic Guitar Active DI
+ Scream
+ LeadVoxHarm
+ Room CymbalsOnly
+ SubDrop
+SD DRUMS TOM  M SH API
+ Mandolin
+BR   BASS M blue
+VOX BG C 
+Drums WVO  AR
+ELE Guitars Jon M
+Horns Bone M
+ KickSub
+ TomRoll
+ ForestAmbience
+ Doublebasses
+ ElecGtrSFX
+Keys Leslie BOT M
+ELE Guitar Con CU
+ PizzBass
+Drums Overheads Ela M 
+ TomeSample
+ Gunshot
+ROOM LEFT M API
+ Flute
+ OboeBassoon
+Vocals BG Keys M  
+ PercussionSFX
+DRUMS SNARE M API
+ BassLayer
+Drums Snare Bottom M
+ BrassStaccatoLo
+ Voicemail
+ ThemeCounter
+ HandBells
+ HandClaps
+ AcGtrReampClose
+Horns Bone Wet M
+BASS AMP CU API
+ MalaysianDjembe
+VOX Shane M
+ CelloMic
+ TomsOD Room
+Vocals GTR M
+HI HAT   ELA M    API 
+NBATG   Backing Vox    M
+ BassBI
+Percussion Conga M
+Vocals EFX Shure DX
+VOX GUITAR  M
+ LeadVoxDTs
+ BassSFX
+ Tamb
+TAMBORINE CU API
+ HiHatIntro
+ ElecGtrMicDI
+BEATBOX GROUP OMNI  SSLE
+ LeadVox Raw
+ LeadvoxAccents
+ LeadVoxAlt
+ ViolaMIDI
+ GtrAmp
+ TomSample
+Keys Moog PDI
+ELE Guitar Mike Proto
+ Strings Soli
+ PanderoDT
+HAM B  
+ ViolasTrills
+ BrassCrescendo
+AH DBL SOPRANO CU SSLE
+ DrumsAmbience
+ ClimbingTree
+ CymbalSwell RemixAddition
+ HammondLeslieLo
+LESLIE LOW   M
+ BassGtrAmp
+OUTRO SOPRANO U SSLE
+ BackingVoxDT Singer
+BR   SYNTH Moog
+PIANO B   ELA M    Neve 
+ KickTop
+BASS DI 
+ Farfisa
+DRUMS TOM  M API
+ CymbalRoll
+Vocals Banjo Proto
+Drums Over Head M
+ Viola
+ ViolinsB
+ BackingVoxFemale
+ ShakerStereo
+DRUM Kick O Yamaha Sub HARDEY M DBX A
+Drums Rack Tom Proto
+K O  
+ BellPiano
+ Bell Sample
+ Piano
+ ViolinMic
+ ContraBassoon
+Vocals ELE Guitar M
+ ElecGtrDIMic
+ SFXLaugh
+VOX KEYS M
+ OutriggerPair
+SD DRUMS HALL AR API
+ CymbalSwell
+VOX LD E 
+ DrumsLeakage
+ DrumkitOverheads
+ PianoOutsideMics
+ROOM AR  (CARDIOID)
+ DrumsRoomMonoFX
+ Drumkit OverheadsStereo
+ELE Guitar Dis M
+ Drum
+Vocals Guitar Proto
+ AcousticGtrDT
+KEY DI
+Vox Jamie M
+ RimShot
+ Decks
+ PianoDI
+ PianoAndStrings
+Harp DI
+Horns Tenor AR
+Dun Dun Extra  M 
+ELE Guitar Con M
+Drums Kick Out Proto
+ Pad
+ Conga
+Percussion Bongo M
+Keys Melodica C
+UKULELE  SSLE
+ Reversed Cymbal
+Drums Overhead R C
+Drums Over Close Ela M 
+LD VOX SOPRANO B U SSLE
+DRUM OVERHEAD OH LEFT CU GRACE
+ Drumkit HiHat
+Keys Hammond Top M
+ Drumkit RoomStereo
+LD VOX ALTO B AK SSLE
+BEATBOX SOPRANO CU SSLE
+ AcGtrMic
+Acoustic Guitar Proto
+ HarpSFX RemixAddition
+ELA M  AC 
+ DrumsSnareDown
+ Drumkit Snare
+ Rde
+ ElecGtra DI
+ SlideGtr
+ Stomps
+NBATG   Hi Hat  ELA M 
+ SnareOD SnareUp
+Dun Dun   M 
+ Hi Hat
+ Guitar
+ AcousticGtrAmp
+ELE Guitar Dyn M
+Horns Sousaphone M
+ HHat
+ Strings SectionMic VlnI
+ROOM B   Beyer Dynamic    Neve 
+Vocals Mando Proto
+ AsizaSobbing
+DRUMS   Snare   M SH
+ GuarachaCumbia
+Horns Trumpet ELA M 
+OVER  
+ AcousticGtrFX
+LD VOX SOPRANO A AK SSLE
+ LeadVoxDoubles
+Horns Trumpet  ELA M 
+ADLIB TENOR CU SSLE
+  AcousticGtrDI
+SHAKER CU API
+KEYS DI.R
+KICK   M (new instrument prototype design)   API  
+ Woodblock
+ VoxBothSFX
+ Conga Room
+ DrumsRoomStereo CymbalsOnly
+ HiHatOD
+ Drumkit SnareUp
+ BassGuitar
+ Drumkit KickIn
+ ToyCar
+ SnareCymbals
+ LeadVoxa
+Keys Synth DI
+ KickFX
+ ElecGtrDTDI
+ Clarinet
+ Violin
+ LeadVoxDuet
+ Bongos
+ PianoRoom
+Tracks Active DI
+NBATG   OH Hi Hat   ELA M 
+SCRATCH VOX ALTO M SSLE
+ HiHatOpen
+ China
+OH LEFT   ELAM    BAE 
+ Cunono
+Vocals Trumpet M
+  HiHat
+ ViolinMIDI
+ Daiko
+ Vox
+DRUM SNARE B M SSL DUALITY
+ DrumsRoom
+ BassSlideDI
+ DrumsRide
+ StumblingGrass
+ SnareAndCymbal
+ NoiseSweep SFX
+ Hand Claps
+LD VOX ALTO A U SSLE
+Drums Hat ELA M 
+ BassAmpDist
+Vocals Will M
+ RevCymb
+FIDDLE  NEVE LB CLB
+ PianoMic
+ ElecGtra
+ Pair OverheadORTF
+Vocals Mike Proto
+ SynthArp
+  
+DRUM ROOM U API SmartC.R
+Keys  DI
+ DrumSamples Cymbals
+ORGAN DBL VOX ALTO U SSLE
+SCRATCH VOX BG M SSL DUALITY
+ RevCrash
+ Snareb
+ EelcGtrDT
+ Synths
+Keys Toy Piano ELA M 
+ Gtr VsUp
+ AcGtr Mic
+OUTRO SOPRANO CU SSLE
+SD VOX BONE M 
+ DoubleBassesA
+ LeadvoxDT
+ BassLo
+ ElecGtrb Fuzz
+ SnareDTUp
+ VoxFX
+DRUM FAT HEAD MILLENIA HV 
+Vocals Drums M
+ DrumSamples Toms
+AC GUITAR  CU SHADOWHILL .L
+Wide Room  TF 
+ Fills
+ BrassStaccatoHi
+ SynthBass
+ KickIn
+ Drumkit KickBeater
+ Keys
+ LoopPercussion
+Acoustic Guitar ADI
+ MetalHit
+Bass Amp AK
+ DrumSamples HiHat
+Violin C
+Drums Room L CU
+ Llamador
+ Kck
+ ElecDrum
+Paul DI
+LD VOX SOPRANO B AC SSLE
+ BackingVoxc
+ Flutes
+ AltoSaxMic
+LD VOX ALTO A CU SSLE
+Drums Rack Tom M
+TRUMPET A   AR    Neve 
+ Whispers
+SD VOX LEAD M 
+ Scratch
+ Vibes
+Guitar Condenser Jon Cu
+ROOM D   Beyer Dynamic    Neve 
+BANJO CU VINTECH 
+ Strings SectionMic Vln
+Drums Rack  M
+ Heartbeat
+ Spot Bass
+Bell  TF  
+Keys Nord  Active DI
+ROOM MS mid cardioid AR  STEREO
+ AsizaRunningSnow
+Vocals BG Bass M
+ TomsOD Tom
+Keys Piano ADI
+DRUMS   OVERHEAD RIGHT   ELA M 
+ AdLibs
+ SoloViolin
+ SnareUnder
+ Toms 
+Bell Drum TF  
+ GuitarClose
+AH DBL ALTO E SSLE
+TENOR  
+ MIDIGtr
+ADLIB GROUP OMNI U SSLE
+ SnareMic
+SNARE BOTTOM M
+Vocals Kevin Proto
+ Srtings
+ MandolinMic
+ SnareDrum
+Drums Kick Out Proto 
+Drums Chamber AR
+DRUM KICK O U SSL DUALITY
+GTR  M
+Drums Kick Out AK
+VOX   
+ DrumsSideL
+Keys Hammond Passive DI
+Horns Bone AR
+Bass Amp CU
+Drums Chamber M
+ HallPair
+DRUMS   Overheads   M.R
+ SampleHarp
+ ViolinsStaccato
+Drums Hat ELA M
+ SanreSample
+ Overheads AlternateTake
+Drums Overhead ELA M 
+ CymbalsOD Overheads
+ DrumsRoomStereo RideOnly
+NORD  
+DRUM TOM M SH API
+ Syntha
+ SnareDown
+ Snare 
+DRUM OH TF Stereo Set
+ KickIn AlternateTake
+ Hat
+ SleighBells
+ FrenchHorns
+ Vox Dry
+ HammondLeslieHi
+ Cello
+ DrumsRoomFar
+ ElecGtrDTMic
+ ElecGtrc DI
+ Conga Lo
+ HammondRaw
+Vocals  M
+ DoubleBassSamples
+ BackingVox Tuned
+Horns Bone ELA M 
+Keys MiniNova L Passive DI
+ Cachapas
+ LeadVoxHarmDT
+SD VOX TRUMPET M 
+ Shaker
+DISTANT ROOM LEFT  AR STEREO GRACE
+ TomSnareSamples
+TROMBONE B   AR    Neve 
+ BackingVoxFar
+ AcousticGtrFarMics
+ KickSFX
+Aco Guitar ELA M 
+ BassTrombones
+ ElecGtrMc
+Horn Tenor M
+PIANO CLOSE  .L
+GTR DYN  
+ CrashSFX
+ORGAN DBL VOX ALTO CU SSLE
+DRUM Ride M
+ Djembe
+Drums Overhead M
+ SaxophoneFarMic
+ Overheads LiveRoom
+BASS U
+ Euphoniiums
+Horns Bari AR
+Bass Mic Ak
+ Tuba
+ Crash
+LD VOX SOPRANO A E SSLE
+ Leadvox
+ORGAN LEFT   M SH
+Vocals Erica Proto
+ Lightning
+ROOM D   AR    Chandler Germanium
+ LyricalDT
+ AcousticGtra
+Vocals BG Bass Proto
+ Drumkit KickOut
+ TomUp
+Keys Rhodes ADI
+ Snare
+ WinterForestAmbience
+ DrumsRoomStereoIntro
+ KickClose
+ Tom
+ ElecGtra Amp
+ VoxPitchSFX
+ KickTrigger
+ Violins
+ DrumkitLayer
+ LeadVox Tuned
+ NoiseSweep
+ SFXHit
+ TomOD
+ Gtra Mic
+NBATG   Rack Tom   M
+ Footsteps
+ELE Guitar Proto 
+BEATBOX GROUP OMNI U SSLE
+KICK M
+ELE Guitars Troy M
+ BassSansamp
+Drums Kick Out  Proto
+ Hit
+ ElecGtrClose
+ SynthSFX
+ TimpaniHits
+ SfX
+ Stylophone
+ Violas RemixAddition
+ SaxTenor
+Percussion  M
+ Conga StereoOverheads
+ GtrbAmp
+ BassAmpMic
+ KickBeater
+ Clonk
+ TromboneBass
+Keys Leslie Bottom M
+Keys CP Active DI
+Acoustic Guitar Ela M 
+ RunningRobert
+Vocals Lead Wet M
+Harp Amp M
+ ElecGtrb
+ Gtrc Mic
+ Toms LiveRoom
+ SteelPans
+ DrumsRoomStereo
+ Crashes
+perc toms room. 
+ AltoOD
+ Wurlitzer
+DRUMS   KICK M
+ SampleChoir
+DRUMS   TOM   M SH
+ BagpipeChanter
+DRUMS   FLOOR TOM   M SH
+TRUMPET B   AR    Neve 
+Drums Room R CU
+ BackingVox
+ADLIB ALTO A AK SSLE
+ROOM STEREO R   C w TFUNK CK   Neve 
+UPRIGHT BASS   ELA M    Neve 
+Dun Dun  M 
+ ElecGtrDI
+DRUM SNARE T M AVALON  DISTRESSOR
+DRUM HIHat  PURPLE BIZ
+ OverheadMono
+ CelloBassLo Mic
+ FiddlesMic
+Horns Sax Proto
+ Lyrical
+ RhodesSFX
+ PercSolo FarMicPair
+ BackingVoxMic
+ ElectroHit
+ORGAN DBL VOX TENOR AK SSLE
+ Basses
+ Drumkit KickSub
+ Gtra
+BASS CAB   U   BAE 
+VOX   M SH
+ EthnoFlute
+ LeadVoxOverdub
+ DrumsOverheads
+ADLIB ALTO B E SSLE
+ROOM C   Beyer Dynamic    Neve 
+Keys Yamaha DI
+ Harp
+NBATG   Electric Guitar   M
+ ImpactDrums
+ DrumsPZM
+TRUMPET M API
+ Gtr VsSFX Dark
+Drums SPD SX Passive DI
+ Trombone
+ PianoMid
+DRUM ROOM CELLING CROWN PZM HARDEY M
+HAM TOP  
+Drums Mono Over CU
+Keys B Low M
+ Gtr
+ DrumLoop 
+ SnareFX
+DJEMBE TOP AR SSLE
+VOX BASS M
+ Saxophone LiveRoom
+ Bassb
+ LeadfVox
+Keys Wurli Active DI
+ CymbalSample
+ BassCloseMic
+ ElecGttDT
+ Orchestra
+ RevCymbal
+ RhodesRaw
+BEATBOX ALTO A E SSLE
+OUTRO ALTO AK SSLE
+ LeadVoxb
+ DrumsOverhead
+LD VOX ALTO B  SSLE
+Horns Tenor M
+DRUM SNARE T M SSL DUALITY
+Drums Tom M Samp
+ADLIB SOPRANO AC SSLE
+LD VOX SOPRANO B CU SSLE
+GROUP VOCALS   C   BAE 
+ BassFuzz
+ Sitar
+ Drumkit Overheads
+AC GUITAR  CU SHADOWHILL.R
+ HiHatSFX
+ SnareDelay
+ SpotMic Basses
+ Cajon
+Room R Ela M 
+ Tom AlternateTake
+ Intro
+ PianoSFX
+ Clave
+ SidestickOD Overheads
+ DrumsSnare
+ LeadVoxDTAdLib
+ ElecPiano
+Horns Trumpet M
+Acoustic Guitar Lead Ela M 
+ SFXDry
+DRUM OH AK SSL DUALITY.L
+ DrumsRoomStereo TomsOnly
+ LeadVox Singer
+ DrumsLeakage AlternateTake
+ TriangleAndChimes
+ BrassDrop
+ TambourineRoom
+ Impact
+ Guache
+ Choir
+ Bell
+VOX  
+DRUM ROOM   U    BAE 
+ DrumkitTom
+Vocals Bass M
+ Alarm
+ SynthStabs
+Drums HAT M
+ORGAN LOW   M
+ Cymbals
+ DrumsCrush
+ROOM C   AR    Chandler Germanium
+ MainPair DominantArray
+ CellosLegatoAndTrills
+ BassMic SpotMic
+ Rimshot
+ SFX
+Dun Dun  M  
+GUITAR VOX ALTO CU SSLE
+OH RIGHT   ELAM    BAE 
+Room U
+ Toms SFX
+ LeadVoxRoom
+ BassDI LiveRoom
+Bass Amp M
+SN T  
+ROOM RIGHT M API
+ DrumsConga
+ LeadVoxDTWhisper
+ELE Guitar TF
+SD DRUMS TOM M SH API
+ BassTrombone
+ Gtr SectionC Dark
+ Didgeridoo
+ VoxDT
+FIDDLE AK VINTECH  LAA
+ DrumsHiHat
+ SteelPansDT
+ELE Guitars Ignater M
+ StringsMix
+ LeadVoxKiddie
+ SynthLead
+ELE Guitar M
+Drums Kick In M
+OVERHEADS M FET.R
+ ClapsRoom
+ MIDIChoir
+ SnareUp AlternateTake
+LEAD VOX   U   Neve 
+ Drumkit Kick
+ADLIB GROUP OMNI  SSLE
+ RhodesDry
+Keys KORG SV DI
+ ElecGtt
+ LeadVox NoPitchProcessing
+Acoustic Guitar AR
+AH SOPRANO CU SSLE
+ Toms
+Acoustic Guitar Steve CU
+ Room
+ SynthDT
+ ToyHelicopter
+ HiHat
+Blumlein AR
+Keys Keyboard ELA M 
+BR   DRUMS HIGH HAT M gold
+ Timp
+ GtrRevSFXMic
+TIm amp M
+ BassDrum
+Drums Rack M
+ SubHit
+Vocals BV  M
+Room Piano U
+Guitar Dynamic Tory Msh
+Bell Drum Close M 
+ PercChoir MicPair
+ Break
+ROOM MS side figure  AR  STEREO
+Drums Ride ELA M
+ DrumsVerb
+ELE Guitar Clean TF
+ ElecGtrRoomMic
+ CelloHarmHi Mic
+Keys MiniNova R Passive DI
+Vox oooooo M
+ TomDown
+ Ukelele
+ ElecGtrDTAmp
+ BassPedal
+Drums Mono CU
+ Kalimba
+ KickSample
+KEYS DI.L
+Drums Floor Tom Proto
+ DrumsSquash
+ PianoSynth
+Bass Amp TF
+Room M
+ SubBoom
+KICK   U   LaChappel Tfunk V  series tube pre
+ Bass DI
+ KickSsmple
+ DrumsRoom AlternateTake
+Bass DI TDA 
+ DrumsRoom Mono
+ Horns
+SNARE M SH

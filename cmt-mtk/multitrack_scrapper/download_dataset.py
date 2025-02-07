@@ -1,3 +1,4 @@
+
 import os
 import requests
 import shutil
@@ -6,6 +7,7 @@ from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor
 import zipfile
 import time
+import glob
 
 
 def download_file_part(url, start, end, part_index, output_path, progress_bars):
@@ -96,6 +98,9 @@ def handle_track_download(row, dl_dir, full, preview, excerpt, excerpt_preview, 
     track_name = row["Track Name"]
     track_folder = os.path.join(dl_dir, track_name)
     os.makedirs(track_folder, exist_ok=True)
+    if len(glob.glob(track_folder + '/*')) == 4:
+        print(f"Track {track_name} already downloaded.")
+        return
 
     # Subfolder paths
     subfolders = {

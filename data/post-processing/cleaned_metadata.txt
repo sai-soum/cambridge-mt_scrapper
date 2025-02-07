@@ -1,0 +1,14161 @@
+ KickIn
+ KickOut
+ KickSub
+ KickSample
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ DrumsRoom
+ Tom
+ Tom
+ Tom
+ Tom
+ Cymbal
+ Gong
+ Bass
+ AcousticGtrFX
+ ElecGtr
+ ElecGtr
+ Strings
+ Strings
+ Strings
+ Trumpets
+ FrenchHorns
+ Euphoniiums
+ Cimbassi
+ BassTrombones
+ Tubas
+ Tubas
+ Piano
+ Choir
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Drums
+ SFX
+ Bass
+ Kalimba
+ Organ
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Intro
+ Kick
+ Snare
+ HiHat
+ HiHat
+ Claps
+ Chimes
+ Cowbell
+ Vibraslap
+ Percussion
+ Percussion
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ Organ
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Toms
+ Overheads
+ SFX
+ SFX
+ SFX
+ Bass
+ ElecGtra
+ ElecGtrb
+ ElecGtr
+ Synth
+ LeadVox
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ BackingVox
+Bass Active DI
+Bass Amp AK
+Drums Chamber AR
+Drums Floor Tom M
+Drums Kick In M
+Drums Kick Out CU
+Drums Overhead ELA M 
+Drums Overhead U
+Drums Rack Tom M
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar  Con CU
+ELE Guitar  Dyn M
+Horns Sax M
+Keys  Passive DI
+Keys Passive DI
+Vocals Bass M
+Vocals Drums M
+Vocals Will M
+ Kick
+ KickSample
+ Snare
+ SnareSample
+ Tom
+ Tom
+ Overheads
+ Room
+ Tambourine
+ Shaker
+ Bass
+ Bass
+ AcousticGtr
+ AcousticGtr
+ Dulcimer
+ Dulcimer
+ ElecGtr
+ ElecGtr
+ SFX
+ SFX
+ SFX
+ SFX
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ KickSub
+ Snare
+ HiHat
+ Clap
+ Clap
+ Taiko
+ SteelTongueDrum
+ Cymbal
+ Cymbal
+ Shaker
+ Shaker
+ Percussion
+ Percussion
+ Percussion
+ SFX
+ SFX
+ SFX
+ Glitch
+ Glitch
+ TapeHiss
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ KickIn
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ HiHat
+ Overheads
+ Cymbal
+ DrumsRoom
+ SnareDTUp
+ SnareDTDown
+ Tambourine
+ Clap
+ Clap
+ Clap
+ VibraSlap
+ SFX
+ Bass
+ Piano
+ Piano
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Harp
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BassMic
+ BassMic
+ ElecGtrMic
+ ElecGtrAmp
+ ElecGtrAmp
+ AcousticGtr
+ Accordion
+ Violin
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ SFX
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Cymbal
+ Gong
+ Bells
+ BassDrum
+ Timpani
+ Bass
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ Choir
+ Choir
+ Organ
+ Synth
+ Synth
+ Synth
+ Piano
+ Drums
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ Synth
+ SynthDT
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Overheads
+ DrumsSquashMic
+ DrumsRoom
+ Bongos
+ ClapSample
+ Maracas
+ BassDI
+ AcousticGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ Wurlitzer
+ Hammond
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ AcousticGtr
+ AcousticGtrDI
+ Saxophone
+Bass Amp (prototype)
+Bass DI TDA 
+DRUM Floor Tom  M
+DRUM Hi Hats M
+DRUM Kick In M
+DRUM Kick Out (prototype)
+DRUM OH TF Stereo Set
+DRUM Rack Tom M SH
+DRUM Ride M
+DRUM Snare Bottom M
+DRUM Snare Top M SH
+GTR  M
+GTR  TF
+GTR  M
+GTR  TF
+Harp Amp M
+Harp Amp TF 
+Harp DI
+ROOM MS mid cardioid AR  STEREO
+ROOM MS side figure  AR  STEREO
+VOX Cian M
+VOX Mikaela Harp M
+VOX Shane M
+DRUMS   Kick In   M SH
+DRUMS   Kick Out   M
+DRUMS   Overheads   M.L
+DRUMS   Overheads   M.R
+DRUMS   Snare   M SH
+DRUMS   TOM   M SH
+DRUMS   TOM    M SH
+GUITAR   CU 
+GUITAR   M SH
+KEY DI
+ORGAN LEFT   M SH
+ORGAN LOW   M
+ORGAN RIGHT   M SH
+ROOM LEFT   M
+ROOM RIGHT   M
+VOX   M SH
+ Kick
+ KickSub
+ Snare
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ Room
+ Shaker
+ Shaker
+ BassDI
+ BassAmp
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ Hammond
+ LeadVox
+ Claps
+ SubHit
+ Bass
+ Ukulele
+ Ukulele
+ SFX
+ Vox
+ Vox
+ VoxPitchSFX
+ VoxPitchSFX
+ Vox
+ Vox
+ Vox
+ Kick
+ Snare
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ BackingVox
+ BackingVox
+ Kick
+ Kick
+ Loop
+ Shaker
+ ReverseCymbal
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtr
+ AcousticGtrReverse
+ AcousticGtrDT
+ AcousticGtrDTReverse
+ CelloMic
+ CelloMic
+ CelloMic
+ CelloMic
+ CelloMic
+ CelloMic
+ LeadVox
+ LeadVoxDT
+ Loop
+ Loop
+ Kick
+ Snare
+ Claps
+ HiHat
+ HiHat
+ SFX
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Vox Dry
+ Vox Wet
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ DrumsRoom
+ Tom
+ Tom
+ Tom
+ Bass
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ Hammond
+ Trumpet
+ Trumpet
+ Trumpet
+ MIDITrombone
+ LeadVox
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Overheads
+ Room
+ TambourineSample
+ CymbalsOD Overheads
+ CymbalsOD Room
+ HiHatOD
+ HiHatOD Overheads
+ SnareRimOD
+ SnareRimOD Overheads
+ SnareRimOD Room
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Piano
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Overhead
+ BassDI
+ ElecGtr
+ Piano
+ Trumpet
+ Trumpet
+ Trumpet
+ Trumpet
+ SaxAlto
+ SaxAlto
+ SaxTenor
+ SaxTenor
+ SaxBaritone
+ Trombone
+ Trombone
+ Trombone
+ Trombone
+ LeadVox
+ DrumLoop
+ Djembe
+ Percussion
+ Cowbell
+ Cymbals
+ Bass
+ Piano
+ Flute
+ Guitar
+ GuitarMarimba
+ Synth
+ StringsChoir
+ Trombones
+ Trumpets
+ Vox
+ KickTrigger
+ KickTrigger
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ OverheadsTriggers
+ DrumsRoom
+ DrumsRoomTriggers
+ TomTrigger
+ TomTrigger
+ TomTrigger
+ BassDI
+ BassAmp
+ BassDI
+ BassAmp
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtr
+ ElecGtrDT
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ AcousticGtrMic
+ AcousticGtrMic
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ Snare
+ Snare
+ Clap
+ Clap
+ HiHat
+ HiHat
+ Shaker
+ Cymbal
+ Ride
+ Loop
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ Synth
+ Synth
+ Horns
+ LeadVox
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Percussion
+ Percussion
+ Cymbals
+ Bass
+ Piano
+ ElecPiano
+ Marimba
+ Synth
+ Synth
+ Synth
+Bass Active DI
+Bass Amp CU
+Drums Floor Tom M
+Drums HAT M
+Drums Kick In M
+Drums Kick Out AK
+Drums Overheads ELA M 
+Drums Rack  M
+Drums Rack Tom M
+Drums Room M
+Drums Side Snare M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar  M
+ELE Guitar  M
+Vocals  M
+Vocals BV M
+Vocals LEAD M
+ Intro
+ Kick
+ Kick
+ KickSample
+ Snare
+ SnareSample
+ Tom
+ Tom
+ Tom
+ Tom
+ HiHat
+ Ride
+ Cymbals
+ Overheads
+ DrumsRoomStereo
+ DrumsRoomStereo
+ DrumsRoomMono
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxFX
+ BackingVox
+ BackingVox
+ Whisper
+ Speech
+ Kick
+ KickSample
+ SnareUp
+ SnareDown
+ SnareSample
+ Overheads
+ TomSample
+ TomSample
+ BassDI
+ BassFX
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Synth
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Kick
+ Snare
+ TomHi
+ TomLo
+ Overheads
+ RoomStereo
+ RoomMono
+ BassDI
+ BassAmp
+ Gtr
+ Gtr
+ Gtr
+ Gtr
+ Gtr
+ Gtr
+ Gtr
+ GtrDI
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Loop
+ Loop
+ Kick
+ Kick
+ Snare
+ Clap
+ Bongos
+ Shaker
+ Cymbal
+ SFX
+ Bass
+ Piano
+ Synth
+ Synth
+ Synth
+ SynthFX
+ Synth
+ Kick
+ Kick
+ Snare
+ Snare
+ Clap
+ Shaker
+ HiHat
+ Ride
+ Crash
+ Crash
+ Crash
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SynthSFX
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ SnareAndCymbal
+ Hat
+ Cymbal
+ Bass
+ BassAlt
+ Mandolin
+ MandolinSFX
+ Mandolin
+ Mandolin
+ Mandolin
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ Strings
+ Synth
+ Synth
+ Piano
+ Piano
+ LeadVox
+ LeadVoxDT
+ LeadVoxAlt
+ LeadVoxAltDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ SnareMic
+ SnareMic
+ HiHat
+ Ride
+ Cymbal
+ Cymbal
+ DrumsRoom
+ TomSample
+ TomSample
+ TomSample
+ Loop
+ Click
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecPiano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Overheads
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Hammond
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ Kick
+ Kick
+ Kick
+ Clap
+ Congas
+ Gidamba
+ Diabara
+ Percussion
+ HiHat
+ HiHat
+ Snare
+ Snare
+ Snare
+ Crash
+ Ride
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ BassLayer
+ BassLayer
+ BassLayer
+ BassLayer
+ BassLayer
+ BassLayer
+ BassLayer
+ BassLayer
+ BassLayer
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Strings
+ Piano
+ Piano
+ Piano
+ PianoStrings
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Drums
+ Drums
+ Bass
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ ElecGtr
+ ElecGtr
+ Vox
+ Vox
+ VoxDT
+ Vox
+ Vox
+ Vox
+ Kick
+ HiHat
+ HiHat
+ Claps
+ SFX
+ SFX
+ Shakers
+ Bass
+ Synth Unmodulated
+ Synth PitchModulated
+ Synth
+ Kick
+ Snare
+ HiHat
+ Ride
+ Overheads
+ Tom
+ Tom
+ Tom
+ Bass
+ AcousticGtr
+ AcousticGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ ElecPiano
+ Hammond
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+Acoustic Guitar Ela M 
+Banjo CU
+Bass Active DI
+Bass M
+Mandolin Ela M 
+Room AR
+Violin C
+Vocals Acoustic Guitar Proto
+Vocals Banjo Proto
+Vocals Bass Proto
+Vocals Mando Proto
+ KickIn
+ KickOut
+ Snare
+ Tom
+ Tom
+ Overhead
+ Overhead
+ BassDI
+ Synth
+ ElecGtrMic
+ ElecGtrMic
+ Gong
+ Piano
+ Kick
+ KickSub
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ BassDI
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Brass
+ Doublebasses
+ Choir
+ Choir
+ Organ
+ Piano
+ TubularBells
+ KickSample
+ KickSample
+ SnareUp
+ SnareDown
+ HiHat
+ HiHat
+ Ride
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoomMono
+ DrumsRoomStereo
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ Leadvox
+ BackingVox
+ Kick
+ Kick
+ KickSample
+ SnareUp
+ SnareDown
+ SnareSample
+ SnareSample
+ HiHat
+ HiHatSample
+ Tom
+ TomSample
+ Tom
+ TomSample
+ Tom
+ TomSample
+ Overheads
+ DrumsRoom
+ BassDI
+ BassOverdrive
+ BassFuzz
+ BassSynth
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Synth
+ Synth
+ Synth
+ Synth
+ Piano
+ SFX
+ SFX
+ LeadVox
+ LeadVoxHarm
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ Kick
+ KickSample
+ Snare
+ SnareSample
+ Tom
+ Tom
+ Tom
+ HiHat
+ Overheads
+ DrumsRoom
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ Kick
+ Kick
+ SnareUp
+ SnareDown
+ SnareSample
+ HiHat
+ Ride
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ Tom
+ TomSample
+ Tom
+ TomeSample
+ Tom
+ TomSample
+ CymbalSample
+ BassDI
+ BassAmp
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrD
+ ElecGtrMic
+ ElecGtrMic
+ SynthStrings
+ SynthChoir
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ MainXYPair
+ CloseMicLeft
+ CloseMicRight
+ BassDrum
+ OutroHit
+ TimpaniHits
+ TimpaniRolls
+ SnareDrum
+ Cymbals
+ TriangleAndChimes
+ Bells
+ Piano
+ Harp
+ Xylophone
+ Glockenspiel
+ Basses
+ CellosAndBassesSpiccato
+ CellosLegatoAndTrills
+ ViolasStaccato
+ ViolasTrills
+ ViolinsLegato
+ ViolinsStaccato
+ BrassStaccatoHi
+ BrassStaccatoLo
+ BrassCrescendo
+ Tuba
+ Trombones
+ Horns
+ Horns
+ Trumpets
+ WoodwindStaccato
+ WoodwindRuns
+ ContraBassoon
+ Bassoon
+ Clarinet
+ Oboes
+ Flutes
+ Piccolo
+ DrumsKickIn
+ DrumsKickOut
+ DrumsSnareUp
+ DrumsSnareDown
+ DrumsHiHat
+ DrumsRide
+ DrumsFloorTom
+ DrumsOverheads
+ DrumsRoom
+ DrumsAmb
+ DrumsAmb
+ DrumsAmb
+ DrumsKickIn
+ DrumsKickOut
+ DrumsSnareUp
+ DrumsSnareDown
+ DrumsHiHat
+ DrumsRide
+ DrumsFloorTom
+ DrumsOverheads
+ DrumsRoom
+ DrumsAmb
+ DrumsAmb
+ DrumsAmb
+ Tambourine
+ BassDI
+ BassAmp
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVoxScratch
+ LeadVoxOD UncompedTake
+ LeadVoxOD UncompedTake
+ LeadVoxOD UncompedTake
+ LeadVoxOD UncompedTake
+ LeadVoxOD UncompedTake
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Tom
+ Overheads
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ Snare
+ Tom
+ Tom
+ Tom
+ HiHat
+ Ride
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVox
+ KickIn
+ KickOut
+ KickOut
+ KickSub
+ SnareUp
+ SnareDown
+ Overhead
+ BassAmp
+ BassDI
+ Piano
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ LeadVoxMic
+ LeadVoxMic
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxMic
+ BackingVoxMic
+ Percussion
+ Woodblock
+ TomsCymbals
+ Bass
+ Piano
+ Vibes
+ Strings
+ Strings
+ FrenchHorns
+ LeadVox
+ Loop
+ Kick
+ Kick
+ Snare
+ HiHat
+ BassSynth
+ BassSub
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Sample
+ Sample
+ Sample
+ OrchStabs
+ OrchStabs
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ VoxMid
+ VoxMid
+ VoxMid
+ VoxMid
+ VoxMidAlt
+ VoxMidAlt
+ VoxMidAlt
+ VoxMidAlt
+ VoxMidAlt
+ VoxMidAlt
+ VoxAdLibs
+ VoxAdLibs
+ VoxSFX
+ Kick
+ SnareUp
+ SnareDown
+ Tom
+ OverheadMono
+ OverheadsStereo
+ DrumsRioom
+ Tambourine
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtr
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ Kick
+ KickSample
+ Overheads
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Tambourine
+ Cachapas
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ BackingVoxSFX
+ BackingVoxSFX
+ BackingVoxSFX
+ BackingVoxSFX
+ BackingVoxSFX
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Overheads
+ DrumsRoomStereo
+ DrumsRoomMono
+ KickODMic
+ KickODMic
+ KickODMic
+ Stomp
+ Claps
+ Claps
+ Claps
+ Claps
+ Guiro
+ SFX
+ SFX
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtrDT
+ ElecGtr
+ Harmonica
+ Harmonica
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Tom
+ Overheads
+ Bass
+ ElecGtr
+ ElecGtr
+ LeadVox
+ BackingVox
+ Kick
+ Kick
+ Snare
+ Snare
+ CymbalSFX
+ HiHatSFX
+ Loop
+ Breaks
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ BassLo
+ BassHi
+ Bass
+ Bass
+ Bass
+ Bass
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVoxa
+ LeadVoxb
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ VoxSFX
+ VoxSFX
+DRUM OVERHEAD STEREO L   AR    Neve 
+DRUM OVERHEAD STEREO R   AR    Neve 
+KICK   U   LaChappel Tfunk V  series tube pre
+E GUITAR   AR    Presonus M
+PANO B   ELA M    Neve 
+PIANO A   ELA M    Neve 
+ROOM A   AR    Chandler Germanium   Distressor
+ROOM B   AR    Chandler Germanium   Distressor
+ROOM C   Beyer Dynamic    Neve 
+ROOM D   Beyer Dynamic    Neve 
+ROOM STEREO L   C w TFUNK CK   Neve 
+ROOM STEREO R   C w TFUNK CK   Neve 
+SAX A   AK mkII   Neve 
+SAX B   AK mkII   Neve 
+TROMBONE A   AR    Neve 
+TROMBONE B   AR    Neve 
+TRUMPET A   AR    Neve 
+TRUMPET B   AR    Neve 
+UPRIGHT BASS   DI   Neve 
+UPRIGHT BASS   ELA M    Neve 
+ Kick
+ Snare
+ Tom
+ Tom
+ OverheadsStereo
+ OverheadMono
+ Shaker
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Stylophone
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ Loop
+ Loop
+ Loop
+ HiHat
+ Congas
+ Percussion
+ SFX
+ VinylNoise
+ VinylNoise
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrSFX
+ ElecGtrSFX
+ Strings
+ Piano
+ ElecPiano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ Kick
+ KickSample
+ Snare
+ SnareSample
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SynthSFX
+ Piano
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ VoxSample
+ Kick
+ Snare
+ Hat
+ Ride
+ Overheads
+ Overheads
+ Tom
+ Tom
+ Tom
+ BassAmp
+ BassDI
+ Gtr VsDown
+ Gtr VsUp
+ Gtr VsSFX Dark
+ Gtr VsSFX Light
+ Gtr VsSFX Dark
+ Gtr VsSFX Light
+ Gtr SectionC Dark
+ Gtr SectionC Light
+ Gtr RisePatch Dark
+ Gtr RisePatch Light
+ Gtr SectionD Dark
+ Gtr SectionD Light
+ Gtr Solo
+ Gtr Solo
+ Hammond
+ Hammond
+ Hammond
+ Hammond
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Tom
+ Overheads
+ Bass
+ BackingVox
+ ElecGtra
+ ElecGtrb
+ LeadVox
+ KickMic
+ KickMic
+ SnareUp
+ SnareDown
+ HiHat
+ Toms
+ Overheads
+ DrumsRoom
+ Tambourine
+ Bass
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ HammondHi
+ HammondLo
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickMic
+ KickMic
+ KickSample
+ SnareUpMic
+ SnareUpMic
+ SnareDown
+ SnareSample
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ AcousticGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ Synth
+ Synth
+ Synth
+ Storm
+ Piano
+ Piano
+ Lightning
+ SFX
+ LeadVox
+ LeadVox
+ LeadVox
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ Drumkit KickIn
+ Drumkit SnareUp
+ Drumkit Overhead
+ Bass
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ Clavinet
+ Synth
+ Synth
+ Synth
+ MIDIStrings
+ MIDIGuitar
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxSFX
+ BackingVoxa
+ BackingVoxb
+ BackingVox
+ BackingVoxa
+ BackingVoxb
+ BackingVox
+ BackingVox
+ BackingVoxa
+ BackingVoxb
+ BackingVoxa
+ BackingVoxb
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxa
+ BackingVoxb
+ BackingVoxc
+ BackingVoxa
+ BackingVoxb
+ BackingVoxc
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxa
+ BackingVoxb
+ BackingVoxa
+ BackingVoxb
+ BackingVoxa
+ BackingVoxb
+ BackingVoxc
+ Kick
+ Snare
+ Overheads
+ Tom
+ Tom
+ Tom
+ Tom
+ Bass
+ AcousticGtr
+ AcousticGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ BackingVox
+ BackingVox
+ HiHat
+ Bass
+ Bass
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ Organ
+ SynthLead
+ SynthLead
+ SynthLead
+ SynthLead
+ SynthLead
+ SynthLead
+ SynthLead
+ SynthLead
+ Kick
+ SnareUp
+ KickSnare
+ Overheads
+ RoomMic
+ Tom
+ Tom
+ Tom
+ BassDI
+ BassAmpMic
+ BassAmpMic
+ ElecGtr
+ ElecGtr
+ Piano
+ Piano
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ Snare
+ Overheads
+ Toms
+ BassMic
+ BassDI
+ Piano
+ ElecGtr
+ Sax
+ LeadVox
+ Kick
+ Kick
+ Kick
+ Kick
+ Kick
+ Snare
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ Break
+ Break
+ SampleSFX
+ SampleSFX
+ SampleSFX
+ SampleSFX
+ SampleSFX
+ Bass
+ ElecGtra Mic
+ ElecGtrb Mic
+ ElecGtrc Mic
+ ElecGtrd DI
+ ElecGtra Mic
+ ElecGtrb Mic
+ ElecGtrc DI
+ ElecGtr
+ ElecGtra DI
+ ElecGtrb Fuzz
+ Keys
+ Keys
+ Keys
+ Keys
+ SampleBrass
+ SampleBrass
+ SampleBrass
+ SampleChoir
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Loop
+ Loop
+ Kick
+ Kick
+ Snare
+ Snare
+ Cymbal
+ SFX
+ Bass
+ AcousticGtr
+ AcousticGtr
+ Piano
+ Synth
+ LeadVox
+ LeadVox
+ LeadVox
+ Kick
+ KickSample
+ SnareSample
+ Tom
+ Tom
+ Tom
+ Cymbal
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ Piano
+ Piano
+ Choir
+ Organ
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ Woodblock
+ Cymbals
+ Timbales
+ SFX
+ SFX
+ Bass
+ Bass
+ BassSub
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ VoxWhisper
+ VoxWhisper
+ VoxAdLibs
+ VoxAdLibs
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ SnareRing
+ Tom
+ Tom
+ HiHat
+ Ride
+ Overheads
+ Drum Room
+ SFX
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ ElecGtr
+ ElecGtrDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ VoxDT
+ VoxDT
+ Vox
+ Kick
+ Overheads
+ BassDI
+ BassAmp
+ PianoInsideMics
+ PianoOutsideMics
+ LeadVox
+ Kick
+ Kick
+ Snare
+ Snare
+ Hat
+ Ride
+ Crash
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ SynthBass
+ SynthBass
+ SynthBass
+ SynthBass
+ SynthArp
+ SynthArp
+ SynthArp
+ SynthArp
+ SynthStabs
+ SynthStabs
+ SynthPad
+ SynthPad
+ SynthPad
+ SynthPad
+ SynthMel
+ SynthMel
+ SynthMel
+ SynthMel
+ SynthMel
+ SynthMel
+ SynthMel
+ SynthMel
+ SynthMel
+ Organ
+ Organ
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+Chamber M
+Drums Floor M
+Drums Kick In M
+Drums Kick Out Proto 
+Drums Overhead Ela M 
+Drums Rack M
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+Ele Guitar Amp CU
+Ele Guitar Amp M
+Keys Organ Active DI
+Keys Wurli Active DI
+Vocals BV M
+Vocals BV M
+Vocals Lead U
+ Kick
+ Kick
+ Kick
+ Ride
+ Snare
+ Snare
+ Snare
+ Snare
+ HiHat
+ HiHat
+ HiHat
+ Claps
+ Toms
+ Claps
+ Cymbal
+ SFX
+ BassSynth
+ BassSynth
+ BassSynth
+ BassSynth
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecPiano
+ ElecPiano
+ ElecPiano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SFX
+ SFX
+ Piano
+ Strings
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+Drums Floor M
+Drums Hat M
+Drums Kick In M
+Drums Kick Out TF
+Drums Overhead U
+Drums Rack Tom M
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar TF
+Horn Trumpet Ela M 
+Keys  Active DI
+Keys Active DI
+Strings Violin Active DI
+Strings Violin M
+Vocals BG Bass M
+Vocals BG Trumpet M
+Vocals Guitar Proto
+Vocals Keys Proto
+ Kick
+ Snare
+ HiHat
+ Toms
+ Cymbals
+ DrumsRoomStereo
+ DrumsRoomMono
+ SubHit
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ OrganSFX
+ Organ
+ Organ
+ Organ
+ Synth
+ Synth
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ Kick
+ Snare
+ Overhead
+ BassDI
+ ElecGtr
+ Piano
+ Trumpet
+ Trumpet
+ Trumpet
+ Trumpet
+ SaxAlto
+ SaxAlto
+ SaxTenor
+ SaxTenor
+ SaxBaritone
+ Trombone
+ Trombone
+ Trombone
+ TromboneBass
+ Loop
+ Loop
+ Kick
+ HiHat
+ Claps
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Kick
+ SnareUp
+ SnareDown
+ Overheads
+ DrumRoom
+ Tom
+ Tom
+ BassDI
+ BassAmpMic
+ BassAmpMic
+ ElecGtra
+ ElecGtrb
+ ElecGtrc
+ ElecGtrd
+ ElecGtra
+ ElecGtrb
+ ElecGtrc
+ ElecGtrd
+ ElecGtra
+ ElecGtrb
+ ElecGtrc
+ ElecGtrd
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ CelloMic
+ CelloMic
+ AcousticGtrMic
+ AcousticGtrMic
+ LeadVox
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Ride
+ Tom
+ Tom
+ Overheads
+ Conga
+ Conga
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtrDT
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtr
+ ElecGtrDT
+ Piano
+ Strings
+ Kick
+ Snare
+ TomHi
+ TomLo
+ Overheads
+ Room
+ BassDI
+ Gtr
+ Gtr
+ Gtr
+ GtrDI
+ GtrDI
+ GtrAmp
+ CelloBridge
+ CelloBassLo Mic
+ CelloBassLo Mic
+ CelloHarmLo Mic
+ CelloHarmLo Mix
+ CelloHarmHi Mic
+ CelloHarmHi Mic
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Tom
+ Overheads
+ BassMic
+ BassDI
+ Piano
+ Trumpet
+ LeadVox
+ Drums
+ Bass
+ ElecPiano
+ AcGuitar
+ LeadVox
+ LeadVox
+ BackingVoxFemale
+ BackingVoxFemaleDT
+ BackingVoxFemaleDT
+ BackingVoxFemale
+ BackingVoxFemaleDT
+ BackingVoxFemaleDT
+ BackingVoxFemale
+ BackingVoxFemaleDT
+ BackingVoxFemaleDT
+ BackingVoxMaleSubmix
+ KickIn
+ KickOut
+ KickBeater
+ KickTrigger
+ SnareUp
+ SnareDown
+ SnareTrigger
+ HiHat
+ RIde
+ TomUp
+ TomDown
+ TomTrigger
+ TomUp
+ TomDown
+ TomTrigger
+ Overheads
+ DrumsRoom
+ DrumsRoomOD
+ BassDI
+ BassDist
+ BassAmp
+ BassAmp
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ KickInMic
+ KickInMic
+ KickOut
+ SnareUp
+ SnareDown
+ SnareUp
+ SnareRoom
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoomStereo
+ DrumsRoomMono
+ BassDI
+ BassAmp
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrDTAmp
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ADLIB ALTO A AK SSLE
+ADLIB ALTO B E SSLE
+ADLIB GROUP OMNI  SSLE
+ADLIB GROUP OMNI U SSLE
+ADLIB SOPRANO AC SSLE
+ADLIB TENOR CU SSLE
+AH ALTO E SSLE
+AH ALTO AK SSLE
+AH DBL ALTO E SSLE
+AH DBL ALTO AK SSLE
+AH DBL SOPRANO CU SSLE
+AH DBL SOPRANO U SSLE
+AH SOPRANO CU SSLE
+AH SOPRANO U SSLE
+BASS SYNTH DI SSLE
+BASS DI SSLE
+BEATBOX ALTO A E SSLE
+BEATBOX ALTO B AK SSLE
+BEATBOX GROUP OMNI  SSLE
+BEATBOX GROUP OMNI U SSLE
+BEATBOX SOPRANO CU SSLE
+BEATBOX TENOR AC SSLE
+DJEMBE BOTTOM  SSLE
+DJEMBE TOP AR SSLE
+DJEMBE TOP U SSLE
+GUITAR VOX ALTO CU SSLE
+GUITAR VOX ALTO U SSLE
+LD VOX ALTO A AC SSLE
+LD VOX ALTO A CU SSLE
+LD VOX ALTO A U SSLE
+LD VOX ALTO B E SSLE
+LD VOX ALTO B  SSLE
+LD VOX ALTO B AK SSLE
+LD VOX SOPRANO A E SSLE
+LD VOX SOPRANO A  SSLE
+LD VOX SOPRANO A AK SSLE
+LD VOX SOPRANO B AC SSLE
+LD VOX SOPRANO B CU SSLE
+LD VOX SOPRANO B U SSLE
+ORGAN DBL VOX ALTO CU SSLE
+ORGAN DBL VOX ALTO U SSLE
+ORGAN DBL VOX TENOR E SSLE
+ORGAN DBL VOX TENOR AK SSLE
+ORGAN VOX ALTO CU SSLE
+ORGAN VOX ALTO U SSLE
+ORGAN VOX TENOR E SSLE
+ORGAN VOX TENOR AK SSLE
+OUTRO ALTO E SSLE
+OUTRO ALTO AK SSLE
+OUTRO SOPRANO CU SSLE
+OUTRO SOPRANO U SSLE
+SCRATCH VOX ALTO M SSLE
+SHAKER CU API
+TAMBORINE CU API
+TELEFUNKEN SoVoSo All Starts SINGER B
+TELEFUNKEN SoVoSo All Stars SINGER A
+UKULELE E SSLE
+UKULELE  SSLE
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Overheads
+  
+ DrumsRoomStereo
+ DrumsRoomMono
+ Percussion
+  
+ DjembeFX
+ Bass
+ Rhodes
+ ElecGtrClose
+  
+ ElecGtrFar
+ AcousticGtr
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Loop
+ Bass
+ Choir
+ Piano
+ Rhodes
+ Rhodes
+ LeadVox
+ Kick
+ Snare
+ HiHat
+ Tom
+ Tom
+ Overheads
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Speech
+ KickMic
+ KickMic
+ Snare
+ HiHat
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ Piano
+ Kick
+ Kick
+ SnareUp
+ SnareDown
+ SnareSample
+ Tom
+ Tom
+ HiHat
+ Overheads
+ DrumsRoom
+ ReverseCymbal
+ Bass
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ KickSub
+ SnareUp
+ SnareDown
+ Hihat
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ BassDI
+ BassMic
+ GtrMic
+ GtrMic
+ GtrMic
+ GtrMic
+ GtrMic
+ GtrMic
+ GtrDI
+ LeadVox
+ Kick
+ Kick
+ Snare
+ Snare
+ Tom
+ Tom
+ HiHat
+ Shaker
+ SubDrop
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ RevCrash
+ Crash
+ Crash
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Kick
+ Kick SFX
+ Kick
+ Kick
+ Kick
+ Kick SFX
+ Kick SFX
+ SubBoom
+ Snare
+ Snare SFX
+ Snare 
+ Snare SFX
+ Snare 
+ Snare
+ Snare
+ Snare SFX
+ Snare SFX
+ Snare SFX
+ Claps SFX
+ Claps SFX
+ Claps
+ Claps
+ Claps SFX
+ Hat 
+ Hat 
+ Hat
+ Hat SFX
+ Hat SFX
+ Toms SFX
+ Toms SFX
+ Toms 
+ Bongo
+ Shaker
+ Shaker
+ Chimes SFX
+ Chimes
+ Clave
+ Cowbell 
+ Cartoon SFX
+ NoiseSweep
+ NoiseSweep
+ NoiseSweep
+ NoiseSweep SFX
+ NoiseSweep SFX
+ Bass
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth SFX
+ Synth
+ Synth SFX
+ Synth
+ Synth
+ Synth SFX
+ Synth SFX
+ Syntha
+ Synthb
+ Synthc
+ Synthd
+ Synth SFX
+ Synth SFX
+ Synth SFX
+ Synth SFX
+ Synth SFX
+ Synth
+ Piano
+ Vox SFX
+ Vox SFX
+ Vox SFX
+ Vox
+ DrumsKick
+ DrumsSnare
+ DrumsHiHat
+ DrumsOverheads
+ DrumsTom
+ DrumsTom
+ DrumsConga
+ DrumsOverheads
+ BassMic
+ BassMic
+ AcGtrDI
+ AcGtrMic
+ Accordion
+ Clarinet
+ Clarinet
+ LeadVox
+ Kick
+ Snare
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ CymbalSample
+ Bass
+ ElecGtr
+ ElecGtr
+ Piano
+ LeadVox
+ Kick
+ Snare
+ HiHat
+ Cymbal
+ Noise
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Piano
+ LeadVox
+ BackingVox
+ BackingVox
+ KickIn
+ KickSample
+ Snare
+ Snare
+ Snare
+ Snare
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ Room
+ Room
+ SFX
+ SFX
+ Bass Amp
+ Bass DI
+ AcousticGtr
+ AcousticGtr
+ SlideGtr
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDI
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ DrumsKick
+ DrumsSnare
+ DrumsHiHat
+ DrumsOverheads
+ DrumsKick
+ DrumsSnare
+ DrumsHiHat
+ DrumsOverheads
+ DrumsKick
+ DrumsSnare
+ DrumsHiHat
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Rhodes
+ RhodesSFX
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ OverheadsMono
+ OverheadsStereo
+ DrumsRoomMono
+ Timpani
+ CymbalRoll
+ SFX
+ Bass
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrFX
+ Synth
+ Synth
+ Synth
+ Violins
+ Violins
+ Violas
+ Cellos
+ Flute
+ Flute
+ Horn
+ Horn
+ Trumpet 
+ Trumpet 
+ Trombone 
+ Trombone 
+ BassTrombone
+ Kick
+ Snare
+ HiHat
+ Toms
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtrAmp
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ LeadVox
+ BackingVox
+ Drumkit Kick
+ Drumkit Snare
+ Drumkit Overheads
+ Drumkit DrumsSquashMic
+ Congas
+ Snare
+ Loop
+ Percussion
+ Percussion
+ Percussion
+ SFX
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ BassClarinet
+ Clarinets
+ Flutes
+ Piano
+ PianoSFX
+ PianoSFX
+ LeadVox
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ DrumLoop
+ HiHat
+ Tambourine
+ Tambourine
+ Vibraslap
+ Cabasa
+ Cabasa
+ Shaker
+ Bass
+ ElecPiano
+ Synth
+ Synth
+ Synth
+ Synth
+ KickIn
+ SnareUp
+ SnareDown
+ SnareSample
+ HiHat
+ Tom
+ Overheads
+ DrumsRoomStereo
+ DrumsRoomMono
+ DrumkitLayer
+ Tambourine
+ Shaker
+ Percussion
+ Percussion
+ Percussion
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ Kick
+ SnareUp
+ SnareDown
+ SnareSFX
+ Hihat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Cymbals
+ DrumsRoom
+ DrumsRoom
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVox
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ RevCymbal
+ Bass
+ Bass
+ Bassa
+ Bassb
+ Bassc
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SFX
+ SFX
+ SFX
+ SFX
+Bass DI
+Bass Mic AK
+Drums Chamber AR
+Drums Kick In M
+Drums Kick Out CU
+Drums Over Head M
+Drums Snare Bottom M
+Drums Snare Top M
+Drums Tom M
+Drums Tom M Samp
+ELE Guitar Con Mic AK
+ELE Guitar Dyn Mic M
+Keys Hammond Bottom CU
+Keys Hammond Top M
+Keys KORG SV DI
+Vocals Drums M
+Vocals ELE Guitar M
+Bass Active DI
+Bass Amp M
+Bass Amp U
+Drums Floor  M
+Drums Floor M
+Drums Hat M
+Drums Kick In M
+Drums Kick Out 
+Drums Over TF
+Drums Rack Tom M
+Drums Room M
+Drums Snare Bot M
+Drums Snare M
+ELE GTR Dis M
+ELE Guitar Dis M
+Vocals Adam Proto
+Vocals Brian Proto
+Vocals Kevin Proto
+ Kick
+ Snare
+ HiHat
+ Tom
+ Tom
+ Tom
+ Ride
+ China
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ Vox
+ VoxDT
+ Vox
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ VoxDT
+ VoxDT
+ VoxDT
+ Vox
+ Vox
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ Kick
+ Rimshot
+ Rimshot
+ SFX
+ SFX
+ SFX
+ Telephone
+ Traffic
+ Bass
+ Bass
+ AcGtr
+ AcGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVox NoPitchProcessing
+ LeadVoxDT
+ LeadVoxDT NoPitchProcessing
+ BackingVox
+ BackingVox NoPitchProcessing
+ BackingVox
+ BackingVox NoPitchProcessing
+ BackingVox
+ BackingVox NoPitchProcessing
+ BackingVox
+ BackingVox NoPitchProcessing
+ Whispers
+ Vocoder
+SD BASS AMP CU LACHAPELL
+SD BASS DI LACHAPELL
+SD DRUMS AK API
+SD DRUMS HALL AR API
+SD DRUMS HAT M API
+SD DRUMS KICK M API
+SD DRUMS ROOM M API
+SD DRUMS SNARE M SH API
+SD DRUMS TOM  M SH API
+SD DRUMS TOM M SH API
+SD DRUMS TOM M SH API
+SD GUITAR M 
+SD KEYS DI GRACE
+SD VOX BONE M 
+SD VOX GUITAR M 
+SD VOX LEAD M 
+SD VOX TRUMPET M 
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Congas
+ Timbale
+ Claps
+ PercChoirMains
+ PercChoirOutrigs
+ PercChoirRibbons
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ Piano
+ Hammond
+ Hammond
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Whistle
+ Whistle
+ Whistle
+ KickFront
+ KickBack
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Tom
+ HiHat
+ Cymbals
+ Overheads
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ Drums
+ Bass
+ ViolinDI
+ ViolinDI
+ ViolinDI
+ ViolinDI
+ ViolaSoloRaw
+ ViolaSoloDist
+ Synth
+ Synth
+ SFX
+ LeadVox
+ LeadDouble
+ BackingVox
+ KickIn
+ KickOut
+ KickSample
+ KickSub
+ Overheads
+ SnareUp
+ SnareDown
+ SnareSample
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ SFX
+ SFX
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ LeadVox
+ BackingVoxSFX
+ BackingVoxSFX
+Acoustic Guitar M
+Cello M
+Paul Amp M
+Paul DI
+Room AR
+Room Piano U
+TIm amp M
+Vocals Paul CU
+Vocals Tim CU
+ Kick
+ Snare
+ HiHat
+ Toms
+ Overheads
+ DrumsRoom
+ BassAmp
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Strings
+ Choir
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ TomHi
+ TomLo
+ Overheads
+ Room
+ Claps
+ BassDI
+ Gtr
+ Gtr
+ Gtr
+ GtraDI
+ GtrbAmp
+ GtrDI
+ GtraDI
+ GtrbAmp
+ GtrcAmp
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+NBATG   Floor Tom   M
+NBATG   Hi Hat  ELA M 
+NBATG   Kick   M
+NBATG   OH Hi Hat   ELA M 
+NBATG   OH Ride   ELA M 
+NBATG   Rack Tom   M
+NBATG   Snare   M
+NBATG   Bass Guitar DI
+NBATG   Electric Guitar   M
+NBATG   Rhodes   DI
+NBATG   Room Mic LEFT   ELA M  (FET prototype)
+NBATG   Room Mic RIGHT   ELA M  (FET prototype)
+NBATG   acoustic guitar DI
+NBATG   Lead Vox   M
+NBATG   Backing Vox   M
+NBATG   Backing Vox    M
+NBATG   Stage Lip   AR 
+ KickMic
+ KickMic
+ KickFX
+ SnareUp
+ SnareDown
+ SnareSide
+ SnareFX
+ HiHat
+ Tom
+ Tom
+ Tom
+ OverheadsStereo
+ OverheadMono
+ DrumsSansamp
+ DrumsRoomStereo
+ DrumsRoomStereo
+ DrumsRoomStereo
+ DrumsRoomMono
+ DrumsRoomMono
+ Shaker
+ Congas
+ Loop
+ KickSample
+ Break
+ SFX
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Mellotron
+ Synth
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Ride
+ Tom
+ Overheads
+ DrumsRoomStereo
+ DrumsRoomMono
+ Bass
+ ElecGtr
+ ElecGtrMic
+ ElecGtrMic
+ Hammond
+ Vox
+ Kick
+ Snare
+ HiHat
+ Tom
+ Tom
+ PercLoop
+ Tambourine
+ Shakers
+ Cymbal
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Footsteps
+ Breathing
+ Rain
+ Bass
+ Bass
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtrDI
+ ElecGtrDIDT
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ Whisper
+ WhisperDT
+BR   BASS M blue
+BR   DRUMS HIGH HAT M gold
+BR   DRUMS KICK M
+BR   DRUMS MPC
+BR   DRUMS SNARE M chrome
+BR   GUITAR M orange
+BR   SYNTH Moog
+BR   SYNTH Virus
+BR   VOX M purple
+ KickIn
+ KickOut
+ KickSub
+ KickSample
+ Snare
+ SnareSample
+ KickSnare
+ Tom
+ HiHat
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ DrumsRoom
+ Conga Hi
+ Conga Lo
+ Conga MonoOverhead
+ Conga StereoOverheads
+ Conga Room
+ Cowbell
+ Cowbell
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ Hammond
+ Hammond
+ Rhodes
+ Synth
+ Trombone
+ Trumpet
+ Trumpet
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+Bass DI
+Bass Mic AK
+Drums Floor M
+Drums Kick In M
+Drums Kick Out CU
+Drums Overhead AR
+Drums Rack M
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar Con CU
+ELE Guitar Dyn M
+ELE Guitars Ignater M
+Keys Synth DI
+Vocal Trevor M
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ DrumsRoom
+ Ride
+ Tom
+ Tom
+ Tom
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecPiano
+ ElecPiano
+ Synth
+ Synth
+ LeadVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ Overheads
+ Tom
+ Tom
+ DrumsRoomMono
+ DrumsRoomStereo
+ Bass
+ AcGtra CloseMic
+ AcGtrb CloseMic
+ AcGtrc Room
+ AcGtra CloseMic
+ AcGtrb CloseMic
+ AcGtrc Room
+ ElecGtra Close
+ ElecGtrb Room
+ ElecGtr
+ SlideGtr
+ Rhodes
+ Rhodes
+ LeadVox
+ Kick
+ KickSample
+ KickSample
+ SnareUp
+ SnareDown
+ SnareSample
+ SnareSample
+ HiHat
+ HiHatSample
+ Tom
+ TomSample
+ Tom
+ TomSample
+ Tom
+ TomSample
+ Ride
+ Overheads
+ DrumsRoom
+ Rototom
+ BassDI
+ BassDist
+ BassSynth
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ SFX
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Tom
+ OverheadMono
+ OverheadStereo
+ DrumsRoom
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtr
+ ElecGtr
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVoxDT
+ Kick
+ Snare
+ Overheads
+ Sleighbells
+ Bass
+ ElecGtr
+ AcousticGtr
+ AcousticGtrAmp
+ Mandolin
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+Acoustic Guitar Ela M 
+Bass M
+Blumlein AR
+Chamber M
+Mandolin Ela M 
+Violin C
+ Kick
+ Kick
+ KickSub
+ Snare
+ Snare
+ Clap
+ Clap
+ Clap
+ Cowbell
+ Tom
+ Tom
+ Tom
+ Tom
+ HiHat
+ Cymbal
+ Cymbal
+ Cymbal
+ Cymbal
+ Bass
+ Bass
+ ElecGtrDI
+ ElecGtrDTDI
+ Organ
+ Synth
+ Synth
+ Synth
+ Synth
+ Sax
+ Sax
+ MIDISax
+ MIDISax
+ MIDISax
+ MIDISax
+ MIDISax
+ MIDIViolin
+ MIDIViolin
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ SnareSample
+ SnareSample
+ SnareSample
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ RevCymbal
+ Bass bip
+ SubDrop
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Strings
+ LeadVox
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+Bass Active DI
+Bass Amp AK
+Drums Floor M
+Drums HAT M
+Drums Kick In M
+Drums Kick Out Proto
+Drums Over Close Ela M 
+Drums Over Far Proto
+Drums Rack Tom M
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar Proto
+ELE Guitar Proto
+Horns Sax M
+Horns Sax Proto
+Vocals BG Bass Proto
+Vocals BG GTR Proto
+Vocals BG Sax M
+Vocals Lead Proto
+ Kick
+ Kick
+ Snare
+ Snare
+ Snare
+ HiHat
+ HiHat
+ HiHat
+ HiHat
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Cymbal
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ SFX
+ SFX
+ Bass
+ Bass
+ Bass
+ Bass
+ ElecGtr
+ Piano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Srtings
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ Cymbals
+ SFX
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ MainPair
+ PianoSpot
+ VoxSpot VU
+ VoxSpot R
+ VoxSpot U
+ VoxSpot U
+ Kick
+ Snare
+ Overheads
+ DrumsRoom
+ Bass
+ AcGtrMic
+ AcGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtr
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Clap
+ Clap
+ Hat
+ Hat
+ Hat
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtrSFX
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Piano
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ VoxSFX
+ Kick
+ Kick
+ Snaps
+ Snare
+ Snare
+ Snare
+ Snare
+ Snare
+ Tom
+ Tom
+ Tom
+ Cymbal
+ Cymbal
+ RevCymbal
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Loop
+ Loop
+ Break
+ Break
+ Bass
+ Bassa
+ Bassb
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ AcousticGtr
+ Piano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ LeadVox
+ LeadVox
+Bass Active DI
+Bass Amp AK
+Bass Amp M
+Drums Chamber M
+Drums Floor Tom CU
+Drums HAT M
+Drums Kick In M
+Drums Kick Out AK
+Drums Overheads AR
+Drums Rack CU
+Drums Ride M
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar  M
+ELE Guitar  M
+Keys Active DI
+Vocals BGV M
+Vocals BGV M
+Vocals Lead M
+Bass Active DI
+Bass Amp AK
+Drums Chamber  AR
+Drums Floor Tom M
+Drums HAT  Ela M 
+Drums Kick M
+Drums Overheads M
+Drums Rack Tom M
+Drums Snare Bottom M
+Drums Snare Top M
+Drums WVO  AR
+ELE Guitar Amp M
+ELE Guitar Amp M
+Keys Nord  Active DI
+Keys Piano  M
+Keys Piano  M
+Vocals BG Bass  M 
+Vocals BG Keys M  
+Vocals Keys M  
+Vocals Lead M  
+ Kick
+ Snare
+ Clap
+ HiHat
+ Bass
+ Synth
+ Synth
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ DrumLoop 
+ DrumLoop 
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ DrumsRoom
+ Tom
+ Tom
+ Tom
+ BassDI
+ BassAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDTDI
+ ElecGtrDTAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDTDI
+ ElecGtrDTAmp
+ ElecGtrDI
+ ElecGtrAmp
+ Saxophone
+ SaxophoneRoom
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Toms
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ LeadVox
+ Kick
+ Snare
+ HiHat
+ Toms
+ Overheads
+ DrumsRoom
+ OverheadsLayer
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ Strings
+ Strings
+ Strings
+ Strings
+ Dulcimers
+ Horns
+ BrassAndReeds
+ Piano
+ Choir
+ Choir
+ Choir
+ Choir
+ Synth
+ Synth
+ SFX
+ LeadVoxa
+ LeadVoxb
+ LeadVoxc
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickIn
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ HiHat
+ Overheads
+ Cymbals
+ CymbalRolls
+ Tambourine
+ Shaker
+ Bass
+ Piano
+ Piano
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ Synth
+ Synth
+ Synth
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ SFX
+ SFX
+ SFX
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ KickIn
+ KickOut
+ KickSub
+ HiHat
+ SnareUp
+ SnareDown
+ Overheads
+ Tom
+ Tom
+ Tom
+ DrumsAmbience
+ DrumsAmbience
+ DrumsAmbience
+ Rainstick
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Hammond
+ LeadVox
+ Kick
+ Snare
+ Tom
+ Tom
+ Tom
+ OverheadMono
+ OverheadsStereo
+ DrumsRoom
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtrFX
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ Strings
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Loops
+ Toms
+ Cymbals
+ Percussion
+ Bass
+ ElecPiano
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ KickIn
+ KickOut
+ KickSample
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom Stereo
+ DrumsRoom Mono
+ Shaker
+ Tambourine
+ Bass
+ AcousticGtr
+ AcoustiGtr
+ ElecGtr
+ ElecGtr
+ Rhodes
+ Piano
+ Horns
+ SFX
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Toms
+ Overheads
+ DrumsRoom
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtt
+ ElecGttDT
+ ElecGtt
+ ElecGttDT
+ ElecGtt
+ ElecGttDT
+ ElecGtt
+ ElecGttDT
+ ElecGtt
+ ElecGttDT
+ ElecGtt
+ ElecGttDT
+ ElecGtt
+ ElecGttDT
+ ElecGtt
+ ElecGttDT
+ Hammond
+ Sax
+ Sax
+ LeadVox
+ BackingVox
+ Kick
+ Snare
+ SnareSample
+ HiHat
+ Overheads
+ Tom
+ Tom
+ Cymbal hit
+ Percussion
+ Percussion
+ LoopSFX
+ SFX
+ SFX
+ Bass
+ Synth
+ Synth
+ Synth
+ Organ
+ OrchestraHit
+ KickTrigger
+ Snare
+ Overheads
+ Tom
+ Tom
+ Tambourine
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Daiko
+ RomanWarDrum
+ MalaysianDjembe
+ Percussion
+ Percussion
+ Percussion
+ Harp
+ HarpHarmonics
+ Piano
+ Psaltery
+ Pad
+ Pad
+ Violins
+ Violins
+ Violas
+ Trombone
+ Tuba
+ FrenchHorn
+ FrenchHorn
+ Kick
+ Snare
+ Overheads
+ Room
+ Tom
+ Tom
+ Bass
+ Gtra
+ Gtrb
+ Gtra
+ Gtrb
+ LeadVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Tom
+ Tom
+ HiHat
+ Ride
+ Overheads
+ DrumsRoom
+ Claps
+ Bass
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ Accordion
+ Flute
+ Violin
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ KickIn
+ KickOut
+ Snare
+ HiHat
+ Tom
+ Tom
+ Overheads
+ Cowbell
+ Congas
+ Shaker
+ Tambourine
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ ElecGtr
+ Hammond
+ ElecPiano
+ ElecPiano
+ MainPair
+ MainPair
+ SpotMic Tenors
+ SpotMic Basses
+ SpotMic Sopranos
+ SpotMic Altos
+ BassCloseMic
+ BassCloseMic
+ BassCloseMic
+ BassCloseMic
+ BassCloseMic
+ KickBass
+ Clap
+ HiHat
+ HiHat
+ Snare
+ Snare
+ Cymbal
+ Cymbal
+ Cymbal
+ Cymbal
+ Cymbal
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ SFX
+ SFX
+ SFX
+ SFX
+ Synth
+ Synth
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ KickIn
+ KickOut
+ KickSample
+ SnareUpMic
+ SnareUpMic
+ SnareDown
+ SnareSample
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ Overheads
+ DrumsRoomStereo
+ DrumsRoomMono
+ BassDI
+ BassAmp
+ AcousticGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ MainPair DominantArray
+ BassMic SpotMic
+ BassMic PeerArray
+ SaxMic SpotMic
+ SaxMic PeerArray
+ Room Stereo
+ Room Mono
+ Room Mono
+ Drums
+ Cymbals
+ Bass
+ Bass
+ PizzBass
+ MIDIGtr
+ Mellotron
+ Synth
+ Synth
+ Synth
+ Strings
+ Harp
+ LeadVox
+ LeadVoxDT
+ LeadVoxKiddie
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ PianoDI
+ MainPair MSDecoded
+ MainPair AB
+ SopranoOD
+ AltoOD
+ TenorOD
+ BassOD
+ Kick
+ Snare
+ HiHat
+ Ride
+ Tom
+ Tom
+ Tom
+ Cymbal
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtrDI
+ ElecGtrDTDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ Strings
+ Strings
+ Choir
+ Choir
+ Choir
+ Vox
+ VoxDT
+ Vox
+ VoxDT
+ Vox
+ Vox
+ Vox
+ VoxDT
+ Vox
+ Vox
+ Vox
+ Vox
+ Kick
+ Snare
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ ReverseSFX
+ BassDI
+ BassPedal
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Loop
+ Snare
+ SnareSFX
+ SnareSFX
+ Snare
+ Snare
+ SnareSFX
+ Crashes
+ PercussionSFX
+ PercussionSFX
+ Subbass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+Bass Active DI
+Bass Amp TF
+Drums Floor M
+Drums HAT M
+Drums Kick In M
+Drums Kick Out TF
+Drums Over Close Ela M 
+Drums Over Far TF
+Drums Rack Tom M
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar Mike Proto
+ELE Guitar Jesse Proto
+Horns Bone Wet M
+Horns Bone Proto
+Horns Trumpet Ela M 
+Keys Active DI
+Keys Leslie Bottom M
+Keys Leslie Top M
+Vocals Erica Proto
+Vocals Mike Proto
+ Kick
+ Snare
+ Tom
+ Tom
+ Overheads
+ Room
+ BassDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ LeadVox
+ BackingVox
+ Kick
+ Snare
+ Hi Hat
+ Clap
+ Cymbal
+ Bass
+ BassSub
+ Piano
+ PianoSFX
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ KickTrigger
+ Snare
+ Overheads
+ Tom
+ Tom
+ Tambourine
+ Loop
+ DrumsReverb
+ ReverseCymbal
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickTrigger
+ Snare
+ Overheads
+ Tom
+ Tom
+ Tambourine
+ RevCymbal
+ Sprinkles
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcGtr
+ AcGtr
+ Piano
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ DrumsRoom
+ Tom
+ Tom
+ Tom
+ BassDI
+ BassPedal
+ BassAmp
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ Tom
+ Tom
+ Overheads
+ Bass
+ AcousticGtr
+ AcousticGtr
+ Mandolin
+ Mandolin
+ HammondMicHi
+ HammondMicLo
+ PedalSteel
+ LeadVox
+ BackingVox
+ Kick
+ Snare
+ Clap
+ Hat
+ Toms
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ Kick
+ Snare
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Clap
+ Clap
+ Clap
+ Clap
+ BassDI
+ BassAmp
+ BassAmp
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ Kick
+ Snare
+ Tom
+ OverheadMono
+ OverheadsStereo
+ DrumsRoom
+ BassDI
+ ElecGtra
+ ElecGtrb
+ ElecGtra
+ ElecGtrb
+ ElecGtra
+ ElecGtrb
+ LeadVox
+ LeadVoxDT
+ Loop
+ Kick
+ Snare
+ Cowbell
+ Shaker
+ Sample
+ Bass
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ Organ
+ Synth
+ LeadVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ Tom
+ Tom
+ Bass
+ AltoSaxMic
+ AltoSaxMic
+ Fiddle
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ BackingVox
+ Kick
+ Snare
+ Clap
+ Shaker
+ Loop
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ PianoSFX
+ PianoSFX
+ AcousticGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ VoxSFX
+ VoxSFX
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Overheads
+ Room
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ Piano
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ KickMic
+ KickMic
+ KickMic
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ DrumsRoom
+ Tom
+ Tom
+ Tom
+ AcousticGtrMic
+ AcousticGtrMic
+ ElecGtr
+ Bass
+ Bass
+ Bass
+ SaxMic
+ SaxMic
+ SaxMic
+ SaxMic
+ SaxMic
+ SaxMic
+ SaxMic
+ SaxMic
+ SaxMic
+ SaxMic
+ SaxMic
+ SaxMic
+ Piano
+ Kick
+ SubDrop
+ RimShot
+ Snare
+ Clap
+ Hat
+ Hat
+ Hat
+ Hat
+ Hat
+ Hat
+ Hat
+ Hat
+ Tom
+ Tom
+ Bass
+ Bass
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SynthLead
+ SynthLead
+ SynthLead
+AC GUITAR M GRACE
+BANJO M GRACE
+BASS DI API
+DRUMS  OH L M API
+DRUMS  OH R M API
+DRUMS KICK M API
+DRUMS SNARE M API
+DRUMS TOM  M API
+DRUMS TOM  M API
+DRUMS TOM  M API
+MANDOLIN M GRACE
+VOX AC GUITAR C GRACE
+VOX AC GUITAR M GRACE
+VOX MANDOLIN  GRACE
+VOX MANDOLIN M GRACE
+ Kick
+ Snare
+ SnareFX
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDTWhisper
+ LeadVox
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Drums
+ DrumsSFX
+ Organ
+ Organ
+ Organ
+ LeadVox
+ Kick
+ Snare
+ Overheads
+ Bass
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Loop
+ Claps
+ GlassBell
+ MetalHit
+ Triangle
+ Shaker
+ Cymbals
+ Tambourine
+ SFX
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ AcousticGtra
+ AcousticGtrb
+ AcousticGtr
+ Kick
+ KickSFX
+ Snare
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ BassMic
+ BassMic
+ ElecGtr
+ ElecGtr
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ Kick
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Overheads
+ Cymbal
+ Heartbeart
+ Tambourine
+ Shaker
+ Bass
+ AcousticGtr
+ AcousticGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ Organ
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ Drumkit Kick
+ Drumkit Overhead
+ Bongos
+ Chimes
+ CymbalSwells
+ Ride
+ Ride
+ Shaker
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtrAmp
+ ElecPiano
+ LeadVox
+ LeadVoxDTAdLib
+ Speech
+ Whisper
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Kick
+ Kick
+ Snare
+ Snare
+ Clap
+ HiHat
+ HiHat
+ HiHat
+ Tom
+ Crash
+ Impact
+ Impact
+ DrumkitClose
+ DrumkitOverheads
+ DrumkitRoom
+ DrumkitTom
+ DrumkitTom
+ Timpani
+ Timpani
+ Crash
+ SFX
+ Bass
+ Bass
+ Bass
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Piano
+ Violins
+ Cellos
+ Cellos
+ StringsPizz
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxSFX
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxAdLibs
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ OverheadMono
+ OverheadsStereo
+ Room
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ Stylophone
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ Drumkit KickIn
+ Drumkit KickOut
+ Drumkit KickBeater
+ Drumkit KickSub
+ Drumkit SnareUp
+ Drumkit SnareDown
+ Drumkit HiHat
+ Drumkit Tom
+ Drumkit Tom
+ Drumkit OverheadsStereo
+ Drumkit OverheadMono
+ Drumkit TrashMic
+ Drumkit Room
+ TomsOD Tom
+ TomsOD Tom
+ TomsOD Overheads
+ TomsOD Room
+ TomsOD Tom
+ TomsOD Tom
+ TomsOD Overheads
+ TomsOD Room
+ SnareOD SnareUp
+ SnareOD SnareDown
+ SnareOD TrashMic
+ SnareOD Room
+ Loop HiHat
+ Loop TrashMic
+ Loop Room
+ Tambourine
+ TambourineRoom
+ Tambourine
+ TambourineRoom
+  Snare
+  HiHat
+ CymbalRolls
+ CymbalRolls
+ BassAmp
+ BassAmpRoom
+ BassDI
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrRoom
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrRoom
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrRoom
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrRoom
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrRoom
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrRoom
+ ElecGtrDI
+ Piano
+ Piano
+ Synth
+ Synth
+ Synth
+ Farfisa
+ Rhodes
+ RhodesFX
+ Rhodes
+ RhodesFX
+ Glockenspiel
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ Pair OverheadORTF
+ Pair FrontMS
+ Spot LowStrings
+ Spot HighStrings
+ Spot Vocals
+ Kick
+ Kick
+ Snare
+ Claps
+ Claps
+ Hihat
+ HiHat
+ Pandeiro
+ Pandeiro
+ CymbalSwells
+ Loop
+ SFX
+ Bass
+ ElecGtr
+ LeadVox
+ LeadVoxHarm
+ VoxSFX
+ VoxSFX
+ Piano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Kick
+ KickSample
+ Snare
+ Tom
+ Tom
+ Tom
+ TomFX
+ Overheads
+ DrumsRoomMono
+ DrumsRoomStereo
+ DrumsRoomFX
+ Taiko
+ Taiko
+ Taiko
+ Percussion
+ Tambourine
+ Shaker
+ Shaker
+ Rainstick
+ Rainstick
+ SFX
+ SFX
+ BassSynth
+ BassSynth
+ AcousticGtr
+ AcousticGtr
+ Strings
+ StringsSFX
+ DoubleBass
+ Piano
+ Piano
+ ReversePiano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxFX
+ LeadVoxFX
+ LeadVoxFX
+ LeadVoxFX
+ LeadVoxFX
+ LeadVoxFX
+ LeadVoxFX
+ LeadVoxFX
+ LeadVoxFX
+ LeadVoxFX
+ LeadVoxFX
+ LeadVoxFX
+Bass DI
+Bass Mic Ak
+Chamber Ar
+Drums Hat M
+Drums Kick 
+Drums Over Ar
+Drums Snare M
+Drums Tom M
+Drums Tom M
+Guitar Craig M
+Guitar Dave M
+Horns Bari M
+Horns Tenor M
+Horns Trumpet M
+Keys Amp M
+Keys Amp M
+Keys DI
+Keys Leslie BOT M
+Keys Leslie Top M
+Room M
+Vocals Dave M
+Vocals Geneva M
+Vocals Josh M
+Vocals Sammi M
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ SnareSample
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overhead
+ DrumRoom
+ Bass
+ AcGtr
+ AcGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Organ
+ LeadVox
+ LeadVoxAlt Untuned
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ KickSub
+ SnareUp
+ SnareDown
+ HiHat
+ Cowbell
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ Tambourine
+ BassDI
+ BassAmpMic
+ BassAmpMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ Trumpet
+ Trumpet
+ Saxophone
+ Saxophone
+ Saxophone
+ Trombone
+ LeadVox
+ BackingVox
+ BackingVox
+ Choir
+ Choir
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ Room
+ Tom
+ Tom
+ Tom
+ BassDI
+ BassAmp
+ AcousticGtrMic
+ AcousticGtrDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ SynthFiddle
+ LeadVox
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ KickSub
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoomStereo
+ DrumsRoomStereo
+ DrumsRoomStereo
+ DrumsRoomMono
+ BassDI
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ Violins
+ Violins
+ ViolinSolo
+ Cellos
+ Cellos
+ Basses
+ StringsSFX
+ BassDrum
+ Taiko
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ Room
+ RoomLoFi
+ Tom
+ Tom
+ BassAmp
+ BassDI
+ GuitarClose
+ GuitarFar
+ Ukelele
+ Harmonica
+ LeadVox
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Tom
+ Overheads
+ Bass
+ ElecGtr
+ ElecGtr
+ LeadVox
+ BackingVox
+ BackingVox
+BASS DI  
+BASS MIC  
+CHAMBER  
+GTR CON  
+GTR DYN  
+HAM B  
+HAM TOP  
+K I  
+K O  
+MOOG  
+NORD  
+TENOR  
+OVER  
+SN B  
+SN T  
+TOM  
+TOM  
+TOM  
+TOM  
+VOX   
+VOX   
+VOX   
+VOX  
+YAMAHA  
+ DrumKit
+ Percussion
+ Shaker
+ Bass
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ ElecGtr
+ Piano
+ Low Whistle
+ BagpipeDrones
+ BagpipeChanter
+ BagpipeChanter
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickMic
+ KickMic
+ Snare
+ SnareUp
+ SnareDown
+ HiHat
+ Ride
+ Overhead
+ DrumsRoom
+ DrumsRoom
+ DrumsRoom
+ DrumsRoom
+ Shaker
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtr
+ Piano
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ Snare
+ HiHat
+ Overheads
+ Tom
+ Tom
+ Sleighbells
+ SFX Guiness
+ BassSansamp
+ BassAmp
+ BanjoMic
+ BanjoMic
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ MandolinMic
+ MandolinMic
+ MandolinMic
+ MandolinMic
+ Autoharp
+ AccordionMic
+ AccordionMic
+ AccordionMic
+ AccordionMic
+ AccordionMic
+ AccordionMic
+ Cello
+ ViolinMic
+ ViolinMic
+ WhistleMic
+ WhistleMic
+ WhistleMic
+ WhistleMic
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxHarmonizer
+ Kck
+ Kick
+ Snare
+ Clap
+ Clicks
+ Sidestick
+ Tom
+ Tom
+ Bell
+ Bell
+ Cymbals
+ Ride
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Piano
+ Piano
+ Piano
+ Piano
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ VoxSFX
+ VoxSFX
+ GtrMic
+ GtrMic
+ GtrRevSFXMic
+ GtrRevSFXMic
+ Kick
+ Snare
+ Overheads
+ Toms
+ Percussion
+ Bass
+ Piano
+ ElecGtr
+ AcGtr
+ AcGtr
+ LeadVox
+ BackingVox
+ BackingVox
+ KickFront
+ KickBack
+ Snare
+ Hat
+ Tom
+ Tom
+ Overheads
+ RoomMono
+ RoomMono
+ RoomStereo
+ BassDI
+ BassMic
+ BassMic
+ Piano
+ PedalSteel
+ AcousticGtr
+ ElecGtr
+ ElecGtrClose
+ ElecGtrFar
+ LeadVoxScratch
+ LeadVox
+Bass Active DI
+Bass Amp CU
+Drums Floor Tom Proto
+Drums HAT M
+Drums Kick In M
+Drums Kick Out  Proto
+Drums Mono CU
+Drums Overheads Ela M 
+Drums Rack Tom Proto
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar  M
+ELE Guitar Proto 
+Horns Bari AR
+Horns Tenor AR
+Horns Trumpet Ela M 
+Keys B Low M
+Keys B M
+Keys Whirly Amp M
+Vocals BG Bass Proto
+Vocals BG GTR Proto
+Vocals Lead Proto
+Bass DI
+Bass Mic M
+Drums Chamber M
+Drums Floor M
+Drums Hat ELA M 
+Drums Kick In M
+Drums Kick Out CU
+Drums Overhead CU
+Drums Rack M
+Drums Rack M
+Drums Snare Bottom M
+Drums Snare Top M
+Horns Sax Flute M
+Keys  DI
+Keys  DI
+Keys  DI
+Percussion Bongo M
+Percussion Overhead AR
+ Kick
+ Kick
+ Snare
+ Snare
+ HiHat
+ HiHat
+ Ride
+ Toms
+ DrumFills
+ Crash
+ Crash
+ Ride
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Saxophone
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Bass
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ Piano
+ Synth
+ Synth
+ ViolinMIDI
+ ViolinMIDI
+ ViolaMIDI
+ Cello
+ CelloMIDI
+ CelloMIDI
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ Kick
+ Snare
+ Tom
+ Tom
+ Tom
+ HiHat
+ Ride
+ Overheads
+ DrumsRoomMono
+ DrumsRoomStereo
+ SFX
+ BassAmp
+ BassDI
+ BassFX
+ Synth
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ Ride
+ Tambourine
+ Cymbals
+ BassDI
+ AcousticGtr
+ AcousticGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDIDT
+ ElecGtrDT
+ ElecGtrDIDT
+ ElecGtrDT
+ ElecGtrDIDT
+ ElecGtrDT
+ ElecGtrDIDT
+ ElecGtr
+ Piano
+ ElecPiano
+ ElecPiano
+ Hammond
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ Snare
+ Overheads
+ Bass
+ Guitar
+ Piano
+ Saxophone
+ Saxophone
+ Saxophone
+ Trumpet
+ Trumpet
+ Trombone
+ Room
+ LeadVoxScratch
+ LeadVoxOverdub
+ Kick
+ ShakerMono
+ ShakerStereo
+ Clicks
+ Bongos
+ Bass
+ Ukelele
+ Ukelele
+ Ukelele
+ ElecGtr
+ Strings
+ Orchestra
+ Vibes
+ Mellotron
+ Synth
+ Synth
+ Vocoder
+ Vocoder
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Kick
+ Snare
+ HiHat
+ Cymbal
+ SFXHit
+ Bass
+ Harp
+ Piano
+ Synth
+ Synth
+ Synth
+ Synth
+ Kick
+ Snare
+ HiHat
+ Overheads
+ Bass
+ AcousticGtrDI
+ AcousticGtrMic
+ ElecGtr
+ Violin
+ Violin
+ LeadVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ Ride
+ Tom
+ Tom
+ Tom
+ Cymbals
+ Cymbals
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ LeadVoxHi
+ LeadVoxLo
+ SFX
+ Kick
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Ride
+ Overheads
+ Tom
+ Tom
+ Tom
+ Tom
+ DrumsRoomMono
+ DrumsRoomStereo
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Drum
+ Drum
+ Drum
+ Drum
+ Clap
+ Percussion
+ Tambourine
+ RevCymb
+ Bass
+ PianoLo
+ PianoMid
+ PianoHi
+ Choir
+ Flute
+ Pad
+ Strings
+ Didgeridoo
+ Radio
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Overheads
+ Room
+ Tom
+ Tom
+ Tom
+ BassDI
+ BassAmp
+ Gtr
+ Gtr
+ LeadVox
+Bass Amp M
+Bass Amp TF
+Bass TDA 
+Drums Floor M
+Drums Hat M
+Drums Kick In M
+Drums Over TF
+Drums Rack Tom M
+Drums Rack M
+Drums Ride M
+Drums Room M
+Drums Snare Bot M
+Drums Snare M
+Guitar M
+Keys Clav Proto
+Keys Juno PDI
+Keys Leslie M
+Keys Moog PDI
+Keys Piano ADI
+Keys Rhodes ADI
+Vocals GTR M
+Vocals Keys M
+ Kick
+ KickSub
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ DrumRoom
+ DrumAmb
+ Tom
+ Tom
+ FloorTom
+ Bass
+ AcGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LapSteelGtr
+ SynthPad
+ Piano
+ Hammond
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Snare
+ Toms
+ Overheads
+ DrumsRoom
+ Cymbals
+ SFX
+ SFX
+ SFX
+ Bass
+ MusicBox
+ Piano
+ Strings
+ Strings
+ Strings
+ Strings
+ Strings
+ Strings
+ Choir
+ Choir
+ Oboes
+ Horns
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ Kick
+ Snare
+ Tom
+ Tom
+ Tom
+ HiHat
+ DrumsSLR
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ Loop
+ Bass
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDTDI
+ ElecGtrDI
+ ElecGtrDI
+ Synth
+ Synth
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+Bass Active DI
+Bass Amp CU
+Drums Floor Tom Proto
+Drums HAT M
+Drums Kick In M
+Drums Kick Out  Proto
+Drums Mono Over CU
+Drums Overheads Ela M 
+Drums Rack Tom Proto
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar M
+ELE Guitar Proto 
+Horns Bari AR
+Horns Tenor AR
+Horns Trumpet Ela M 
+Keys B Low M
+Keys B M
+Keys Whirly Amp M
+Vocals Lead Proto
+ VoxBanjo
+ VoxGuitar
+ Kick
+ SnareUp
+ SnareFX
+ Tom
+ Tom
+ OverheadMono
+ OverheadsStereo
+ DrumsRoom
+ Shaker
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ Stylophone
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ KickIn
+ KickOut
+ SnareUpMic
+ SnareUpMic
+ SnareDown
+ HiHat
+ Overheads
+ BassMic
+ BassMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Overheads
+ SquashMic
+ Rooms
+ Shaker
+ Tambourine
+ Bass
+ AcousticGtr
+ Banjo
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ Kick
+ SnareUp
+ SnareDown
+ SidestickSample
+ Tom
+ Overheads
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ DrumMic
+ DrumMic
+ Brushes
+ BassMic
+ BassMic
+ AcousticGtr
+ MandolinMic
+ MandolinMic
+ Fiddle
+ Fiddle
+ Accordion
+ LeadVox
+ Kick
+ Snare
+ Overheads
+ DrumRoom
+ Tom
+ Tom
+ Tom
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxRoom
+BASS DI
+ELECTRIC GUITAR  M SH
+ELECTRIC GUITAR  M SH
+HI HAT M FET
+KICK M
+SNARE BOTTOM M
+SNARE TOP M SH
+TOM  M SH
+TOM  M SH
+TOM  M SH
+OVERHEADS M FET.L
+OVERHEADS M FET.R
+ROOM AR  (CARDIOID)
+KEYS DI.L
+KEYS DI.R
+ORGAN LESLIE BOTTOM M
+ORGAN LESLIE TOP M SH.L
+ORGAN LESLIE TOP M SH.R
+VOX BASS M
+VOX DRUMS M
+VOX GUITAR  M
+VOX KEYS M
+VOX LEAD M
+ MainPair
+ MainPair
+ SpotMic Tenors
+ SpotMic Basses
+ SpotMic Sopranos
+ SpotMic Altos
+ BassCloseMic
+ BassCloseMic
+ BassCloseMic
+ BassCloseMic
+ BassCloseMic
+ PercSolo CloseMic
+ PercSolo CloseMic
+ PercSolo FarMicPair
+ PercSolo FarMicPair
+ PercChoir MicPair
+ PercChoir MicPair
+ PercChoir MicPair
+ Whistle
+ LeadVox
+ Kick
+ Snare
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ Ride
+ DrumsRoom
+ DrumsRoom
+ Bass
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtr
+ ElecGtr
+ Piano
+ Flute
+ Horns
+ HornsDT
+ Synth
+ Synth
+ Synth
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Kick
+ Overheads
+ Toms
+ BassMic
+ BassDI
+ BassMic
+ BassDI
+ BassMic
+ BassDI
+ AcousticGtr
+ Piano
+ BassClarinet
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ ChinaCymbal
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Piano
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ MainLoop
+ KickLayer
+ KickLayer
+ KickLayer
+ Snare
+ HiHat
+ Cymbal
+ Shaker
+ MetalHit
+ Timpani
+ Bass
+ Synth
+ Strings
+ Choir
+ Harp
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Loop
+ KickInMic
+ KickInMic
+ KickOut
+ KickSample
+ SnareDown
+ SnareUpMic
+ SnareUpMic
+ SnareSample
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoomMono
+ DrumsRoomStereo
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ BassSynth
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrSFX
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ Kick
+ Kick
+ Clicks
+ Claps
+ Toms
+ Cymbal
+ Cymbal
+ Loop
+ Loop
+ Loop
+ Loop
+ Fill
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ SynthSFX
+ SynthSFX
+ AcousticGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ VoxSFX
+ VoxSFX
+ Whisper
+ KickIn
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ HiHat
+ Ride
+ Overheads
+ DrumsRoom
+ Tambourine
+ ReverseCymbal
+ Voicemail
+ SFX
+ Heartbeat
+ Breath
+ Bass
+ Piano
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ Synth
+ MIDIChoir
+ MIDIViolas
+ MIDIViolas
+ Violin
+ Cello
+ Cello
+ Cello
+ Cello
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+Drums Floor M
+Drums Kick In M
+Drums Kick Out U
+Drums Overhead M
+Drums Rack M
+Drums Snare Bottom M
+Drums Snare Top M
+Horns Bone AR
+Horns Bone AR
+Horns Sax  AK
+Horns Sax  AK
+Horns Sousaphone M
+Horns Trumpet  ELA M 
+Horns Trumpet  ELA M 
+Percussion  M
+Percussion  M
+Percussion  M
+Percussion  M
+Percussion Overhead CU
+Vocals Bone M
+Vocals Bone M
+Vocals Sax M
+Vocals Sax M
+Vocals Trumpet M
+Vocals Trumpet M
+ Kick
+ Kick
+ Kick
+ Kick
+ Snare
+ Snare
+ Snare
+ Snare
+ HiHat
+ Ride
+ Tom
+ Tom
+ Tom
+ Tom
+ Cymbal
+ Cymbal
+ Cymbal
+ Cymbal
+ Percussion
+ Timpani
+ TubularBells
+ Piano
+ SFX
+ SFX
+ SFX
+ SFX
+ BassDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ Strings
+ Violins
+ Violas
+ Cellos
+ Trombones
+ FrenchHorns
+ Choir
+ Soprano
+ Alto
+ Bass
+ KickIn
+ KickOut
+ KickSample
+ KickSample
+ SnareUp
+ SnareDown
+ SnareSample
+ HiHatIntro
+ HiHat
+ OverheadsIntro
+ Overheads
+ DrumsRoomStereoIntro
+ DrumsRoomStereo
+ DrumsRoomMono
+ Clicks
+ Triangle
+ Congas
+ Cymbals
+ Maracas
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ ElecGtr
+ ElecGtr
+ Clavinet
+ Rhodes
+ Rhodes
+ Strings
+ MIDIStrings
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ Narration
+ AsizaBreathing
+ LakeAmbience
+ ForestAmbience
+ HighwayAmbience
+ PartyWalla
+ WinterForestAmbience
+ ClassroomAmbience
+ OfficeAmbience
+ StumblingGrass
+ StumblingWood
+ Knocking
+ Door
+ RunningRobert
+ RunningAsiza
+ AsizaGiggles
+ ClimbingTree
+ Flock
+ ToyHelicopter
+ ToyCar
+ TreeChopFall
+ AsizaSobbing
+ AsizaRunningSnow
+ Bulldozer
+ Music
+ Kick
+ Snare
+ HiHat
+ Overheads
+ DrumsRoom
+ Tom
+ Tom
+ Tom
+ Tom
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ KickSample
+ Snare
+ SnareSample
+ HiHat
+ Toms
+ TomSamples
+ TomSnareSamples
+ DrumsRoom
+ CymbalSamples
+ Claps
+ Clicks
+ PercLoop
+ Shaker
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ ElecGtr
+ ElecGtrFX
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Piano
+ LeadVox
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ MainPair
+ MainPair
+ SpotMic Tenors
+ SpotMic Basses
+ SpotMic Sopranos
+ SpotMic Altos
+ BassCloseMic
+ BassCloseMic
+ BassCloseMic
+ BassCloseMic
+ BassCloseMic
+ LeadVox
+ Drumkit KickIn
+ Drumkit KickOut
+ Drumkit SnareUp
+ Drumkit SnareDown
+ Drumkit HiHat
+ Drumkit Ride
+ Drumkit Tom
+ Drumkit Tom
+ Drumkit Tom
+ Drumkit Overheads
+ Drumkit SnareUp
+ Drumkit SnareDown
+ Drumkit HiHat
+ Drumkit Tom
+ Drumkit Tom
+ Drumkit Tom
+ Drumkit Overheads
+ Drumkit Room
+ ReverseCymbal
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ CatSFX
+ LeadVox
+ LeadVox
+ BackingVos
+ BackingVox
+ BackingVox
+Acoustic Guitar Leslie Ela M 
+Acoustic Guitar Steve CU
+Vocals Leslie  Ela M 
+Vocals Steve U
+ Cajon
+ Shaker
+ ShakerDT
+ Shaker
+ ShakerDT
+ Snare Drum
+ Tambourine
+ BassDI
+ BassSwell
+ AcousticGtrMic
+ AcousticGtrDI
+ Piano
+ LeadVox
+ LeadVox
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ Kick
+ HiHat
+ SnareUp
+ SnareDown
+ Overheads
+ DrumsRoom
+ Toms
+ Tambourine
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Hammond
+ Glock
+ LeadVox
+ BackingVox
+ BackingVox
+ KickMain
+ KickTop
+ Snare
+ HiHat
+ HiHat
+ Crash
+ Percussion
+ Percussion
+ Percussion
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Kick
+ Snare
+ HiHat
+ Ride
+ Tom
+ Tom
+ Tom
+ Tom
+ Crash
+ Crash
+ Crash
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Organ
+ Organ
+ Organ
+ LeadVox
+AC GUITAR  
+AC GUITAR AR 
+AC GUITAR CU 
+AC GUITAR DI SSL DUALITY
+SCRACTCH AC GUITAR DI SSL DUALITY
+BASS AMP CU LACHAPELLE
+BASS DI 
+DRUM FLOOR TOM M SSL DUALITY
+DRUM HIHAT  SSL DUALITY
+DRUM KICK I M SSL DUALITY
+DRUM KICK O U SSL DUALITY
+DRUM OH AK SSL DUALITY.L
+DRUM OH AK SSL DUALITY.R
+DRUM OH C SSL DUALITY.L
+DRUM OH C SSL DUALITY.R
+DRUM RACK TOM M SSL DUALITY
+DRUM SNARE B M SSL DUALITY
+DRUM SNARE T M SSL DUALITY
+E GUITAR AR CHANDLER TG CHANNEL
+E GUITAR CU CHANDLER TG CHANNEL
+E GUITAR M CHANDLER TG CHANNEL
+PIANO CLOSE  .L
+PIANO CLOSE  .R
+PIANO ROOM AR .L
+PIANO ROOM AR .R
+VOX BG C 
+VOX BG U 
+VOX LD E 
+VOX LD AR 
+VOX LD CU 
+VOX LD U 
+SCRATCH VOX BG M SSL DUALITY
+SCRATCH VOX LD M SSL DUALITY
+ Kick
+ Snare
+ Overheads
+ DrumsRoomStereo
+ DrumsRoomMono
+ SnareOD
+ SnareOD
+ StormSFX
+ StormSFX
+ AcousticGtr
+ AcousticGtr
+ AcousticGtrDT
+ AcousticGtr
+ AcousticGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxRoom
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ Kick
+ SnareUp
+ SnareDown
+ Tom
+ Overheads
+ DrumsRoomStereo
+ DrumsRoomStereo
+ DrumsRoomMono
+ DrumsRoomMono
+ Tambourine
+ Bass
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtr
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ Piano
+ Organ
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxSFX
+ BackingVoxSFX
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+Bass Active DI
+Bass Amp M
+Drums Drum Shell U
+Drums Floor M
+Drums Hat Ela M 
+Drums Kick in M
+Drums Kick out AK
+Drums Overhead L C
+Drums Overhead R C
+Drums Rack  M
+Drums Rack M
+Drums Room L CU
+Drums Room R CU
+Drums SPD SX Passive DI
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitars Jon M
+ELE Guitars Troy M
+Horns Bone Ela M 
+Horns Trumpet Ela M 
+Keys Juno Passive DI
+Keys MiniNova L Passive DI
+Keys MiniNova R Passive DI
+Vocals BV  M
+Vocals Lead Wet M
+Vocals Lead U
+ Kick
+ Snare
+ Overhead
+ BassDI
+ Gtr
+ Percussion
+ LeadVox
+Acoustic Guitar ADI
+Acoustic Guitar Proto
+Bass Active DI
+Bass Amp AK
+Drums Floor Tom M
+Drums HAT Ela M 
+Drums Kick In M
+Drums Kick Out  CU
+Drums Overheads AR
+Drums Rack Tom M
+Drums Rack M
+Drums Room M
+Drums Snare Top M
+ELE Guitar Proto
+Fiddle M
+Vocals BG Fiddle Proto
+Vocals BG GTR Proto
+Vocals Lead Proto
+ KickMic
+ KickMic
+ HiHatRide
+ Overheads
+ SnareUp
+ SnareDown
+ Tom
+ TomSample
+ Tom
+ TomSample
+ Tom
+ TomSample
+ Tom
+ TomSample
+ DrumsRoom
+ BassMic
+ BassMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrRoomMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrRoomMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrRoomMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrRoomMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrRoomMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrRoomMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrCloseMic
+ ElecGtrRoomMic
+ ElecGtrSFX
+ Cello
+ Synth
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ DrumsRoom
+ RackTom
+ FloorTom
+ BassMic
+ Gangs
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrLead
+ LeadVox
+ LeadVox
+ Kick
+ Kick
+ Snare
+ Snare
+ HiHat
+ Cymbal
+ CymbalSFX
+ Loop
+ Loop
+ DrumFill
+ DrumFill
+ Taiko
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ AcousticGtr
+ AcousticGtrDT
+ AcousticGtr
+ AcousticGtrDT
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ ViolinSolo
+ Violins
+ Violins
+ Violas
+ CelloSolo
+ Cellos
+ Basses
+ Piccolo
+ Flutes
+ Oboes
+ Bassoons
+ Clarinets
+ BassClarinet
+ Trumpets
+ FrenchHorns
+ Trombones
+ Tuba
+ SnareDrum
+ Timpani
+ Percussion
+ Kick
+ Snare
+ Overheads
+ DrumsRoom
+ Bass
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ AcousticGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVoxDT
+ LeadVox AltTake
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ Snare
+ HiHat
+ HiHat
+ HiHat
+ HiHat
+ Bass
+ Synth
+ Synth
+ Piano
+ Organ
+ Vox
+ VoxDT
+ Vox
+ Vox
+ VoxDT
+ Vox
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxSFX
+ Kick
+ Snare
+ Overheads
+ Toms
+ BassMic
+ BassDI
+ Piano
+ Sax
+ Sax OD
+ LeadVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ Ride
+ Crash
+ BassSynth
+ BassSynth
+ BassSub
+ BassGtrDI
+ BassGtrAmp
+ Synth
+ Sample
+ Decks
+ Decks
+ Decks
+ Decks
+ Decks
+ LeadVox
+ LeadVoxDT
+ LeadVoxDTLow
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ VoxSFX
+DRUM HIHat  PURPLE BIZ
+DRUM Kick I Beta  HARDLEY M A
+DRUM Kick I M NEVE LB AUDIO ARTS EQ DISTRESSOR
+DRUM Kick O Yamaha Sub HARDEY M DBX A
+DRUM OH AR LANGEVIN.L
+DRUM OH AR LANGEVIN.R
+DRUM ROOM CELLING CROWN PZM HARDEY M
+DRUM ROOM U API SmartC.L
+DRUM ROOM U API SmartC.R
+DRUM SNARE B M HARDEY M DBX 
+DRUM SNARE T M AVALON  DISTRESSOR
+DRUM TOM  AKG  TOFT AFC
+DRUM TOM  AKG  TOFT AFC
+DRUM FAT HEAD MILLENIA HV 
+PIANO AK LANGEVIN.L
+PIANO AK LANGEVIN.R
+VOX BG CU NEVE LB CLB
+VOX LD AK VINTECH LAA
+AC GUITAR  CU SHADOWHILL .L
+AC GUITAR  CU SHADOWHILL .R
+AC GUITAR  CU SHADOWHILL.L
+AC GUITAR  CU SHADOWHILL.R
+AC GUITAR  CU SHADOWHILL.L
+AC GUITAR  CU SHADOWHILL.R
+BANJO AK VINTECH 
+BANJO CU VINTECH 
+BASS AK DAKING CLB
+DOBRO AR DAKING DISTRESSOR.L
+DOBRO AR DAKING DISTRESSOR.R
+FIDDLE  NEVE LB CLB
+FIDDLE AK VINTECH  LAA
+MANDOLIN AK VINTECH  LAA
+ Kick
+ Snare
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ SFX
+ SFX
+ LeadVox
+ BackingVoxWet
+ BackingVox
+ BackingVox
+ BackingVoxDist
+ BackingVoxDist
+ SaxophoneCloseMic
+ SaxophoneCloseMic
+ SaxophoneFarMic
+ AcousticGtrCloseMics
+ AcousticGtrFarMics
+ AcousticGtrDI
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Tom
+ HiHat
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ Bass
+ Rhodes
+ Tambourine
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ AcousticGtr
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ KickBack
+ KickFront
+ Snare
+ Overheads
+ Bass
+ AcGtr
+ ElecGtr
+ SlideGtr
+ LeadVox
+ Kick
+ Clap
+ Clap
+ ElecDrum
+ ElecDrum
+ ElecDrum
+ Snare
+ Snare
+ Snare
+ Hat
+ Shaker
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ SFXLoop
+ SFXLoop
+ SFXLoop
+ SFXLoop
+ Drums
+ Drums
+ Drums
+ Taiko
+ Cymbal
+ SFX
+ SFX
+ BassLo
+ BassHi
+ Recordier
+ EthnoFlute
+ Choir
+ Cellos
+ Synth
+ Synth
+ Synth
+ Synth
+ Kick
+ Snare
+ Overheads
+ Room
+ Tom
+ Tom
+ Bass
+ Gtra
+ Gtrb
+ Gtra
+ Gtrb
+ LeadVox
+ Kick
+ SnareUp
+ Kicksnare
+ HiHat
+ Tom
+ Tom
+ Tom
+ Cymbals
+ MainMics
+ Tambourine
+ BassDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Hammond
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Break
+ Kick
+ Snare
+ Snare
+ Snare
+ Snare
+ SnareSFX
+ Anvil
+ HiHat
+ Cymbals
+ Cymbals
+ Cymbals
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Strings
+ Strings
+ Vox
+ KickMic
+ KickMic
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Tom
+ HiHat
+ Ride
+ Ride
+ Overheads
+ DrumsRoom
+ Bass
+ Piano
+ ElecGtr
+ ElecGtr
+ Kick
+ Kick
+ Kick
+ Snare
+ HiHat
+ HiHat
+ Cymbals
+ Ride
+ Fills
+ SFX
+ SFX
+ SFX
+ Piano
+ ReversePiano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Speech
+ Speech
+ Kick
+ Kick
+ Kick
+ Snare
+ Snare
+ Snare
+ Snare
+ Snare
+ Clap
+ HiHatClosed
+ HiHatOpen
+ Ride
+ Hit
+ Cymbal
+ Cymbal
+ Cymbal
+ Bass
+ Piano
+ SynthLead
+ SynthLead
+ SynthPad
+ SynthPad
+ SynthSaw
+ SynthFill
+ SynthFill
+ SynthFill
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ Tubas
+ Horns
+ Violin
+ VoxIntro
+ VoxIntro
+ LeadVoxCh
+ LeadVoxChDT
+ LeadVoxChDT
+ LeadVoxVs
+ LeadVoxVsDT
+ LeadVoxVsDT
+ LeadVoxVsSFX
+ LeadVoxVs
+ LeadVoxVsDT
+ LeadVoxVsDT
+ LeadVoxVsSFX
+ LeadVoxBr
+ LeadVoxBr
+ BackingVoxCh
+ BackingVoxCh
+ BackingVoxBr
+ BackingVoxBr
+ BackingVoxBr
+ BackingVoxBr
+ Bass DI
+ BassMic
+ BassMic
+ AcGtr
+ AcGtrReampClose
+ AcGtrReampFar
+ Accordian
+ PedalSteel
+ LeadVox
+ Bass
+ Piano
+ PianoSFX
+ Hammond
+ Hammond
+ Synth
+ Synth
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Tom
+ Ride
+ Overheads
+ ReverseCymbal
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrMics
+ ElecGtrMics
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrEbow
+ Strings
+ Strings
+ Strings
+ Strings
+ Synth
+ Snare
+ Shaker
+ Tambo
+ Timp
+ Cymbal
+ Piano
+ Glockenspiel
+ Violin
+ Violin
+ Viola
+ Cello
+ StringsMix
+ ViolinSamples
+ ViolaSamples
+ CelloSamples
+ DoubleBassSamples
+ DoubleBassSamples
+ ElecGtr
+ ElecGtr
+ Harmonica
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+Bass DI
+Bass Mic 
+Drums Chamber AR
+Drums Kick In M
+Drums Kick Out CU
+Drums Over Head ELA M 
+Drums Snare Bottom M
+Drums Snare Top M
+Drums Tom M
+Drums Tom M
+Drums Tom M
+Drums Tom M
+ELE Guitar Con Mic AK
+ELE Guitar Dyn Mic M
+Horn Tenor M
+Keys Hammond Bottom CU
+Keys Hammond Top M
+Keys Moog DI
+Keys Nord DI
+Keys Yamaha DI
+Vocals  M
+Vocals  M
+Vocals  M
+Vocals  M
+ CongaMic
+ CongaMic
+ Shakers
+ Cymbal
+ BassDI
+ BassMic
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ Piano
+ Flute
+ Flute
+ LeadVox
+ Kick
+ Snare
+ Snare
+ Snare
+ HiHat
+ Ride
+ Ride
+ Tom
+ Tom
+ Crash
+ Percussion
+ Percussion
+ Bass
+ Piano
+ Hammond
+ Wurlitzer
+ AcousticGtr
+ AcousticGtr
+ ElecGtr
+ ElecGtrAltTake
+ ElecGtrAltTake
+ LeadVox
+ LeadVoxDTs
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ SFX
+ KickIn
+ Snare
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ Piano
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ SFXWolf
+ SFXWolf
+ SFXLaugh
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ DrumsSquash
+ Bass
+ ElecGtr
+ ElecGtrDI
+ EelcGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Synth
+ SynthSFX
+ Choir
+ Choir
+ Organ
+ Loop
+ Loop
+ Kick
+ Clap
+ Clap
+ Snare
+ HiHat
+ HiHat
+ HiHat
+ HiHat
+ HiHat
+ Ride
+ Crash
+ CrashSFX
+ SFX
+ SFX
+ Shaker
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ VoxSFX
+ Kick
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Cymbals
+ BassDI
+ BassAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ LeadVox
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ Fill
+ Fill
+ BassSynth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Clap
+ Clap
+ HiHat
+ HiHat
+ HiHat
+ Cymbal
+ Bass
+ Bass
+ SynthDry
+ SynthWet
+ SynthDry
+ SynthWet
+ SynthDry
+ SynthWet
+ SFX
+ SFXDry
+ SFXWet
+ Kick
+ Snare
+ HiHat
+ Cymbal
+ Cymbal
+ Loop
+ Loop
+ Bass
+ BassSub
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecPiano
+ Synth
+ Synth
+ Vox
+ Kick
+ Snare
+ Tom
+ Tom
+ OverheadMono
+ OverheadsStereo
+ DrumsRoomMono
+ Bass
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ BackingVox
+ Kick
+ KickTrigger
+ Snare
+ SnareTrigger
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ BassDI
+ BassMic
+ BassMic
+ BassDI
+ BassMic
+ BassMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTDI
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrDI
+ ElecGtrDIMic
+ ElecGtrDIMic
+ ElecGtrDTDI
+ ElecGtrDTMic
+ ElecGtrDTMic
+ LeadVox
+ LeadVoxDT
+ Kick
+ Snare
+ HiHat
+ Toms
+ Overheads
+ DrumsRoom
+ Reversed Cymbal
+ Bass
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ KickIn
+ KickIn
+ KickSub
+ SnareUp
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Tom
+ HiHat
+ Overheads
+ Overheads
+ SquashMic
+ Shaker
+ BassSynth
+ BassGuitarDI
+ BassGuitarAmp
+ SFX
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtrAmpMic
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ AcousticGtrDI
+ AcousticGtrMic
+ AcousticGtrDI
+ AcousticGtrMic
+ AcousticGtrDI
+ AcousticGtrMic
+ Piano
+ Piano
+ Rhodes
+ Hammond
+ Harp
+ Vibes
+ Synth
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Overheads
+ VinylNoise
+ Bass
+ AcousticGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ BassMic
+ BassDI
+ PianoMics
+ PianoMics
+ Trumpet
+ Trombone
+ Saxophone
+ Bass
+ AcousticGtrMic
+ AcousticGtrMic
+ FiddlesMic
+ FiddlesMic
+ FiddlesMic
+ FiddlesMic
+ LeadVoxMic
+ LeadVoxMic
+ LeadVoxMic
+ LeadVoxMic
+ LeadVoxDT
+ LeadVoxMic
+ LeadVoxMic
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ Bombek
+ Bongo
+ Gong
+ Claps
+ Bell
+ Cymbal
+ ReverseCymbal
+ ReverseCymbal
+ ReverseCymbalFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ Strings
+ Strings
+ Strings
+ Strings
+ Strings
+ Strings
+ Strings
+ Piano
+ Piano
+ Piano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ Kick
+ KickFX
+ Snare
+ SnareFX
+ Snare
+ Snare
+ Snare
+ HiHat
+ Taiko
+ Bass
+ Bass
+ Organ
+ Piano
+ Piano
+ Strings
+ Strings
+ Brass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ LeadVox
+ LeadVoxFX
+ LeadVoxFX
+ LeadVoxFX
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Vocoder
+ VocoderFX
+ Drumkit KickIn
+ Drumkit KickOut
+ Drumkit SnareMic
+ Drumkit SnareMic
+ Drumkit Hihat
+ Drumkit Tom
+ Drumkit Tom
+ Drumkit Tom
+ Drumkit RoomMono
+ Drumkit RoomMono
+ Drumkit RoomStereo
+ Drumkit KickIn
+ Drumkit KickSub
+ Drumkit SnareMic
+ Drumkit SnareMic
+ Drumkit Overheads
+ DrumSamples Snare
+ DrumSamples HiHat
+ DrumSamples Cymbals
+ DrumSamples Toms
+ ElectroPercussion
+ Taiko
+ Sticks
+ ElectroPercussion
+ ElectroPercussion
+ ElectroHit
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ Hammond
+ Synth
+ Mellotron
+ Strings Staccato
+ Strings Ensemble
+ Strings Soli
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxa
+ BackingVoxb
+ BackingVoxc
+ BackingVoxd
+ BackingVoxa
+ BackingVoxb
+ BackingVoxc
+ BackingVoxd
+ BackingVoxa
+ BackingVoxb
+ BackingVoxc
+ BackingVoxd
+ BackingVoxe
+ BackingVoxf
+ BackingVoxa
+ BackingVoxb
+ BackingVoxc
+ BackingVoxd
+ BackingVoxa
+ BackingVoxb
+ BackingVoxa
+ BackingVoxb
+ BackingVoxc
+ BackingVoxd
+ BackingVoxe
+ BackingVoxf
+ BackingVoxa
+ BackingVoxb
+ Kick
+ Snare
+ Overheads
+ Cymbals
+ Bass
+ Congas
+ ElecGtr
+ ElecGtr
+ AccGtr
+ LeadVox
+ BackVox
+ HammondLeslieHi
+ HammondLeslieLo
+ Piano
+ Synth
+ Kick
+ Snare
+ HiHat
+ Ride
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Chimes
+ Reverse Cymbal
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ Kick
+ Clap
+ HiHat
+ RevCymbal
+ Cymbal
+ Bass
+ Piano
+ Piano
+ Synth
+ Synth
+ LeadVoxVs
+ LeadVoxVsDT
+ LeadVoxVs
+ LeadVoxVsDT
+ LeadVoxVs
+ LeadVoxVsDT
+ LeadVoxVs
+ LeadVoxVsDT
+ LeadVoxCha
+ LeadVoxChb
+ LeadVoxCha
+ LeadVoxChb
+ LeadVoxCh
+ LeadVoxCh
+ LoopDrums
+ LoopPercussion
+ LoopPercussion
+ Cymbals
+ Bass
+ Bass
+ SampleVox
+ SampleHarp
+ Clav
+ Clav
+ Synth
+ Synth
+ Mellotron
+ Mellotron
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxAdLibs
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ KickIn
+ KickOut
+ KickSample
+ KickSample
+ KickSample
+ KickSample
+ Claps
+ ClapsRoom
+ SnareUp
+ SnareDown
+ SnareSample
+ HiHat
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ BassAmp
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrAmpSim
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrAmpSim
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrAmpSim
+ SFX
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ Snare
+ Clap
+ HiHat
+ HiHat
+ HiHat
+ Bass
+ AcousticGtr
+ AcousticGtr
+ Piano
+ Synth
+ Synth
+ Synth
+ Vocoder
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ DrumsRoom
+ Bells
+ Alarm
+ Heartbeat
+ Bass
+ ElecGtrDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecPiano
+ Piano
+ Violins
+ Violins
+ Violas
+ Kick
+ Snare
+ Hat
+ Ride
+ Overheads
+ Overheads
+ Tom
+ Tom
+ Tom
+ CymbalsOD
+ CymbalsOD
+ BassDI
+ BassAmp
+ Gtr
+ Gtr
+ Gtr
+ Gtr
+ Gtr
+ Gtr
+ Gtr
+ Gtr
+ Gtr
+ Hammond
+ Hammond
+ Rhodes
+ RhodesSFX
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ Kick
+ KickSide
+ Snare
+ Tom
+ Tom
+ Ride
+ Overheads
+ DrumsPZM
+ DrumsWurstMic
+ DrumsRoom
+ DrumsRoomMono
+ DrumsRoomMonoFX
+ Tambourine
+ Tambourine
+ Tambourine
+ BassAmp
+ BassDI
+ AcGtrMic
+ AcGtrMic
+ AcGtrMic
+ AcGtrMic
+ AcGtrMic
+ AcGtrMic
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ Synth
+ Synth
+ Synth
+ Synth
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ SynthSFX
+ Cellos MicPair
+ Cellos MicPair
+ Cellos MicPair
+ Cellos CloseMic
+ Strings MicPair
+ Strings MicPair
+ Strings MicPair
+ Strings SectionMic VlnI
+ Strings SectionMic Vln
+ Strings SectionMic Vla
+ Strings SectionMic Cello
+ Strings CellosCloseMic
+ ReverseStrings Mic
+ ReverseStrings Mic
+ LeadVox Singer
+ LeadVoxDT Singer
+ LeadVoxDT Singer
+ BackingVox Singer
+ BackingVoxa Singer
+ BackingVoxb Singer
+ BackingVoxa Singer
+ BackingVoxb Singer
+ BackingVoxa Singer
+ BackingVoxb Singer
+ BackingVoxa Singer
+ BackingVoxb Singer
+ BackingVoxa Singer
+ BackingVoxb Singer
+ BackingVoxa Singer
+ BackingVoxb Singer
+ BackingVoxa Singer
+ BackingVoxb Singer
+ BackingVox Singer
+ BackingVoxDT Singer
+ BackingVox Singer
+ BackingVoxDT Singer
+ BackingVox Singer
+ BackingVoxDT Singer
+ Loop
+ Loop
+ Loop
+ Kick
+ Kick
+ Clap
+ Clap
+ Snare
+ Cajon
+ ExoDrum
+ ExoDrum
+ Shaker
+ Tambourine
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ VoxSFX
+ Kick
+ Snare
+ Overheads
+ DrumsRoom
+ Bass
+ AcGtr
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtr
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ MainPair
+ DI
+ Kick
+ SnareUp
+ SnareDown
+ Overheads
+ Shaker
+ Bass
+ Bass
+ AcousticGtr
+ AcousticGtr
+ ElecPiano
+ Wurlitzer
+ Violin
+ Violin
+ LeadVox
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ SnareUp
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ Shaker
+ Tambourine
+ Bass DI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickIn
+ KickAmb
+ KickSample
+ KickSample
+ SnareUp
+ SnareDown
+ SnareSample
+ SnareSample
+ HiHat
+ Ride
+ Tom
+ Tom 
+ Tom 
+ Tom 
+ Overheads
+ Drum Room
+ BassDI
+ BassSynth
+ ElecGtrSFX
+ ElecGtr
+ ElecGtrDT
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Vox
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ MainPair
+ PianoSpot
+ VoxSpot VU
+ VoxSpot R
+ VoxSpot U
+ VoxSpot U
+ Loop
+ Loop
+ Loop
+ KickIn
+ KickIn
+ KickSub
+ HiHat
+ SnareDown
+ SnareUp
+ SnareUp
+ Tom
+ Overheads
+ DrumsRoomMono
+ DrumsRoomStereo
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Mellotron
+ Piano
+ Piano
+ Synth
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ KickSub
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ DrumsRoom
+ DrumsRoom
+ DrumsRoom
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ ViolinsA
+ ViolinsB
+ ViolinsA
+ ViolinsB
+ ViolasA
+ ViolasB
+ CellosA
+ CellosB
+ DoubleBassesA
+ DoubleBassesB
+ Kick
+ Snare
+ Overheads  
+ Overheads
+ Cymbals
+ Bass
+ Congas
+ ElecGtr
+ ElecGtr
+ LeadVox
+ HammondLeslieHi
+ HammondLeslieLo
+ Kick
+ Snare
+ KickSnareFX
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ Overheads CymbalsOnly
+ Room
+ Room CymbalsOnly
+ Drip
+ ReverseCymbal
+ GongSwell RemixAddition
+ CymbalSwell RemixAddition
+ PercussionLoop RemixAddition
+ FingerCymbals RemixAddition
+ BassGuitar
+ BassSynth
+ BassSubSynth RemixAddition
+ AcousticGtr RemixEdit
+ Synth
+ Synth RemixAddition
+ Synth RemixAddition
+ Synth RemixAddition
+ Synth RemixAddition
+ Synth RemixAddition
+ Synth RemixAddition
+ Synth RemixAddition
+ Synth RemixAddition
+ Synth RemixAddition
+ Synth
+ Synth
+ Synth RemixAddition
+ Trumpet
+ Violas RemixAddition
+ DoubleBasses RemixAddition
+ HarpSFX RemixAddition
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Tom
+ Cymbals
+ Cowbell
+ Congas
+ Percussion
+ Guaracha
+ GuarachaCumbia
+ Paliteo
+ Guache
+ Llamador
+ Bass
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ Organ
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Congas
+ Bass
+ Bass
+ UkeleleMic
+ UkeleleDI
+ Violin
+ Viola
+ Cello
+ LeadVox
+ BackingVox
+ACOUSTIC DI 
+ACOUSTIC DI 
+BASS   M
+BASS DI
+DRUMS   FLOOR TOM   M SH
+DRUMS   HI HAT   ELA M 
+DRUMS   KICK M
+DRUMS   OVERHEAD LEFT   ELA M 
+DRUMS   OVERHEAD RIGHT   ELA M 
+DRUMS   SNARE   M SH
+DRUMS   TOM    M SH
+GUITAR AMP    M
+GUITAR AMP    M
+GUITAR AMP    M
+GUITAR AMP    M
+KEY LEFT DI
+KEY RIGHT DI
+LESLIE LEFT   M
+LESLIE LOW   M
+LESLIE RIGHT   M
+ROOM AB    LEFT
+ROOM AB    RIGHT
+ROOM XY   AR  STEREO
+VOX    M
+VOX   M
+VOX    M
+ Kick
+ KickFX
+ Percussion
+ Percussion
+ Bass
+ SubBass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SFX
+ SFX
+ Vox
+ Kick
+ Kick
+ Kick
+ Kick
+ Kick
+ Snare
+ Snare
+ Snare
+ Snare
+ Snare
+ Cymbal
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ Loop
+ Break
+ Break
+ Break
+ SampleSFX
+ SampleSFX
+ SampleSFX
+ SampleSFX
+ SampleSFX
+ SampleSFX
+ SampleSFX
+ SampleSFX
+ Bass
+ Gtra Mic
+ Gtrb Mic
+ Gtrc Mic
+ Gtra Mic
+ Gtrb Mic
+ Gtra Mic
+ Gtrb Mic
+ Gtrc Mic
+ Gtra Mic
+ Gtrb Mic
+ Gtra Mic
+ Gtrb Mic
+ Gtra Mic
+ Gtrb Mic
+ Gtra Mic
+ Gtrb Mic
+ Gtrc Mic
+ Gtrd Mic
+ Synth
+ LeadVox
+ BackingVoxSFX
+ BackingVoxSFX
+ BackingVoxSFX
+ KickIn
+ KickOut
+ KickSub
+ KickSsmple
+ SnareUp
+ SnareDown
+ KickSnare
+ Tom
+ Tom
+ HiHat
+ OverheadMono
+ OverheadsStereo
+ DrumsRoom
+ Cajon
+ Llenties
+ Pandero
+ PanderoDT
+ Pandero
+ PanderoDT
+ Ivo
+ Ivo
+ Claps
+ Claps
+ Stomps
+ Clonk
+ Glup
+ Tambourine
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ BassDI
+ PianoMics
+ PianoMic
+ PianoMic
+ Hammond
+ Hammond
+ Hammond
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ KickIn
+ KickOut
+ KickSub
+ KickFX
+ SnareUp
+ SnareUp
+ SnareDown
+ SnareFX
+ Tom
+ Tom
+ Tom
+ Tom
+ HiHat
+ Ride
+ Overheads
+ Overheads RideOnly
+ Overheads CymbalsOnly
+ DrumsRoomMono
+ DrumsRoomMono CymbalsOnly
+ DrumsRoomStereo
+ DrumsRoomStereo RideOnly
+ DrumsRoomStereo CymbalsOnly
+ DrumsRoomStereo
+ DrumsRoomStereo TomsOnly
+ DrumsRoomStereo CymbalsOnly
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ LeadVoxClose
+ LeadVoxFar
+ LeadVoxClose
+ LeadVoxFar
+ BackingVoxClose
+ BackingVoxFar
+ BackingVoxClose
+ BackingVoxFar
+ BackingVoxClose
+ BackingVoxFar
+ BackingVoxClose
+ BackingVoxFar
+ BackingVoxClose
+ BackingVoxFar
+ BackingVoxClose
+ BackingVoxFar
+ VoxFX
+ VoxFX
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Tom
+ HiHat
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Tom
+ OverheadMono
+ OverheadStereo
+ DrumsRoom
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+BASS AMP CU API
+BASS DI API
+DRUM OVERHEAD OH LEFT CU GRACE
+DRUM OVERHEAD OH RIGHT CU GRACE
+DRUM SNARE M SH API
+DRUM TOMS  M SH API
+DRUM TOM M SH API
+DRUM KICK M API
+PERCUSSION MFET API
+CONGA A M SH API
+CONGA B M SH API
+E GUITAR  M API
+E GUITAR  M API
+KEYBOARD M API
+BARITONE SAX M API
+TROMBONE M API
+TRUMPET M API
+ROOM LEFT M API
+ROOM RIGHT M API
+DISTANT ROOM LEFT  AR STEREO GRACE
+DISTANT ROOM RIGHT  AR STEREO GRACE
+ Kick
+ Snare
+ Overheads
+ Toms
+ BassDI
+ ElecGtr
+ Saxophone
+ Piano
+ LeadVox
+ BackingVox
+ BackingVox
+ CajonMic
+ CajonMic
+ Shaker
+ Bass
+ AcGtr
+ AcGtrDI
+ Sample
+ Sample
+ Trumpet
+ MIDITrumpet
+ MIDITrombone
+ MIDITrombones
+ LeadVox
+ LeadVoxHarm
+ Drums
+ Percussion
+ Percussion
+ SnareFills
+ Cymbals
+ Loop
+ Loop
+ Maracas
+ Cabasa
+ Bass
+ Bass
+ Bass
+ ElecGtr
+ Piano
+ Piano
+ PianoPad
+ ElecPianoPad
+ Synth
+ Strings
+ Strings
+ SFX
+ SFX
+ SFX
+Bass Active DI
+Bass Amp TF
+Drums Floor M
+Drums HAT M
+Drums Kick In M
+Drums Kick Out TF
+Drums Over Close Ela M 
+Drums Over Far TF
+Drums Rack Tom M
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar Mike Proto
+ELE Guitar Jesse Proto
+Horns Bone Wet M
+Horns Bone Proto
+Horns Trumpet Ela M 
+Keys Active DI
+Keys Leslie Bottom M
+Keys Leslie Top M
+Vocals Erica Proto
+Vocals Mike Proto
+ KickIn
+ KickOut
+ KickSub
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoomMono
+ DrumsRoomStereo
+ DrumsRoomStereo
+ DrumsRoomStereo
+ BassDI
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ViolinSolo
+ Violins
+ Cellos
+ DoubleBasses
+ Kick
+ Snare
+ HiHat
+ Tom
+ Tom
+ Ride
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ SFX
+ Bass
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ Synth
+ Synth
+ Synth
+ Strings
+ Strings
+ LeadVox
+ LeadVox
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ KickIn
+ KickSample
+ SnareUp
+ SnareSample
+ Tom
+ Tom
+ HiHat
+ Overheads
+ DrumsRoomMono
+ DrumsRoomMono
+ DrumsRoomMono
+ DrumsRoomStereo
+ DrumsRoomStereo
+ Tambourine
+ Tambourine
+ Shaker
+ CymbalSwell
+ CymbalSwell
+ SFX
+ SFX
+ SFX
+ Bass
+ BassDI
+ BassAmp
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ Ukelele
+ AcousticGtr
+ Keys
+ Piano
+ Rhodes
+ Rhodes
+ Rhodes
+ FrenchHorn
+ Violin
+ Violin
+ Viola
+ Cello
+ Bass
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ Chimes
+ Gong
+ Choir
+ Piano
+ Kick
+ Snare
+ Sidestick
+ Clap
+ Clap
+ HiHat
+ HiHat
+ Piano
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ VoxFX
+ VoxFX
+ Kick
+ Snare
+ Overheads
+ Tom
+ Tom
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVox
+ KickSnare
+ HiHat
+ Percussion
+ Bass
+ Sub Bass
+ BassFX
+ Synth
+ Synth
+ Synth
+ Synth
+ SFX
+ SFX
+ SFX
+ Pianos
+ Vox
+ Kick
+ Snare
+ HiHat
+ Ride
+ Crash
+ Crash
+ Crash
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ Room
+ AcousticGtr
+ Bass
+ ElecGtr
+ ElecGtrDT
+ Piano
+ Sax
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Overhead
+ BassAmp
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtr
+ Rhodes
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ Sample
+ Kick
+ Snare
+ Overheads
+ Tom
+ Tom
+ Tom
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ BackingVox
+ Drums
+ Drums
+ Percussion
+ Percussion
+ BassSynth
+ Piano
+ Piano
+ Piano
+ Piano
+ Rhodes
+ Rhodes
+ Rhodes
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ Piano
+ Synths
+ LeadVox
+ BackingVox
+ Pizz
+ Pizz
+ Pizz
+ Pizz
+ Pizz
+ ArcoRhythm
+ ArcoRhythm
+ ArcoRhythm
+ ArcoRhythm
+ ArcoRhythm
+ ArcoRhythm
+ SFX
+ SFX
+ Theme
+ ThemeDT
+ ThemeCounter
+ Lyrical
+ Lyrical
+ Lyrical
+ LyricalDT
+ Lyrical
+ LyricalOctave
+ Lyrical
+ LyricalOctave
+ Lyrical
+ LyricalOctave
+Bass Active DI
+Bass Amp M
+Bass Amp U
+Drums Floor  M
+Drums Floor M
+Drums Hat M
+Drums Kick In M
+Drums Kick Out 
+Drums Over TF
+Drums Rack Tom M
+Drums Room M
+Drums Snare Bot M
+Drums Snare M
+ELE GTR Dis M
+ELE Guitar Clean M
+ELE Guitar Clean TF
+ELE Guitar Clean M
+ELE Guitar Clean TF
+ELE Guitar Dis M
+Vocals Adam Proto
+Vocals Brian Proto
+Vocals Kevin Proto
+ Kick
+ KickSub
+ KickSample
+ SnareUp
+ SnareDown
+ SnareSample
+ HiHat
+ Ride
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoomClose
+ DrumsRoomFar
+ BassAmp
+ BassDI
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Choir
+ Choir
+ Choir
+ Organ
+ Brass
+ LeadVoxa
+ LeadVoxb
+ LeadVoxa
+ LeadVoxb
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Overheads
+ Room
+ Tom
+ Tom
+ Tom
+ Tambourine
+ Tambourine
+ BassDI
+ BassAmp
+ Gtr
+ Gtr
+ LeadVox
+ BackingVox
+ BackingVox
+ KickMic
+ KickMic
+ SnareUpMic
+ SnareUpMic
+ SnareDown
+ SnareSide
+ Tom
+ Tom
+ HiHat
+ Ride
+ Overheads
+ DrumsSquash
+ DrumsRoom
+ BassDI
+ BassAmp
+ BassAmp
+ BassAmp
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ ElecGtrAmp
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ Kick
+ Snare
+ Overheads
+ Room
+ Tom
+ Tom
+ Tom
+ Tambourine
+ Tambourine
+ BassDI
+ BassAmp
+ Gtr
+ Gtr
+ LeadVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Overhead
+ BassDI
+ BassAmp
+ Rhodes
+ ElecGtrMic
+ ElecGtrMic
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ DrumLoop
+ Shaker
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ Horns
+ Keys
+ LeadVox
+ BackingVox
+ BackingVox
+ Kick
+ KickSample
+ KickSample
+ KickSFX
+ Snare
+ SnareSample
+ SnareAmb
+ SnareSFX
+ ReversedSnare
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ ReverseCymbals
+ Gunshot
+ DrumsBreak
+ BassDI
+ BassAmp
+ BassAmpDist
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Piano
+ Choir
+ Violas
+ Bells
+ StringsPizzicato
+ KickIn
+ KickOut
+ KickSample
+ SnareUp
+ SnareUp
+ SnareDown
+ KickSnare
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ Overheads
+ DrumsRoomStereo
+ DrumsRoomMono
+ Shaker
+ Tamb
+ Tamb
+ SFX
+ BassDI
+ BassAmp
+ AcousticGtr
+ AcousticGtr
+ AcousticGtrDT
+ AcousticGtr
+ AcousticGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Beep
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+Acoustic Guitar AR
+Acoustic Guitar Lead Ela M 
+Room L Ela M 
+Room R Ela M 
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Toms
+ Overheads
+ DrumsRoom
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ Kick
+ Kick
+ Kick
+ Kick
+ Snare
+ Snare
+ Snare
+ Crash
+ Crash
+ Crash
+ Crash
+ DrumsRoom
+ Tambourine
+ Loops
+ Loops
+ Bass
+ Bass
+ Bass
+ Bass
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVoxHi
+ LeadVoxLo
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+Acoustic Guitar Ela M 
+Banjo CU
+Mandolin Ela M 
+Bass Active DI
+Bass M
+Room AR
+Violin C
+Vocals Acoustic Guitar Proto
+Vocals Banjo Proto
+Vocals Bass Proto
+Vocals Mando Proto
+ KickIn
+ KickOut
+ HiHat
+ Overheads
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Tom
+ DrumsLeakage
+ DrumsRoom
+ Shaker
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ BassAmp
+ BassDI
+ AcousticGtr
+ AcousticGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ Strings
+ Organ
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ KickIn
+ KickOut
+ KickSample
+ KickSample
+ SnareUp
+ SnareDown
+ SnareSample
+ SnareSample
+ Tom
+ Tom
+ HiHat
+ Overhead
+ DrumsRoom
+ Shaker
+ Percussion
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxHarm
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxHarm
+ LeadVoxHarmDT
+ LeadVoxHarm
+ LeadVoxHarmDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ KickIn
+ KickOut
+ KickTrigger
+ SnareUp
+ SnareDown
+ SnareTrigger
+ HiHat
+ Ride
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ SFX
+ BassGuitar
+ BassSynth
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ Synth
+ Synth
+ Synth
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ Whisper
+ Kick
+ Kick
+ Snare
+ Snare
+ Snare
+ Toms
+ HiHat
+ HiHat
+ HiHat
+ Shaker
+ Shaker
+ Shaker
+ Cymbal
+ Cymbal
+ SFX
+ Bass
+ Bass
+ BassSFX
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SynthSFX
+ SynthSFX
+ Choir
+ Choir
+ Choir
+ Choir
+ Kick
+ KickSub
+ KickSample
+ SnareUp
+ SnareDown
+ SnareSample
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ Ride
+ DrumsRoomClose
+ DrumsRoomFar
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ AccordionMic
+ AccordionMic
+ AccordionMic
+ Choir
+ Choir
+ Organ
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ Kick
+ Snare
+ HiHat
+ Ride
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Whisper
+ Whisper
+ Kick
+ SnareUp
+ SnareDown
+ SnareSample
+ HiHat
+ Ride
+ Bell
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ BassAmp
+ BassDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVox
+ KickMic
+ KickMic
+ KickSample
+ SnareUpMic
+ SnareUpMic
+ SnareSample
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ Piano
+ Synth
+ Strings
+ SFXIntro
+ LeadVox
+ LeadVox
+ LeadVox
+ BackingVox
+Acoustic Guitar Guitar M
+Acoustic Guitar Guitar M
+Keys Keyboard ELA M 
+Keys Melodica C
+Keys Toy Piano ELA M 
+Room AR
+Vocals Vocal M
+Vocals Vocal M
+Vocals Vocal M
+ Beat
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+Bass DI
+Drums Kick Out Cu
+Drums Kick in M
+Drums Over M
+Drums Snare Bot M
+Drums Snare Top M
+Drums Tom M
+Drums Tom M
+Guitar Cu
+Guitar M
+Horns Bone M
+Horns Sax M
+Horns Trumpet M
+Percussion M
+Percussion M
+BONE  
+Room ELA M
+Chamber M
+ Kick LiveRoom
+ Snare LiveRoom
+ Overheads LiveRoom
+ Toms LiveRoom
+ BassMic LiveRoom
+ BassDI LiveRoom
+ Piano LiveRoom
+ Saxophone LiveRoom
+ LeadVox IsoBooth
+ Kick
+ Snare
+ Snare
+ Snare
+ Snare
+ Snare
+ Snare
+ Snare
+ Sidestick
+ Sidestick
+ Clicks
+ HiHat
+ HiHat
+ HiHat
+ HiHat
+ Toms
+ Ride
+ Cymbals
+ Cymbals
+ Cymbals
+ ReverseCymbal
+ VibraSlap
+ Triangle
+ Tambourine
+ Bass
+ Bass
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecPiano
+ ElecPiano
+ ElecPianoSFX
+ ElecPianoSFX
+ Idiophone
+ ToyPiano
+ SFX
+ SFX
+ SFX
+ SFX
+Bass DI
+Drums Chamber M
+Drums Floor M
+Drums Kick in M
+Drums Kick out CU
+Drums Overhead ELA M 
+Drums Rack M
+Drums Room M
+Drums Snare bottom M
+Drums Snare top M
+ELE Guitar AMP CU
+ELE Guitar Amp M
+Keys Amp M
+Vocals  M
+Vocals  M
+Vocals  M
+ Kick
+ Snare
+ SnareDelay
+ Overheads
+ DrumsRoom
+ BassDI
+ ElecGtr
+ ElecGtrDT
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ HiHat
+ Ride
+ Snare
+ Tambourine
+ Tom
+ Tom
+ Cymbal
+ Clap
+ BassMic
+ BassDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ SFX
+ SFX
+ SFX
+ LeadVox
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ SnareUp
+ Tom
+ Tom
+ Overheads
+ MonoRoom
+ BassDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ Overheads
+ DrumsRoom
+ Tom
+ Tom
+ Bell
+ SFX
+ BassDI
+ BassAmp
+ AcousticGtr
+ AcousticGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Strings
+ Strings
+ LeadVox
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ DrumsCrush
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Choir
+ Choir
+ Piano
+ Bells
+ Brass
+ Brass
+ Strings
+ Flutes
+ Synth
+ Synth
+ Synth
+ SFX
+ KickIn
+ KickOut
+ KickSub
+ SnareUp
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Tom
+ Tom
+ HiHat
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtr
+ Vibes
+ Rhodes
+ ToyPiano
+ LeadVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Tom
+ HiHat
+ Ride
+ Cymbal
+ Overheads
+ DrumsRoom
+ Bass
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ VoxDT
+ VoxDT
+ VoxDT
+ Vox
+ Kick
+ Snare
+ HatOpen
+ HatClosed
+ HatClosed
+ Clap
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ Percussion
+ Bass
+ Bass
+ SynthArp
+ SynthArp
+ SynthLead
+ SynthLead
+ Strings
+ ElectroChoir
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+BASS U
+ELA M  AC 
+M LEFT
+M RIGHT
+ROOM AR
+ Kick
+ Snare
+ Tom
+ Overheads
+ Bass
+ AcGtr
+ Dobro
+ ElecGtr
+ Fiddle
+ Piano
+ LeadVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ DrumsSideL
+ DrumsSideR
+ DrumsOverhead
+ DrumsOverhead
+ DrumsRoom
+ Tambourine
+ Bass
+ ElecGtr
+ ElecGtra Close
+ ElecGtrb Amb
+ SlecGtra Close
+ ElecGtrb Amb
+ AcGtr Mic
+ AcGtr Mic
+ AcGtr Mic
+ AcGtr Mic
+ Rhodes
+ LeadVoxDuet
+ BackingVoxSubmix
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Drumkit KickIn
+ Drumkit SnareUp
+ Drumkit SnareDown
+ Drumkit HiHat
+ Drumkit Toms
+ Drumkit Overheads
+ Drumkit Room
+ Loop
+ Loop
+ Loop
+ Loop
+ DrumFill
+ Kick
+ Kick
+ Snare
+ Snare
+ Clap
+ Toms
+ HiHat
+ HiHatSFX
+ Ride
+ Tambourine
+ Shaker
+ Triangle
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Keys
+ Synth
+ PianoSFX
+ PianoSFX
+ LeadVox Edited
+ LeadVox Raw
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ VoxSFX
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ BassDI
+ BassPedals
+ BassAmpMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVoxDT
+Acoustic Guitar ELA M 
+Drums Floor M
+Drums Mono Over AR
+Horns Bone M
+Horns Trumpet M
+Room ELA M E
+Vocals BV M
+Vocals BV M
+Vocals Lead CU
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ ReverseCymbal
+ BassDI
+ BassAmp
+ BassAmpDist
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ KickMic
+ KickMic
+ KickSample
+ SnareUp
+ SnareUp
+ SnareDown
+ SnareSide
+ SnareSample
+ SnareSample
+ Tom
+ Tom
+ HHat
+ Ride
+ Overheads
+ DrumsRoom
+ DrumsSquash
+ BassDI
+ BassAmp
+ BassAmp
+ BassAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrAmp
+ ElecGtrDI
+ ElecGtrDI
+ ElecGtrAmp
+ Vox
+ VoxDT
+ Vox
+ Vox
+ VoxDT
+ Vox
+ VoxDT
+ VoxDT
+ Vox
+ Vox
+Bass DI
+Drums Chamber AR
+Drums Floor M
+Drums Hat M
+Drums Kick Out 
+Drums Kick in M
+Drums Overhead CU
+Drums Rack M
+Drums Snare Bottom M
+Drums Snare Top M
+Drums Snare Top M
+ELE Guitar  Con AK
+ELE Guitar  Dyn M
+ELE Guitar  Con AR
+ELE Guitar  Dyn M
+Keys Hammond M
+Vocals BG M
+Vocals BG M
+Vocals Erica M
+Vocals Nick M
+ Bombo
+ SnareUp
+ SnareDown
+ HiHat
+ Cunono
+ Cunono
+ CunonoSample
+ Paliteo
+ Guasa
+ BassDI
+ BassMic
+ Marimba
+ ElecGtr
+ ElecGtr
+ Saxophone
+ Saxophone
+ Saxophone
+ Saxophone
+ Saxophone
+ Saxophone
+ Kick
+ Clap
+ Hat
+ Hat
+ Hat
+ Crash
+ SFX
+ Bass
+ ElecGtr
+ VoxSample
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ OverheadMono
+ OverheadsStereo
+ DrumsRoom
+ CymbalRolls
+ Tambourine
+ AcousticGtr
+ Bass
+ Piano
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Strings
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ KickBeater
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Cymbal
+ Cymbal
+ BassDI
+ BassAmp
+  AcousticGtrMic
+  AcousticGtrDI
+  AcousticGtrMic
+  AcousticGtrDI
+ LeadVox
+ LeadVoxFX
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ Shaker
+ Tambourine
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrDTMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ KickAmb
+ SnareCymbals
+ Tambourine
+ TambourineAmb
+ Shaker
+ FingerClicks
+ FingerClicks
+ FingerClicks
+ FingerClicks
+ Claps
+ Claps
+ Claps
+ Claps
+ Claps
+ Claps
+ Claps
+ Claps
+ Bass
+ Guitalele
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Snare
+ HiHat
+ HiHat
+ Crash
+ Percussion
+ Bass
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox Tuned
+ LeadVox Untuned
+ BackingVox Tuned
+ BackingVox Untuned
+ BackingVox Tuned
+ BackingVox Untuned
+Bass Active DI
+Drums Floor M
+Drums Kick In M
+Drums Kick Out CU
+Drums Overhead ELA M 
+Drums Rack Tom M
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar M
+ELE Guitar M
+Horns Bone ELA M 
+Horns Sax M
+Horns Trumpet ELA M 
+Keys CP Active DI
+Keys Leslie Bottom M
+Keys Leslie Top M
+Percussion Conga M
+Percussion Overhead M
+Percussion Tim M
+Vocals BV M
+Vocals BV M
+Vocals Lead M
+ Kick
+ KickIn
+ KickOut
+ KickSub
+ Snare
+ SnareOver
+ SnareUnder
+ SnareSquash
+ Hat
+ Hat
+ Hat
+ Tom
+ Tom
+ Cymbals
+ Overheads
+ DrumsRoom
+ BassDI
+ BassAmp
+ BassSlideDI
+ BassSlideAmp
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+Acoustic Guitar Active DI
+Bass Amp AK
+Bass Amp M
+Drums Chamber M
+Drums Floor Tom M
+Drums HAT M
+Drums Kick In M
+Drums Kick Out AK
+Drums Overheads CU
+Drums Rack Tom M
+Drums Ride M
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar M
+Keys Active DI
+Tracks Active DI
+Vocals BGV M
+Vocals BGV M
+Vocals Lead M
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ Tom
+ Tom
+ DrumsRoom
+ DrumsRoomLoFi
+ BassDI
+ BassAmp
+ ElecGtr
+ Ukelele
+ Flute
+ LeadVox
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ BassMic
+ BassMic
+ BassDI
+ PianoMicPair
+ PianoMicPair
+ PianoMicPair
+ LeadVox
+ LeadVoxHarm
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickBatter
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ BassAmp
+ BassSynth
+ BassSynth
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadfVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ Kick
+ Kick
+ Kick
+ HiHat
+ Shaker
+ Percussion
+ Tom
+ Tom
+ Tom
+ Tom
+ Cymbal
+ Claves
+ Clap
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ Bass
+ BassSub
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Kick
+ Snare
+ HiHat
+ Loop
+ Loop
+ Loop
+ Shaker
+ Chug
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ BassSub
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ KickIn
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ SnareSample
+ HiHat
+ Tom
+ Tom
+ Tom
+ OverheadStereo
+ OverheadMono
+ DrumsRoom
+ Percussion
+ Loop
+ Loop
+ Loop
+ Loop
+ Break
+ Scratch
+ Scratch
+ Scratch
+ Scratch
+ Scratch
+ VinylNoise
+ VinylNoise
+ Bass
+ Bass
+ FluteLoop
+ StringsLoop
+ Hammond
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadvoxDT
+ LeadvoxAccents
+ LeadvoxAccents
+ LeadvoxAccents
+ LeadVox
+ LeadVoxDT
+ LeadVoxAccents
+ MobVox
+ MobVox
+ MobVox
+ MobVox
+ MobVox
+ MobVox
+ MobVox
+ MobVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Laugh
+ Laugh
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ Tom
+ Tom
+ Room
+ RoomLoFi
+ BassDI
+ BassAmp
+ ElecGtr
+ Ukelele
+ LeadVox
+ BackingVox
+ GtrMic
+ GtrMic
+ KickIn
+ KickOut
+ KickSub
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoomMono
+ DrumsRoomStereo
+ DrumsRoomStereo
+ DrumsRoomStereo
+ SFX
+ BassDI
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ Celesta
+ SoloViolin
+ Violins
+ Cello
+ Basses
+ Loop
+ Loop
+ Loop
+ Loop
+ Kick
+ Snare
+ HiHat
+ CymbalRolls
+ Cymbals
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SynthPad
+ SynthPad
+ SynthPad
+ Strings
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ AcGtr
+ AcGtr
+ AcGtr
+ AcGtr
+ AcGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Sitar
+ LeadVox
+ LeadVoxDoubles
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Kick
+ Snare
+ Snare
+ Snare
+ Snare
+ ReverseSnare
+ HiHat
+ Toms
+ ReverseSFX
+ ReverseSFX
+ SFX
+ SFX
+ SFX
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Kick
+ Snare
+ HiHat
+ Drumkit Kick
+ Drumkit Snare
+ Drumkit Overheads
+ TomOD
+ TomOD
+ SidestickOD Tom
+ SidestickOD Overheads
+ Claps
+ Claps
+ Claps
+ Bass
+ Bass
+ BassFX
+ BassFX
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ AcousticGtr
+ LeadVox
+ LeadVox
+ Kick
+ KickSub
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Overheads
+ DrumsRoomMono
+ DrumsRoomStereo
+ BassBI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMicDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ Piano
+ SFX
+ SFX
+ SFX
+ SFX
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ BassMic
+ BassDI
+ PianoMics
+ PianoMics
+ Clarinet
+ Trombone
+ Trumpet
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ ChinaCymbal
+ Overheads
+ DrumsRoom
+ Tom
+ Tom
+ BassDI
+ BassAmp
+ ElecGtra Amp
+ ElecGtrb Amp
+ ElecGtrc DI
+ ElecGtra Amp
+ ElecGtrb Amp
+ ElecGtrc DI
+ ElecGtra Amp
+ ElecGtrb DI
+ Vox
+ Vox
+ Loop
+ Loop
+ Loop
+ Kick
+ Kick
+ Clap
+ Clap
+ Snare
+ Hihat
+ Shaker
+ Tom
+ Tom
+ Tom
+ Tom
+ ImpactDrums
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Piano
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ VoxSFX
+ VoxSFX
+ Kick
+ SnareUp
+ SnareDown
+ Overheads
+ DrumRoom
+ Tom
+ Tom
+ BassDI
+ BassAmp
+ BassAmp
+ GtrAmp
+ GtrAmp
+ GtrAmp
+ GtrAmp
+ GtrAmp
+ GtrAmp
+ GtrAmp
+ GtrAmp
+ GtrAmp
+ LeadVox
+ LeadVoxDoubletrack
+ BackingVox
+ BackingVox
+Bass Active DI
+Bass Amp M
+Drums Floor Tom M
+Drums Hat ELA M 
+Drums Kick In M
+Drums Kick Out Proto 
+Drums Overheads CU
+Drums Rack Tom M
+Drums Room M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar Con AR
+ELE Guitar Con M
+ELE Guitar Dyn M
+ElE Guitar Dyn M
+Keys Amp M
+Keys Hammond Passive DI
+Vocals Bass M
+Vocals GTR M
+Vocals Lead M
+Backing Vox A (Korby KAT C ) 
+Backing Vox B (Korby KAT C ) 
+Bass Active DI. 
+Bass Amp M. 
+Drums Aux Snare M. 
+Drums Floor Tom  M. 
+Drums Floor M. 
+Drums Kick In M. 
+Drums Over TF. 
+Drums Rack Tom  M. 
+Drums Rack Tom M. 
+Drums Room m. 
+Drums Snare M. 
+EGuitar    (Palmer PDI)
+EGuitar TF 
+EGutiar    (Earthworks SR)
+Keys Leslie M. 
+Lead Vox A (AKG ) 
+Lead Vox B (AKG ) 
+perc shaker. 
+perc toms . 
+perc toms . 
+perc toms . 
+perc toms room. 
+ Kick
+ Snare
+ Overheads
+ Bass
+ AcousticGtr
+ AcousticGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ ReverseCymbal
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ AcousticGtr
+ AcousticGtr
+ Kick
+ Snare
+ Snare
+ Snare
+ Congas
+ Gong
+ PercussionSFX
+ Shaker
+ Bass
+ Bells
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ Piano
+ Synth
+ VoxSFX
+ VoxSFX
+Aco Guitar ELA M 
+Bass DI
+Drums Chamber M
+Drums Floor M
+Drums Kick Out CU
+Drums Kick in M
+Drums Overhead AR
+Drums Rack M
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar Dyn M
+ElE Guitar Con AK
+Vox Bass M
+Vox Guitar M
+Vox Jamie M
+Vox oooooo M
+ Kick
+ Snare
+ Snarea
+ Snareb
+ Snarec
+ Snared
+ Snaree
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ HiHat
+ Ride
+ Rde
+ Cymbal
+ Cymbal
+ Cymbal
+ Cymbal
+ Overheads
+ DrumsRoom
+ Tambourine
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ OboeBassoon
+ Tuba
+ Strings
+ Strings
+ Strings
+ Bells
+ Marimba
+ Synth
+ Synth
+ Synth
+ Synth
+ KickIn
+ KickOut
+ KickTrigger
+ SnareUpMic
+ SnareUpMic
+ SnareDown
+ SnareTrigger
+ HiHat
+ Overheads
+ Overheads
+ DrumsRoomMono
+ DrumsRoomStereo
+ Tom
+ TomTrigger
+ Tom
+ TomTrigger
+ Tom
+ TomTrigger
+ BassDI
+ BassDIPedals
+ BassAmpMic
+ BassAmpMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ LeadVoxMic
+ LeadVoxMic
+ LeadVoxDTMic
+ LeadVoxDTMic
+ BackingVoxMic
+ BackingVoxMic
+ BackingVoxMic
+ BackingVoxMic
+ BackingVox
+ BackingVox
+Bass DI
+Chamber Ar
+Drums Hat ELA M
+Drums Kick Out Cu
+Drums Kick in M
+Drums Overhead ELA M
+Drums Ride ELA M
+Drums Snare Bottom M
+Drums Snare Top M
+Drums Tom M
+Drums Tom M
+Guitar Msh
+Mandolin DI
+Mandolin Mic M
+Room M
+Vocals Amy M
+Vocals Byron M
+Vocals Dan M
+ Kick
+ Bass
+ Percussion
+ Percussion
+ Percussion
+ SnareRolls
+ SFX
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Vox
+Bass DI
+Chamber Ar
+Drums Floor Tom M
+Drums Hat M
+Drums Kick In M
+Drums Kick Out Cu
+Drums Overhead Ar
+Drums Snare Bottom M
+Drums Snare Top M
+Drums Tom M
+Guitar Condenser Jon Cu
+Guitar Condenser Tory Cu
+Guitar Dynamic Jon M
+Guitar Dynamic Tory Msh
+Horns Bone M
+Horns Trumpet Msh
+Room U
+Vocals Main M
+ Kick
+ Kick
+ Snare
+ Snare
+ HiHat
+ Toms
+ Toms
+ Overheads
+ Claps
+ Gong
+ Bass
+ ElecGtr
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ HandBells
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ VoxSample
+ KickIn
+ KickOut
+ KickSub
+ KickSample
+ SnareUp
+ SnareDown
+ SanreSample
+ SnareSample
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ BassDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Rhodes
+ Hammond
+ Hammond
+ Mellotron
+ Piano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Trumpet
+ Sax
+ Trombone
+ Trombone
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ VoxIntro
+ KickIn
+ KickOut
+ KickPunch
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsSquash
+ DrumsRoom
+ Tambourine
+ HandClaps
+ Conga
+ Timbale
+ Percussion
+ Bass
+ Bass AlternatePart
+ AcousticGtr
+ AcousticGtrDT
+ AcousticGtr
+ AcousticGtrDT
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ AcousticGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtrDI
+ ElecGtrDIDT
+ ElecGtrDI
+ ElecGtrDIDT
+ SteelPans
+ SteelPansDT
+ SteelPansDT
+ SteelPansDT
+ SteelPansDT
+ SteelPansDT
+ SteelPansDT
+ SteelPansDT
+ SteelPansDT
+ SteelPansDT
+ SteelPansDT
+ SteelPansDT
+ SteelPans
+ SteelPans
+ SteelPansDT
+ SteelPansDT
+ Xylophone
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Overheads
+ Room
+ Tom
+ Tom
+ Bass
+ Gtr
+ Gtr
+ Gtr
+ Organ
+ LeadVox
+ LeadVoxScratch
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ Overheads
+ Toms
+ BassMic
+ BassDI
+ Sax
+ Piano
+ LeadVox
+ Kick
+ Snare
+ Overheads
+ DrumsRoom
+ Bass
+ AcGtr
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ DrumsLeakage
+ Overheads
+ DrumsRoom
+ Tambourine
+ HandClaps
+ KickIn AlternateTake
+ KickOut AlternateTake
+ SnareUp AlternateTake
+ SnareDown AlternateTake
+ HiHat AlternateTake
+ Tom AlternateTake
+ Tom AlternateTake
+ Tom AlternateTake
+ DrumsLeakage AlternateTake
+ Overheads AlternateTake
+ DrumsRoom AlternateTake
+ Tambourine AlternateTake
+ Tambourine AlternateTake
+ Bass
+ Bass AlternateTake
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Organ
+ Organ
+ Organ
+ LeadVox
+ LeadVoxFX
+ LeadVoxFX
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxFX
+ BackingVoxFX
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ VocalSFX
+ VocalSFX
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Overheads
+ BassAmpMic
+ BassAmpMic
+ BassDI
+ AcousticGtrMics
+ AcousticGtrMic
+ AcousticGtrDI
+ AcousticGtr
+ AcousticGtr
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMics
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMics
+ ElecGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+KICK M
+HI HAT M
+SNARE M SH
+TOM  M SH
+TOM  M SH
+TOM  M SH
+OVERHEAD L M FET
+OVERHEAD R M FET
+BASS DI
+BANJO DI
+E GUITAR   M
+E GUITAR  M
+LESLIE BOTTOM M
+LESLIE TOP M SH
+NORD ELECTRO L DI
+NORD ELECTRO R DI
+NORD L DI
+NORD R DI
+SAMPLER DI
+VOX LEAD M
+VOX  M
+VOX  M
+VOX  M
+ Kick
+ Snare
+ HiHat
+ Overheads
+ Room
+ Tom
+ Tom
+ BassDI
+ BassAmp
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ Hammond
+ Piano
+ PianoReverb
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ KickSub
+ SnareUpMic
+ SnareUpMic
+ DnareDown
+ Tom
+ Tom
+ Tom
+ HiHat
+ Cymbals
+ DrumsRoom
+ DrumsRoom
+ DrumsRoom
+ DrumsRoom
+ DrumsRoom
+ Tambourine
+ TambourineRoom
+ Tambourine
+ BassDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Rhodes
+ ElecPiano
+ Vibrophone
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ KickSample
+ SnareSample
+ Percussion
+ CymbalSFX
+ Drumkit Kick
+ Drumkit SnareUp
+ Drumkit SnareDown
+ Drumkit Tom
+ Drumkit Tom
+ Drumkit Cymbal
+ Drumkit Overheads
+ Drumkit Room
+ Percussion
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Piano
+ Sample
+ Choir
+ Horns
+ SfX
+ LeadVox
+ LeadVoxDT
+ LeadVoxFX
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ Cymbal
+ Bass
+ SubBass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ SynthFX
+ Loop
+ Snare
+ SFX
+ SFX
+ BassMIDI
+ Piano
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Synth
+ Strings
+ ViolinMIDI
+ ViolaMIDI
+ CelloMIDI
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Toms
+ Overheads
+ Room
+ BassDI
+ ElecGtr
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ LeadVox
+ BackingVox
+ Kick
+ Clap
+ Snare
+ HiHat
+ Shaker
+ RevCymbal
+ SFX
+ Bass
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ Piano
+ Piano
+ PianoAndStrings
+ Strings
+ Strings
+ Strings
+ Viola
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ Tom
+ Tom
+ Cymbals
+ Tambourine
+ Claps
+ Claps
+ Claps
+ Claps
+ Bass
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ EelcGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+Bell Drum Close M 
+Bell Drum TF  
+Bell  TF  
+Djembe  M SH 
+Djembe  M SH 
+Djembe  M SH 
+Djembe  M SH 
+Dun Dun  M 
+Dun Dun  M  
+Dun Dun   M 
+Dun Dun Extra  M 
+Dun Dun Set TF 
+Shekere M 
+Wide Room  TF 
+Wide Room  TF 
+Close Room M 
+ Kick
+ Snare
+ HiHat
+ Drums
+ Percussion
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrDT
+ BellPiano
+ PianoSynth
+ Radio
+ Speech
+ Vox
+ Vox
+ Vox
+ Vox
+ Vox
+ SFX
+ SFX
+ SFX
+ Bass
+ Bass
+ AcousticGtr
+ ElecGtr
+ Synth
+ Synth
+ Synth
+ SynthSFX
+ SynthSFX
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ VoxSFX
+ Kick
+ SnareUp
+ SnareDown
+ Tom
+ Tom
+ HiHat
+ Overheads
+ CymbalsOD
+ Tambourine
+ Shaker
+ Claps
+ SFX
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtra
+ ElecGtrb
+ AcousticGtra
+ AcousticGtrb
+ AcousticGtr
+ Organ
+ Piano
+ Trumpets
+ Flugelhorns
+ Saxophones
+ Brass
+ BrassDrop
+ LeadVoxa
+ LeadVoxb
+ LeadVoxDT
+ LeadVoxHarm
+ LeadVoxHarm
+ LeadVoxHarm
+ LeadVox
+ LeadVoxDT
+ LeadVoxHarm
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ BassDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtrDT
+ ElecGtrDTDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Bells
+ Choir
+ Choir
+ Organ
+ Piano
+ Synth
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Ride
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ Tambourine
+ BassDI
+ BassDist
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ AcousticGtr
+ Rhodes
+ Hammond
+ Clavinet
+ Synth
+ Synth
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Kick
+ Kick
+ Snare
+ Snare
+ Percussion
+ Percussion
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Bass
+ Sample
+ Synth
+ Synth
+ Synth
+ VoxDry
+ VoxDry
+ VoxBothSFX
+ Kick
+ Snare
+ HiHat
+ Tom
+ Tom
+ Cymbal
+ Cymbal
+ Tambourine
+ BassDI
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ AcousticGtr
+ NylonGtr
+ Kick
+ Kick
+ Kick
+ Snare
+ Snare
+  Kt. HH
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ BassDI
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVox
+ Synth
+ Piano
+ DoubleBass
+ Brass
+ KickMic
+ KickMic
+ KickSub
+ SnareUp
+ SnareDown
+ HiHat
+ Ride
+ Overheads
+ DrumsRoom
+ Tom
+ Tom
+ Tom
+ CymbalsOD
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ ElecGtr
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrDI
+ AcousticGtr
+ CelloMic
+ CelloMic
+ CelloMic
+ CelloMic
+ PianoMic
+ PianoMic
+ PianoRoom
+ Synth
+ Synth
+ LeadVox
+ LeadVoxRoom
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ HiHat
+ Ride
+ Cymbal
+ Tambourine
+ Bass
+ AcousticGtr
+ AcousticGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Hammond
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ KickClose
+ KickFar
+ KickSub
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ Tom
+ Tom
+ Tom
+ Room
+ Tambourine
+ BassDI
+ ElecGtrClose
+ ElecGtrFar
+ ElecGtrDI
+ ElecGtrClose
+ ElecGtrFar
+ ElecGtrDI
+ ElecGtrClose
+ ElecGtrFar
+ ElecGtrDI
+ HammondLeslieLo
+ HammondLeslieHi
+ Organ
+ MellotronFlute
+ LeadVox
+ LeadVoxFX
+ BackingVox
+ BackingVox
+ BackingVox
+ IntroClose
+ IntroClose
+ IntroFar
+ IntroFar
+ KickIn
+ KickOut
+ SnareUp
+ SnareDown
+ HiHat
+ Overheads
+ DrumsRoom
+ DrumsRoom
+ Tom
+ Tom
+ BassDI
+ BassAmp
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Kick
+ Snare
+ HiHat
+ Cymbal
+ CymbalFX
+ Chimes
+ Chimes
+ Bass
+ Piano
+ Piano
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ ElecGtrFX
+ Strings
+ Strings
+ Strings
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ Loop
+ Loop
+ Loop
+ Kick
+ Snare
+ HiHat
+ HiHat
+ HiHat
+ HiHat
+ Ride
+ CymbalWash
+ CymbalWash
+ CymbalRoll
+ CymbalRoll
+ Cymbal
+ Cymbal
+ Cymbal
+ Cymbal
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ Rhodes
+ Synth
+ Synth
+ Synth
+ Synth
+ LeadVox
+ BackingVox
+ BackingVox
+ Pair OverheadORTF
+ Pair FrontMS
+ Spot LowStrings
+ Spot HighStrings
+ Spot Vocals
+ Drums Kick
+ Drums Snare
+ Overheads
+ Tambourine
+ BassDI
+ BassAmp
+ AcousticGtr
+ AcousticGtrDT
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDry
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDry
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDry
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ Hammond
+ HammondRaw
+ Rhodes
+ RhodesDry
+ RhodesRaw
+ LeadVoxTapeEffect
+ LeadVoxRaw
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ Vox
+ Vox
+ Clicks
+ MainPair
+ OutriggerPair
+ HallPair
+ SpotPair Piano
+ SpotPair Woodwind
+ Spot Violin
+ Spot Violin
+ Spot Viola
+ Spot Cello
+ Spot Bass
+Bass Active DI
+Bass Mic M
+Drums Floor Mic M
+Drums Floor M
+Drums Hat ELA M 
+Drums Kick In M
+Drums Kick Out CU
+Drums Kick Out Proto 
+Drums Overhead ELA M 
+Drums Rack M
+Drums Room M
+Drums Sample Passive DI
+Drums Snare Bottom M
+Drums Snare Top M
+ELE Guitar Con CU
+ELE Guitar Dyn M
+ELE Guitar Shelf Mic AR
+Vocals Clean M
+Vocals Drums M
+Vocals EFX Shure DX
+ Kick
+ Clap
+ Clap
+ Snare
+ HiHat
+ Ride
+ Percussion
+ Bass
+ Synth
+ Sample
+ Sample
+ Sample
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ KickIn
+ KickOut
+ KickTrigger
+ KickSample
+ KickSampleRoom
+ SnareUp
+ SnareUp
+ SnareDown
+ SnareTrigger
+ SnareSample
+ SnareSampleRoom
+ SnareSample
+ HiHat
+ Ride
+ Tom
+ TomTrigger
+ Tom
+ TomTrigger
+ Overheads
+ DrumsSquashMic
+ DrumsRoomClose
+ DrumsRoomClose
+ DrumsRoomFar
+ DrumsSFXClose
+ DrumsSFXFar
+ BassDI
+ BassSansamp
+ Synth
+ ElecGtr
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMc
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVoxFX
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ BackingVox
+ DrumMachine
+ Kick
+ KickSample
+ Snare
+ SnareSample
+ SnareSample
+ HiHat
+ Tom
+ Tom
+ Cymbal
+ CymbalSample
+ CymbalSample
+ DrumsRoom
+ Shaker
+ SleighBells
+ Tambourine
+ Hand Claps
+ Bass
+ AcousticGtr
+ AcousticGtr
+ Rhythm Gtr
+ Piano
+ Organ
+ Keyboard
+ PianoSFX
+ Glockenspiel
+ Violin
+ Violin
+ Viola
+ Cello
+ StringsMix
+ StringsTunedMix
+ ViolinSamples
+ ViolaSamples
+ CelloSamples
+ CelloSamples
+ TrumpetSamples
+ FrenchHornSamples
+ Harmonica
+ Lead Vox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ KickRoom
+ Overhead
+ Cymbals
+ Snaps
+ Tambourine
+ Shaker
+ TomRoll
+ Claps
+ Claps
+ Claps
+ ClapsRoom
+ Cello
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ AcousticGtr
+ Banjo
+ Banjo
+ ElecGtr
+ Piano
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Snare
+ HiHat
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ SFX
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ AcousticGtr
+ Synth
+ Accordion
+ Flute
+ Violin
+ LeadVox
+ BackingVox
+ BackingVox
+ KickIn
+ KickOut
+ KickSub
+ SnareUp
+ SnareDown
+ SnareSample
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ OverheadsStereo
+ OverheadsMono
+ DrumsRoom
+ Tambourine
+ Shaker
+ BassDI
+ BassDist
+ BassAmp
+ RevCymbal
+ ElecGtrAmp
+ ElecGtrAmp
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtrAmp
+ ElecGtrAmp
+ AcousticGtr
+ AcousticGtrDT
+ Rhodes
+ Hammond
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ BackingVoxDT
+ BackingVox
+ Kick
+ Snare
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bells
+ Shaker
+ BassDI
+ BassDI
+ ElecGtra
+ ElecGtrb
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxSFX
+ Kick
+ Snare
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ Bass
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ Kick
+ Kick
+ Kick
+ Snare
+ Snare
+ SnareSub
+ Hat
+ Hat
+ Hat
+ Hat
+ Hat
+ Hat
+ Percussion
+ Drums
+ Timpani
+ Timpani
+ Timpani
+ Timpani
+ CymbalRolls
+ BassDrum
+ Bass
+ Bass
+ Bass
+ Bass
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Synth
+ Clavinet
+ Orchestra
+ Orchestra
+ Strings
+ Strings
+ Strings
+ Strings
+ Strings
+ Strings
+ Strings
+ Strings
+ Strings
+ Flute
+ Cello
+ Brass
+ AcGtr
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ LeadVoxa
+ LeadVoxb
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxChorus
+ LeadVoxChorus
+ LeadVoxChorus
+ LeadVoxChorus
+ LeadVoxChorus
+DRUM OVERHEAD STEREO L   AR    Neve 
+DRUM OVERHEAD STEREO R   AR    Neve 
+KICK   U   Neve 
+E GUITAR   AR    Presonus M
+LEAD VOX   U   Neve 
+PIANO A   ELA M    Neve 
+PIANO B   ELA M    Neve 
+ROOM A   Beyer Dynamic    Neve 
+ROOM B   Beyer Dynamic    Neve 
+ROOM C   AR    Chandler Germanium
+ROOM D   AR    Chandler Germanium
+ROOM STEREO L   C w TFUNK CK   Neve 
+ROOM STEREO R   C w TFUNK CK   Neve 
+SAX A   AK mkII   Neve 
+SAX B   AK mkII   Neve 
+TROMBONE A   AR    Neve 
+TROMBONE B   AR    Neve 
+TRUMPET A   AR    Neve 
+TRUMPET B   AR    Neve 
+UPRIGHT BASS   DI   Neve 
+UPRIGHT BASS   ELA M    Neve 
+ Gtr
+ Kick
+ KickTrigger
+ KickSample
+ SnareUp
+ SnareDown
+ SnareSample
+ SnareTrigger
+ Overheads
+ Tom
+ TomTrigger
+ Tom
+ TomTrigger
+ Bell Sample
+ BassDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtrDI
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ LeadVox
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVoxDT
+ Kick
+ SnareUp
+ SnareDown
+ HiHat
+ Tom
+ Tom
+ Tom
+ Tom
+ Overheads
+ DrumsRoom
+ Bass
+ SFX
+ SFX
+ Piano
+ Piano
+ Strings
+ LeadVox
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ Kick
+ SnareUp
+ SnareDown
+ SnareSample
+ SnareSample
+ SnareSample
+ SnareSample
+ HiHat
+ Toms
+ Overheads
+ DrumsRoom
+ DrumsSquash
+ DrumsVerb
+ Bass
+ ElecGtr
+ ElecGtrDT
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ ElecGtr
+ AcousticGtr
+ Piano
+ Hammond
+ SynthBells
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ SFX
+ Kick
+ Kick
+ Snare
+ Hat
+ Hat
+ Sample
+ LeadVox
+ LeadVoxDouble
+ LeadVoxDouble
+ Scream
+ Beat
+ LeadVox
+ LeadVox
+ AdLibs
+ Drums
+ Flutes
+ BassFlutes
+ Dulcimer
+ Strings
+ LeadVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+ BackingVox
+DRUM ROOM   U    BAE 
+KICK   M (new instrument prototype design)   API  
+KICK   M (stock version)   API 
+KICK   U   API 
+SNARE BOTTOM   M   API 
+SNARE TOP   M   API 
+HI HAT   ELA M    API 
+RIDE   ELA M    BAE 
+TOM    M   API 
+TOM    M   API 
+OH LEFT   CU  copperhead   BAE 
+OH LEFT   ELAM    BAE 
+OH RIGHT   CU  copperhead   BAE 
+OH RIGHT   ELAM    BAE 
+OH XY LEFT   AR  STEREO   BAE 
+OH XY RIGHT   AR  STEREO   BAE 
+KEYS LEFT   DI   LaChappel 
+KEYS RIGHT   DI   LaChappel 
+BASS   DI    API 
+BASS CAB   CU  copperhead   BAE 
+BASS CAB   U   BAE 
+GUITAR   AK mkII   BAE 
+GUITAR   AR    BAE 
+GUITAR   CU  copperhead   BAE 
+GUITAR   M (stock)   BAE 
+GUITAR M (M instrument prototype)   BAE 
+GUITAR ROOM   U   BAE 
+CHORUS VOCAL   U   BAE 
+CHORUS VOCALS   C   BAE 
+GROUP VOCALS    U   BAE 
+GROUP VOCALS   C   BAE 
+GROUP VOCALS    C   BAE 
+GROUP VOCALS    U   BAE 
+LEAD VOCALS   AK kII   BAE 
+LEAD VOCALS   ELA M    BAE 
+LEAD VOCALS   U   BAE 
+VOCALS (live scratch) M    API 
+ Kick
+ Snare
+ Tom
+ Tom
+ OverheadMono
+ OverheadsStereo
+ DrumsRoom
+ BassDI
+ ElecGtrMic
+ ElecGtrMic
+ LeadVox
+ LeadVoxDT
+ BackingVox
+ BackingVox
+ BackingVox
