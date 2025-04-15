@@ -1,96 +1,113 @@
-#  The script will take the link to a miuxing forum specific to a genre and collect data 
-
 import requests
 from bs4 import BeautifulSoup
 import json
 import os
+import time
 from tqdm import tqdm
+from tenacity import retry, wait_exponential, stop_after_attempt
+
+# Define a user-agent to mimic a real browser
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+}
+
+# Retry failed requests with exponential backoff
+@retry(wait=wait_exponential(multiplier=1, min=4, max=10), stop=stop_after_attempt(5))
+def fetch_url(url):
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=10)
+        response.raise_for_status()
+        return response.content
+    except requests.exceptions.RequestException as e:
+        print(f"Request failed: {e}")
+        return None
 
 def find_song_names_forumlink(soup):
-        # Find all <strong> tags containing song names and usernames
+    """Find all songs and their respective forum links."""
     strong_tags = soup.find_all('strong')
-    aaa_tags = soup.find_all('a')
-    # print(aaa_tags)
-    #if the aaa_tags['href'] is a url, then add to the list of urls
-    url = []
-    #create a dictionary to store the song names and the urls to the forums pertaining to the song
     song_dict = {}
-    # Extract links to forums with song names and usernames
-    for strong_tag in tqdm(strong_tags):
+
+    for strong_tag in tqdm(strong_tags, desc="Extracting song names and links"):
         a_tag = strong_tag.find('a')
-        #print(a_tag)
         if a_tag:
             forum_link = "https://discussion.cambridge-mt.com/" + a_tag['href']
             song_name = a_tag.get_text()
-            song_dict[song_name] = {}
-            song_dict[song_name]['forum_link'] = forum_link
-    # print(song_dict)
-    print(len(song_dict), "songs found.")
+            song_dict[song_name] = {'forum_link': forum_link}
+
+    print(f"{len(song_dict)} songs found.")
     return song_dict
 
 def find_thread_info(song_dict):
-    for key, value in tqdm(song_dict.items()):
-    # Extracting the number of pages
+    """Find threads, authors, ratings, and views for each song."""
+    for key, value in tqdm(song_dict.items(), desc="Scraping thread data"):
         song_forum_url = value['forum_link']
-        
-        song_forum_html = requests.get(song_forum_url).content
+        time.sleep(1)  # Slow down requests
+
+        song_forum_html = fetch_url(song_forum_url)
+        if not song_forum_html:
+            print(f"Skipping {key} due to request failure.")
+            continue
+
         song_forum_soup = BeautifulSoup(song_forum_html, 'html.parser')
-        # Extracting the number of pages
         pages_element = song_forum_soup.find('span', class_='pages')
-        if pages_element:
-            pages_text = pages_element.get_text(strip=True)
-            # Extracting the number of pages from the text
-            pages_number = int(pages_text.split('(')[1].split(')')[0])
-            # print("Number of pages:", pages_number)
-        else:
-            print("No page information found.")
-        threads = []
-        #parse through all the pages and add it to html
-        for i in range(1, pages_number + 1):
-
-            if i == 1:
-                song_forum_url = value['forum_link']
-            else:
-                song_forum_url = value['forum_link'] + "&page=" + str(i)
-            song_forum_html = requests.get(song_forum_url).content
-            song_forum_soup = BeautifulSoup(song_forum_html, 'html.parser')
-            mixes = song_forum_soup.find_all('tr', class_='inline_row')
-
-            # Extracting data
         
+        pages_number = 1
+        if pages_element:
+            try:
+                pages_text = pages_element.get_text(strip=True)
+                pages_number = int(pages_text.split('(')[1].split(')')[0])
+            except ValueError:
+                print(f"Could not parse pages for {key}, defaulting to 1.")
+
+        threads = []
+
+        for i in range(1, pages_number + 1):
+            page_url = value['forum_link'] if i == 1 else f"{value['forum_link']}&page={i}"
+            time.sleep(1)  # Slow down requests
+
+            page_html = fetch_url(page_url)
+            if not page_html:
+                print(f"Skipping page {i} for {key} due to request failure.")
+                continue
+
+            page_soup = BeautifulSoup(page_html, 'html.parser')
+            mixes = page_soup.find_all('tr', class_='inline_row')
+            print(mixes)
+
             for row in mixes:
                 try:
                     thread_link = row.find('span', class_='subject_new').a['href']
-                except:
+                except AttributeError:
                     thread_link = "none"
+                
                 try:
-                    #print(thread_link)
-                    thread_title = row.find('span', class_='subject_new').text
-                except:
+                    thread_title = row.find('span', class_='subject_new').text.strip()
+                except AttributeError:
                     thread_title = "none"
-                    #print(thread_title)
+
                 try:
                     thread_author_link = row.find('div', class_='author').a['href']
-                except:
+                except AttributeError:
                     thread_author_link = "none"
+                
                 try:
-                    thread_author = row.find('div', class_='author').a.text
-                except:
+                    thread_author = row.find('div', class_='author').a.text.strip()
+                except AttributeError:
                     thread_author = "none"
+
                 try:
-                    #print(thread_author)
                     thread_rating = row.find('ul', class_='star_rating').find('li').text.strip()
-                except:
+                except AttributeError:
                     thread_rating = "none"
 
-                #print(thread_rating)
                 try:
                     thread_views = row.find_all('td', class_='trow1')[4].text.strip()
-                except:
-                    thread_views = row.find_all('td', class_='trow2')[4].text.strip()
-                #print(thread_views)
-                
-                
+                except (AttributeError, IndexError):
+                    try:
+                        thread_views = row.find_all('td', class_='trow2')[4].text.strip()
+                    except (AttributeError, IndexError):
+                        thread_views = "none"
+
                 threads.append({
                     'Thread Link': thread_link,
                     'Thread Title': thread_title,
@@ -99,7 +116,7 @@ def find_thread_info(song_dict):
                     'Thread Rating': thread_rating,
                     'Thread Views': thread_views
                 })
-        # print("number of threads found:", len(threads))
+
         song_dict[key]['threads'] = threads
     return song_dict
 
@@ -113,28 +130,22 @@ def save_metadata(file_name, data):
         print(f"Error saving metadata to {file_name}: {e}")
 
 if __name__ == "__main__":
-    #insert the url of the mixing forum from Cambridge MT that you want to scrape
-    #find the forum here: https://discussion.cambridge-mt.com/forumdisplay.php?fid=184 
-    # this is the url specific for a genre
-    url = input("Enter the URL of the Genre forum to scrape metadata, check here (https://discussion.cambridge-mt.com/forumdisplay.php?fid=184) ") or 'https://discussion.cambridge-mt.com/forumdisplay.php?fid=6'
-    # url = "https://discussion.cambridge-mt.com/forumdisplay.php?fid=6"
-    #get the html content of the page
-    html = requests.get(url).content
-    # print(html.decode("utf-8"))
-    # Parse the HTML content
+    url = input("Enter the URL of the Genre forum to scrape metadata: ") or 'https://discussion.cambridge-mt.com/forumdisplay.php?fid=6'
+
+    print("Fetching forum page...")
+    html = fetch_url(url)
+    if not html:
+        print("Failed to fetch the forum page. Exiting.")
+        exit(1)
+
     soup = BeautifulSoup(html, 'html.parser')
     file_name = soup.title.string.strip() + ".json"
-    save_dir = os.path.join('data/forum', file_name)
-    # if os.path.exists(save_dir) is False:
-    #     os.makedirs(os.path.dirname(save_dir), exist_ok=True)
-    print("Scraping metadata from", file_name.replace(".json", ""))
-    print("finding song names and forum links")
+    save_dir = os.path.join('/data4/soumya/MSF_forum/metadata', file_name)
+
+    print(f"Scraping metadata from {file_name.replace('.json', '')}...")
     song_dict = find_song_names_forumlink(soup)
     save_metadata(save_dir, song_dict)
-    print("Finding thread information")
-    #now we will extract the link to the threads within a song forum along with the number of views, ratings (between 0-5) and the author of the thread
+
+    print("Finding thread information...")
     song_dict_with_threads_info = find_thread_info(song_dict)
-    #write to a json file which will be later used to download audio files
-    # create a json file to save the song_dict
     save_metadata(save_dir, song_dict_with_threads_info)
- 
