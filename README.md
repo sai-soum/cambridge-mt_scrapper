@@ -37,6 +37,7 @@ This repository is structured the following way:
         - ```forum_scrapper``` : Contains scripts for scrapping metadata from the forums. The approach follows genre-wise scrapping and the data is stored in./data/forum/ . Further, you can use provided scripts for downloading all the different mixes created by participants in the forum.
         - ```multitrack_scrapper```: This folder contains scripts pertaining to the main website. The scripts allow to scrape metadata and download audio files and multitrack.
         - ```data_analysis```: This folder contains Jupyter notebooks with some basic data analysis about the data available in the forum and the website.
+        - ```post_processing```: This folder contains scripts for alligning mixes to multitracks, naming the multitrack instrument groups, extracting audio features.
     - ```data```: Contains scrapped textual and metadata from the websites. Many of these are used for downloading audio and multitracks as well. 
 
 To start, create a virtual environment using either ```conda``` or ```pip```.
@@ -51,6 +52,7 @@ pip install -r requirments.txt
 ### Metadata Scrapping
 To collect metadata from the multitrack website about song names, artists name, genre, links to full and excerpt previews and corresponding multitrack, and more, run 
 ``` python cmt-mtk/multitrack_scrapper/scrape_metadata.py```
+- Currently ```data/multitrack_website``` contains all the downloaded metadata for forum.
 ### Audio Download
 Next, download audio using
 ``` python cmt-mtk/multitrack_scrapper/download_dataset.py ```
@@ -60,7 +62,7 @@ Next, download audio using
 We first generate a .json file with song_names and links to the forum. This is done genre-by-genre. You will need to provide URL for a specific genre mixing forum. Find the link [here](https://discussion.cambridge-mt.com/forumdisplay.php?fid=184).
 Run:
 ``` python cmt-mtk/forum_scrapper/scrape_metadata.py ```
-
+- Currently ```data/forum/metadata``` contains all the downloaded metadata for forum.
 ### Audio Download 
 Once you have scrapped the metadata, we will use the .json file to find links to download. 
 Run:
