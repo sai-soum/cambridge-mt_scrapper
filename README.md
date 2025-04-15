@@ -70,6 +70,9 @@ Run:
 
 You can find all the scrapped metadata saved in the ```data/```.
 
+*Some of the code was corrected and optimised with the help of ChatGPT
+*A part of the multitrack audio downloader was inspired by https://github.com/mimbres/Cambridge-MT-Downloader 
 
+This repository was updated by Soumya during her internship at SonyAI, Tokyo in Jan 2025 from Sony email-based Github account. 
 
 
