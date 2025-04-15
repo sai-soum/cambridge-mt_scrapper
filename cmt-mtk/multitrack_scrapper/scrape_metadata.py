@@ -27,7 +27,9 @@ try:
         # Extract genre and artist name
         genre = artist.find_previous("h3").text.strip() if artist.find_previous("h3") else "Unknown Genre"
         artist_name = artist.find("h4", class_="m-container__title-bar-item").text.strip() if artist.find("h4", class_="m-container__title-bar-item") else "Unknown Artist"
-
+        genre_span = artist.find("span", class_="m-container__title-bar-item")
+        specific_genre = genre_span.text.strip() if genre_span else "Unknown Genre"
+        # print(f"Processing {artist_name} from {genre} ({specific_genre})")
         # Extract tracks
         tracks = artist.find_all("li", class_="m-mtk-track")
 
@@ -100,6 +102,7 @@ try:
             # Append data for the track
             data.append({
                 "Genre": genre,
+                "Specific Genre": specific_genre,
                 "Artist": artist_name,
                 "Track Name": track_name,
                 "Full Multitrack Link": full_multitrack_link,
@@ -116,7 +119,7 @@ try:
 
     # Convert the data into a DataFrame and save to CSV
     df = pd.DataFrame(data)
-    df.to_csv("data/multitrack_website/metadata.csv", index=False)
+    df.to_csv("data/multitrack_website/metadata_with_fine_genre.csv", index=False)
 
     print("Data scraped and saved to metadata.csv")
 

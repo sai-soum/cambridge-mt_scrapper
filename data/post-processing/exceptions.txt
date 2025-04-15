@@ -1,0 +1,8 @@
+/home/soumya/grafx-prune/code/data/mixing_secrets/metadata/AllHandsLost_Ambitions/correspondence.yaml
+'list' object has no attribute 'keys'
+/home/soumya/grafx-prune/code/data/mixing_secrets/metadata/Galias_Horizon/correspondence.yaml
+'list' object has no attribute 'keys'
+/home/soumya/grafx-prune/code/data/mixing_secrets/metadata/UTGandhi_Arto/correspondence.yaml
+'list' object has no attribute 'keys'
+/home/soumya/grafx-prune/code/data/mixing_secrets/metadata/WessMeetsWest_64Bristol/correspondence.yaml
+'list' object has no attribute 'keys'
